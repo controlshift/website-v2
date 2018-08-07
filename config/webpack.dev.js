@@ -14,10 +14,10 @@ module.exports = Merge(CommonConfig, {
   plugins: [
     new BrowserSyncPlugin(
       {
-        host: 'localhost',
-        port: 3000,
-        proxy: 'http://localhost:8080',
-        files: ["_site", "_src"]
+        host: '0.0.0.0',
+        port: 5000,
+        proxy: 'http://localhost:5001',
+        files: ["_site", "_src", "_layouts"]
       },
       {
         reload: false

@@ -1,20 +1,22 @@
-<nav class="navigation" role="banner">
-    {% assign default_paths = site.pages | map: "path" %}
-    {% assign page_paths = site.navigation_pages | default: default_paths %}
-    <div class="navigation__branding">
-      <a class="navigation__logo" href="{{ "/" | relative_url }}"><img src="{{ "/assets/images/icon.png" | relative_url }}" class="navigation__logo-img" alt=""></a>
-      <a class="navigation__title" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+<div class="container">
+  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <a class="navbar-brand" href="#"><img src="/assets/images/logo.png" class="img-responsive" /></a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item">
+          <a class="nav-link" href="#">Support</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Blog</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Let's Talk</a>
+        </li>
+      </ul>
     </div>
-    <div class="navigation__links">
-      {% if page_paths %}
-          {% for path in page_paths %}
-            {% assign my_page = site.pages | where: "path", path | first %}
-            {% if my_page.title %}
-              {% unless my_page.url contains site.ampdir %}
-                <a class="navigation__link{% if my_page.url == page.url %} navigation__link--active{% endif %}" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
-              {% endunless %}
-            {% endif %}
-          {% endfor %}
-      {% endif %}
-    </div>
-</nav>
+  </nav>
+</div>
