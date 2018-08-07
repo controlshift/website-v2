@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A new boilerplate"
+title:  "A new boilerplate - v3"
 date:   2017-08-08 16:16:01 -0600
 categories: jekyll boilerplate
 author: Sandoche ADITTANE
