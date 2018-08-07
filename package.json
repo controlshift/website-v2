@@ -51,6 +51,5 @@
   },
   "dependencies": {
     "normalize.css": "^7.0.0"
-  },
-  "cacheDirectories": ["~/.yarn-cache"]
+  }
 }
