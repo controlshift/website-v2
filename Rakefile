@@ -1,3 +1,3 @@
 task "assets:precompile" do
-  exec("npm build")
+  exec("npm run build")
 end
