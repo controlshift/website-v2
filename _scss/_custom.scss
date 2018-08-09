@@ -73,12 +73,12 @@ $colors: map-merge(
 );
 
 $primary: white;
-$secondary:     $gray-600 !default;
+$secondary:     #0f91c2;
 $success:       $green !default;
 $info:          $cyan !default;
 $warning:       $yellow !default;
 $danger:        $red !default;
-$light:         $gray-100 !default;
+$light:         #f5fcff;
 $dark:          #0a85b3;
 $black:         #000;
 
@@ -94,7 +94,7 @@ $theme-colors: map-merge(
     "danger":     $danger,
     "light":      $light,
     "dark":       $dark,
-    "black": $black
+    "black":      $black
   ),
   $theme-colors
 );
@@ -162,8 +162,8 @@ $sizes: map-merge(
 //
 // Settings for the `<body>` element.
 
-$body-bg: #0f91c2;
-$body-color: #fff;
+$body-bg: $secondary;
+$body-color: $primary;
 
 // Links
 //
