@@ -82,6 +82,35 @@ ul.text-list {
   }
 }
 
+.tablet-graphic {
+  direction: rtl;
+
+  .screen {
+    position: absolute;
+    top: 29px;
+    right: 170px;
+  }
+}
+
+.mobile-graphic {
+  direction: rtl;
+  position: relative;
+
+  &:first-child {
+    transform: translateX(52px)
+  }
+
+  .frame {
+    width: 420px;
+  }
+
+  .screen {
+    position: absolute;
+    top: 58px;
+    left: 63px;
+  }
+}
+
 .selling-point {
   img {
     margin-bottom: $spacer * 0.5;
