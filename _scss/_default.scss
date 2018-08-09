@@ -1,9 +1,18 @@
 p, ul {
   font-family: Grafik-Regular;
+
+  .btn {
+    font-family: Grafik-Medium;
+  }
 }
 
 img.faded {
   opacity: 0.6;
+}
+
+.navbar-nav .nav-link.btn {
+  padding-left: $input-btn-padding-x;
+  padding-right: $input-btn-padding-x;
 }
 
 ul.text-list {
@@ -33,12 +42,8 @@ ul.text-list {
 .navbar-nav > li {
   padding-left:21px;
   padding-right:21px;
-
-  .btn.btn-outline-primary {
-    padding-left: 35px;
-    padding-right: 35px;
-  }
 }
+
 
 .btn-primary {
   color: $body-bg;
@@ -48,9 +53,22 @@ ul.text-list {
   border-radius: 15px;
 }
 
-.nav-item.active {
+.nav-tabs {
   .nav-link {
-    text-decoration: underline;
+    &:hover {
+      border: 0px;
+      border-bottom: 1px solid $white;
+    }
+    &.active {
+      border: 0px;
+      border-bottom: 1px solid $white;
+      color: $white;
+
+      &:hover {
+        border: 0px;
+        border-bottom: 1px solid $white;
+      }
+    }
   }
 }
 
