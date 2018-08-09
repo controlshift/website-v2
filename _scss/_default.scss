@@ -7,3 +7,17 @@
     padding-right: 35px;
   }
 }
+
+.btn-primary {
+  color: $body-bg;
+}
+
+.img-rounded {
+  border-radius: 15px;
+}
+
+.nav-item.active {
+  .nav-link {
+    text-decoration: underline;
+  }
+}

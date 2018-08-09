@@ -22,7 +22,11 @@ module.exports = {
     new CopyWebpackPlugin([{
       from: path.resolve('_images'),
       to: 'images/'
-    }])
+    }]),
+    new webpack.ProvidePlugin({
+      jQuery: 'jquery',
+      $: 'jquery'
+    })
   ],
   module: {
     rules: [
