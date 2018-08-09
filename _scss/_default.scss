@@ -92,22 +92,36 @@ ul.text-list {
   }
 }
 
-.mobile-graphic {
-  direction: rtl;
+.mobile-graphics {
+  height: 515px;
+
+  .mobile-graphic {
+    direction: rtl;
+    position: relative;
+
+    &:first-child {
+      transform: translateX(52px)
+    }
+
+    .frame {
+      width: 420px;
+    }
+
+    .screen {
+      position: absolute;
+      top: 58px;
+      left: 63px;
+    }
+  }
+}
+
+.mobile-graphic-lg {
   position: relative;
-
-  &:first-child {
-    transform: translateX(52px)
-  }
-
-  .frame {
-    width: 420px;
-  }
 
   .screen {
     position: absolute;
-    top: 58px;
-    left: 63px;
+    top: 61px;
+    left: 65px;
   }
 }
 
