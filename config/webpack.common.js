@@ -23,6 +23,10 @@ module.exports = {
       from: path.resolve('_images'),
       to: 'images/'
     }]),
+    new CopyWebpackPlugin([{
+      from: path.resolve('_fonts'),
+      to: 'fonts/'
+    }]),
     new webpack.ProvidePlugin({
       jQuery: 'jquery',
       $: 'jquery'
