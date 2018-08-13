@@ -6,6 +6,11 @@ p, ul {
   }
 }
 
+.center-overflow {
+  margin-left: 50%;
+  transform: translateX(-50%);
+}
+
 img.faded {
   opacity: 0.6;
 }
@@ -193,6 +198,8 @@ ul.text-list {
     right: 300px;
   }
 }
+
+
 
 
 
