@@ -130,3 +130,69 @@ ul.text-list {
     margin-bottom: $spacer * 0.5;
   }
 }
+
+.graphic-people-container {
+  position: relative;
+  height: 200px;
+
+  .graphic-people {
+    display: inline-block;
+    background: $light;
+    position: absolute;
+    z-index: 99;
+    bottom: 0px;
+
+    &#people-local-group {
+      left: 100px;
+    }
+
+    &#people-mom-daughter {
+      left: 400px;
+    }
+
+    img {
+      vertical-align: bottom;
+      padding: 5px;
+    }
+  }
+}
+
+.dotted-border-right {
+  @include dottedBorder($color: #0f91c2, $size: 2px, $spacing: 9px, $position: right, $orientation: vertical)
+  display: inline-block;
+  margin-top: 278px;
+  height: 820px;
+  width: 3px;
+  position: relative;
+}
+
+.dotted-border-top {
+  @include dottedBorder($color: #0f91c2, $size: 2px, $spacing: 9px, $position: top)
+  position: absolute;
+  right: -505px;
+  height: 10px;
+  width: 500px;
+}
+
+.dotted-border-bottom {
+  @include dottedBorder($color: #0f91c2, $size: 2px, $spacing: 9px, $position: top)
+  position: absolute;
+  left: -345px;
+  top: 508px;
+  height: 10px;
+  width: 340px;
+}
+
+.graphic-bike-container {
+  position: relative;
+  height: 100px;
+
+  img {
+    position: absolute;
+    top: -120px;
+    right: 300px;
+  }
+}
+
+
+
