@@ -6,6 +6,10 @@ p, ul {
   }
 }
 
+main {
+  overflow: hidden;
+}
+
 .center-overflow {
   margin-left: 50%;
   transform: translateX(-50%);
@@ -78,17 +82,48 @@ ul.text-list {
 }
 
 .desktop-graphic {
+
+  @include media-breakpoint-down(xs) {
+    padding: 0px;
+    text-align: right;
+
+    img {
+      width: 400px;
+      max-width: 90%;
+    }
+  }
+
   .frame {
 
   }
+
   .screen {
     position: absolute;
     top: 49px;
+    display: block;
+
+    @include media-breakpoint-down(xs) {
+      top: 22px;
+      right: 0px;
+    }
   }
 }
 
+
+/* MAP SECTION */
+
 .tablet-graphic {
   direction: rtl;
+
+  @include media-breakpoint-down(xs) {
+    padding: 0px;
+    text-align: right;
+
+    img {
+      height: 250px;
+      max-width: 90%;
+    }
+  }
 
   .screen {
     position: absolute;
@@ -149,10 +184,19 @@ ul.text-list {
 
     &#people-local-group {
       left: 100px;
+      @include media-breakpoint-down(sm) {
+        left: 50px;
+      }
     }
 
     &#people-mom-daughter {
       left: 400px;
+      @include media-breakpoint-down(sm) {
+        left: inherit;
+        right: -50px;
+        bottom: 5px;
+        background: none;
+      }
     }
 
     img {
@@ -182,10 +226,19 @@ ul.text-list {
 .dotted-border-bottom {
   @include dottedBorder($color: #0f91c2, $size: 2px, $spacing: 9px, $position: top)
   position: absolute;
-  left: -345px;
-  top: 508px;
   height: 10px;
-  width: 340px;
+
+  &.desktop {
+    left: -345px;
+    top: 508px;
+    width: 340px;
+  }
+
+  &.mobile {
+    width: 640px;
+    right: 60px;
+    bottom: 3px;
+  }
 }
 
 .graphic-bike-container {

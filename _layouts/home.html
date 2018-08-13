@@ -16,23 +16,23 @@ layout: default
   <div class="row mt-3 mt-sm-5" id="trusted-by">
     <div class="col-md-12">
       <div class="card bg-dark border-0">
-        <div class="card-body pl-3 pr-3 pb-2 pt-2">
+        <div class="card-body pl-3 pr-3 pb-2 pt-2 pb-sm-0 pt-sm-0">
           <div class="row">
             <div class="col-md-5 d-flex align-items-center">
               <span class="align-middle">Trusted by organizations in 25 countries including:</span>
             </div>
             <div class="col-md-7">
               <div class="row text-center">
-                <div class="col-md-3 mt-0 mt-sm-2">
+                <div class="col-md-3 mt-0 mt-sm-1 mb-sm-1">
                   <img src="/assets/images/logo-350.png" alt="Logo for 350.org" />
                 </div>
-                <div class="col-md-3 mt-0 mt-sm-2">
+                <div class="col-md-3 mt-0 mt-sm-1 mb-sm-1">
                   <img src="/assets/images/logo-united-we-dream.png" alt="Logo for United We Dream" />
                 </div>
-                <div class="col-md-3 mt-0 mt-sm-2">
+                <div class="col-md-3 mt-0 mt-sm-1 mb-sm-1">
                   <img src="/assets/images/logo-get-up.png" alt="Logo for GetUp!" />
                 </div>
-                <div class="col-md-3 mt-0 mt-sm-2">
+                <div class="col-md-3 mt-0 mt-sm-1 mb-sm-1">
                   <img src="/assets/images/logo-color-of-change.png" alt="Logo for Color of Change" />
                 </div>
               </div>
@@ -67,7 +67,7 @@ layout: default
       <div class="tab-content" id="myTabContent">
         <div class="tab-pane fade" id="distributed-events" role="tabpanel" aria-labelledby="distributed-events-tab">
           <div class="row">
-            <div class="col-md-5 pr-3 mb-4">
+            <div class="col-md-5 pr-3 mb-2 mb-sm-4">
               <h4>Distributed events content</h4>
               <ul class="text-list">
                 <li>
@@ -93,7 +93,7 @@ layout: default
         </div>
         <div class="tab-pane fade show active" id="local-groups" role="tabpanel" aria-labelledby="local-groups-tab">
           <div class="row">
-            <div class="col-md-5 pr-3 mb-4">
+            <div class="col-md-5 pr-3 mb-2 mb-sm-4">
               <h4>Local Organizing Teams</h4>
               <ul class="text-list">
                 <li>
@@ -119,7 +119,7 @@ layout: default
         </div>
         <div class="tab-pane fade" id="member-campaigns" role="tabpanel" aria-labelledby="member-campaigns-tab">
           <div class="row">
-            <div class="col-md-5 pr-3 mb-4">
+            <div class="col-md-5 pr-3 mb-2 mb-sm-4">
               <h4>Member campaigns content</h4>
               <ul class="text-list">
                 <li>
@@ -149,14 +149,36 @@ layout: default
 </div>
 
 <div class="container-fluid bg-light text-black">
-  <div class="container">
-    <div class="row pt-4" id="map-section">
-      <div class="col-md-7" id="map-left-col">
+  <div class="container p-0">
+    <div class="row pt-2 pt-md-4" id="map-section">
+      <div class="col-md-4 order-md-1">
+        <div class="mt-2 mb-2 mt-md-4 mb-md-4">
+          <div class="graphic-people-container">
+            <div class="graphic-people" id="people-local-group">
+              <img src="/assets/images/image-peeps-sign.png" />
+            </div>
+            <div class="graphic-people" id="people-mom-daughter">
+              <img src="/assets/images/image-mom-daughter.png" />
+            </div>
+            <div class="dotted-border-bottom mobile d-md-none"></div>
+          </div>
+        </div>
+        <div class="pl-0 pl-md-3">
+          <h3>Make your organizing more local and participatory</h3>
+          <p>ControlShift empowers your members to play more active roles in achieving your mission.</p>
+        </div>
+        <div class="mobile-graphic-lg mt-3 d-none d-md-block">
+          <img class="frame" src="/assets/images/vector-mobile.svg" />
+          <img class="screen" src="/assets/images/local-groups-mobile-screen.png" />
+        </div>
+      </div>
+
+      <div class="col-md-7">
         <div class="tablet-graphic">
           <img class="frame" src="/assets/images/vector-tablet.svg" />
           <img class="screen" src="/assets/images/home-page-screen.png" />
         </div>
-        <div class="graphic-bike-container">
+        <div class="graphic-bike-container d-none d-sm-block">
           <img src="/assets/images/biker.png" />
         </div>
         <div class="d-flex justify-content-end mobile-graphics">
@@ -171,42 +193,21 @@ layout: default
         </div>
       </div>
 
-      <div class="col-md-1">
+      <div class="col-md-1 d-none d-md-block">
         <center>
           <div class="dotted-border-right">
             <div class="dotted-border-top" style=""></div>
-            <div class="dotted-border-bottom"></div>
+            <div class="dotted-border-bottom desktop"></div>
           </div>
         </center>
         <center><img src="/assets/images/image-man-walking.png" /></center>
-      </div>
-
-      <div class="col-md-4">
-        <div class="mt-4 mb-4">
-          <div class="graphic-people-container">
-            <div class="graphic-people" id="people-local-group">
-              <img src="/assets/images/image-peeps-sign.png" />
-            </div>
-            <div class="graphic-people" id="people-mom-daughter">
-              <img src="/assets/images/image-mom-daughter.png" />
-            </div>
-          </div>
-        </div>
-        <div class="pl-3">
-          <h3>Make your organizing more local and participatory</h3>
-          <p>ControlShift empowers your members to play more active roles in achieving your mission.</p>
-        </div>
-        <div class="mobile-graphic-lg mt-3">
-          <img class="frame" src="/assets/images/vector-mobile.svg" />
-          <img class="screen" src="/assets/images/local-groups-mobile-screen.png" />
-        </div>
       </div>
     </div>
   </div>
 </div>
 
 <div class="container-fluid bg-white text-black">
-  <div class="container">
+  <div class="container p-0">
     <div class="row pt-5" id="selling-points-1">
       <div class="col-md-4 selling-point">
         <img src="/assets/images/reliability.svg" />
