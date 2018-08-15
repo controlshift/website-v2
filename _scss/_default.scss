@@ -132,6 +132,44 @@ ul.text-list {
   }
 }
 
+@mixin caseStudyOnClick() {
+  .case-study-label {
+    position: absolute;
+    top: 400px;
+    left: 250px;
+    width: 150px;
+    height: 40px;
+    color: $primary;
+    background: $secondary;
+    display: none;
+    padding: 6px;
+    z-index: 99;
+
+    &:before {
+      content: "";
+      position: absolute;
+      left: -20px;
+      bottom: 0;
+      width: 0;
+      height: 0;
+      border-right: 20px solid $secondary;
+      border-top: 20px solid transparent;
+      border-bottom: 20px solid transparent;
+    }
+  }
+
+  &:hover {
+    img {
+      filter: brightness(65%);
+    }
+    cursor: pointer;
+
+    .case-study-label {
+      display: inherit;
+    }
+  }
+}
+
 .mobile-graphics {
   height: 515px;
 
@@ -151,6 +189,8 @@ ul.text-list {
       position: absolute;
       top: 58px;
       left: 63px;
+
+      @include caseStudyOnClick()
     }
   }
 }
@@ -162,6 +202,8 @@ ul.text-list {
     position: absolute;
     top: 61px;
     left: 65px;
+
+    @include caseStudyOnClick()
   }
 }
 
@@ -252,7 +294,11 @@ ul.text-list {
   }
 }
 
+/* FOOTER */
 
+.sub-footer {
+  font-size: 0.8em;
+}
 
 
 
