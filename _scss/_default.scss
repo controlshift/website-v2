@@ -219,14 +219,26 @@ ul.text-list {
 
     .frame {
       width: 420px;
+      @include media-breakpoint-down(sm) {
+        position: absolute;
+        left: 50%;
+        transform: translateX(-50%);
+      }
     }
 
     .screen {
+      @include caseStudyOnClick()
       position: absolute;
       top: 58px;
       left: 63px;
 
-      @include caseStudyOnClick()
+      @include media-breakpoint-down(sm) {
+        position: absolute;
+        left: 50%;
+        transform: translateX(-50%);
+
+        img { width: 290px; }
+      }
     }
   }
 }
@@ -242,6 +254,12 @@ ul.text-list {
     @include caseStudyOnClick()
   }
 }
+
+.carousel-inner {
+  overflow: visible;
+}
+
+/* SELLING POINTS */
 
 .selling-point {
   img {
