@@ -188,6 +188,10 @@ ul.text-list {
     direction: rtl;
     position: relative;
 
+    &.left { z-index: 99; }
+    &.right { z-index: 1; }
+
+
     &:first-child {
       transform: translateX(52px)
     }
