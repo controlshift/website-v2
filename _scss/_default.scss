@@ -19,9 +19,20 @@ img.faded {
   opacity: 0.6;
 }
 
-.navbar-nav .nav-link.btn {
-  padding-left: $input-btn-padding-x;
-  padding-right: $input-btn-padding-x;
+.navbar-nav .nav-link {
+
+  &:hover, &:focus {
+    color: $primary !important;
+  }
+
+  &.btn {
+    padding-left: $input-btn-padding-x;
+    padding-right: $input-btn-padding-x;
+
+    &:hover, &:focus {
+      color: $secondary !important;
+    }
+  }
 }
 
 ul.text-list {
