@@ -212,7 +212,9 @@ ul.text-list {
     &.right { z-index: 1; }
 
     &:first-child {
-      transform: translateX(52px)
+      @include media-breakpoint-up(md) {
+        transform: translateX(52px)
+      }
     }
 
     .frame {
