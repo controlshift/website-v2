@@ -128,11 +128,17 @@ ul.text-list {
 
   @include media-breakpoint-down(xs) {
     padding: 0px;
-    text-align: right;
+    text-align: left;
+    direction: ltr;
+    padding-left: 0px;
+    padding-right: 0px;
 
-    img {
-      height: 250px;
-      max-width: 90%;
+    img.frame {
+      height: 300px;
+    }
+
+    img.screen {
+      height: 245px;
     }
   }
 
@@ -140,6 +146,16 @@ ul.text-list {
     position: absolute;
     top: 29px;
     right: 170px;
+
+    @include media-breakpoint-down(sm) {
+      top: 150px;
+    }
+
+    @include media-breakpoint-down(xs) {
+      top: 132px;
+      right: inherit;
+      left: 0px;
+    }
   }
 }
 
@@ -186,11 +202,14 @@ ul.text-list {
 
   .mobile-graphic {
     direction: rtl;
+    @include media-breakpoint-down(sm) {
+      direction: ltr;
+    }
+
     position: relative;
 
     &.left { z-index: 99; }
     &.right { z-index: 1; }
-
 
     &:first-child {
       transform: translateX(52px)
