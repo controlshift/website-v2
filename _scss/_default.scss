@@ -332,9 +332,20 @@ ul.text-list {
 
 /* FOOTER */
 
+.status-indicator {
+  margin: 10px;
+  font-size: 1.2em;
+
+  .none { color: #7af5a3 }
+  .minor { color: #ff9933 }
+  .major { color: #ff3333 }
+}
+
+.status-description {
+  font-family: Grafik-Regular
+}
+
 .sub-footer {
   font-size: 0.8em;
 }
-
-
 
