@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="56" height="54" viewBox="0 0 56 54">
+    <g fill="none" fill-rule="evenodd">
+        <path stroke="#0F91C2" stroke-width="1.5" d="M8 24V2l15 15.446h-9.124zM14 17l5 12"/>
+        <path fill="#0F91C2" d="M0 30l2.742-2.979H7L0 20z"/>
+        <path stroke="#0F91C2" stroke-width="1.5" d="M3 27l2 6"/>
+        <path fill="#0F91C2" d="M44 39V29l7 7.021h-4.258z"/>
+        <path stroke="#0F91C2" stroke-width="1.5" d="M46 36l2 6"/>
+        <path fill="#0F91C2" d="M37 13V6l5 4.915h-3.041z"/>
+        <path stroke="#0F91C2" stroke-width="1.5" d="M39 11l2 4"/>
+        <path fill="#0F91C2" d="M43 19V9l7 7.021h-4.258z"/>
+        <path stroke="#0F91C2" stroke-width="1.5" d="M46 17l2 6"/>
+        <path fill="#0F91C2" d="M51 31l1.96-2.383H56L51 23z"/>
+        <path stroke="#0F91C2" stroke-width="1.5" d="M53 28l2 4"/>
+        <path fill="#0F91C2" d="M41 47v-5l4 3.51h-2.432z"/>
+        <path stroke="#0F91C2" stroke-width="1.5" d="M43 46l1 3"/>
+        <path fill="#0F91C2" d="M3 41v-7l5 4.915H4.96z"/>
+        <path stroke="#0F91C2" stroke-width="1.5" d="M5 39l2 4"/>
+        <path fill="#0F91C2" d="M29 47V34l9 9.127h-5.474z"/>
+        <path stroke="#0F91C2" stroke-width="1.5" d="M32 43l3 7"/>
+        <path fill="#0F91C2" d="M27 33V9l17 16.85H33.66z"/>
+        <path stroke="#0F91C2" stroke-width="1.5" d="M33 25l5 14M12 48V31l12 11.936h-7.299zM17 43l4 10"/>
+    </g>
+</svg>

@@ -40,6 +40,6 @@ module.exports = Merge(CommonConfig, {
     contentBase: [
       path.resolve('_site'),
     ],
-    hot: true,
+    hot: true
   },
 });

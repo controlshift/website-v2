@@ -1,0 +1,51 @@
+---
+layout: page
+title: How it works
+permalink: /how-it-works/
+---
+
+<div class="container">
+  <div id="hero">
+  	<p>How it works</p>
+  	<h1>Broadcast vs Distributed Organizing</h1>
+  	<p>ControlShift Labs is committed to the idea that people should drive social movements, even when they happen online. With a distributed organizing model, your organization can leverage the power of your supporters by giving them the opportunity to start, run, and win their own campaigns. The distributed organizing model not only allows your organization to run more numerous and diverse campaigns, but it also leads to more involved and more active supporters.</p>
+  </div>
+
+
+
+  <div id="comparisons">
+    <div class="row comparison">
+      <div class="col-md-5 comparison-left">
+        <h4>Traditional Broadcast Organizing</h4>
+        <img src="/assets/images/how_it_works/vector-traditional-organizing-main.svg" />
+      </div>
+      <div class="col-md-2 comparison-versus"></div>
+      <div class="col-md-5 comparison-right">
+        <h4>Distributed Organizing</h4>
+        <img src="/assets/images/how_it_works/vector-distributed-organizing-main.svg" />
+      </div>
+    </div>
+
+    {% for comparison in site.data.comparisons %}
+      <div class="row comparison">
+        <div class="col-md-5 comparison-left">
+          <img src="/assets/images/how_it_works/vector-traditional-{{comparison.name}}.svg" />
+          <p>{{comparison.traditional}}</p>
+        </div>
+        <div class="col-md-2 comparison-versus"></div>
+        <div class="col-md-5 comparison-right">
+          <img src="/assets/images/how_it_works/vector-distributed-{{comparison.name}}.svg" />
+          <p>{{comparison.distributed}}</p>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+
+  <div id="why-distributed"></div>
+
+  <div id="get-in-touch"></div>
+
+  <div id="endorsements"></div>
+
+
+</div>
