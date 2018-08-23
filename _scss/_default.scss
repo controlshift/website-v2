@@ -8,6 +8,7 @@ p, ul {
 
 main {
   overflow: hidden;
+  position: relative; // overflow behaves unpredictably without this
 }
 
 .center-overflow {
@@ -18,6 +19,41 @@ main {
 img.faded {
   opacity: 0.6;
 }
+
+.row-full{
+  width: 100vw;
+  position: relative;
+  margin-left: -50vw;
+  left: 50%;
+}
+
+#hero-image-xl {
+  position: absolute;
+  @include media-breakpoint-down(md) {
+    position: relative;
+  }
+
+  img {
+    position: absolute;
+    @include media-breakpoint-up(lg) {
+      right: 0px;
+      width: 60%;
+      max-width: 880px;
+    }
+
+    @include media-breakpoint-down(lg) {
+      margin-top: 70px;
+    }
+    @include media-breakpoint-down(md) {
+      position: relative;
+      margin-top: 20px;
+      margin-left: 50%;
+      transform: translateX(-50%);
+      width: 100%;
+    }
+  }
+}
+
 
 .navbar-nav .nav-link {
 
@@ -262,8 +298,22 @@ ul.text-list {
 /* SELLING POINTS */
 
 .selling-point {
+  @include media-breakpoint-down(sm) {
+    &:not(:first-child){
+      margin-top: $spacer
+    }
+  }
+
   img {
     margin-bottom: $spacer * 0.5;
+    height: 45px;
+  }
+}
+
+#integration-images-container {
+  img { 
+    max-height: 98px;
+    max-width: 180px; 
   }
 }
 
@@ -286,7 +336,7 @@ ul.text-list {
     }
 
     &#people-mom-daughter {
-      left: 400px;
+      left: 300px;
       @include media-breakpoint-down(sm) {
         left: inherit;
         right: -50px;
