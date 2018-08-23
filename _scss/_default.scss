@@ -55,8 +55,12 @@ img.faded {
 }
 
 
-.navbar-nav .nav-link {
+.nav-tabs .nav-link {
+  border: 0px;
+  border-bottom: 1px solid transparent;
+}
 
+.navbar-nav .nav-link {
   &:hover, &:focus {
     color: $primary !important;
   }
@@ -318,7 +322,7 @@ ul.text-list {
 }
 
 #integration-images-container {
-  img { 
+  img {
     max-height: 98px;
   }
 }
