@@ -274,7 +274,7 @@ ul.text-list {
     }
 
     .screen {
-      @include caseStudyOnClick()
+      @include caseStudyOnClick();
       position: absolute;
       top: 58px;
       left: 63px;
@@ -363,7 +363,7 @@ ul.text-list {
 }
 
 .dotted-border-right {
-  @include dottedBorder($color: #0f91c2, $size: 2px, $spacing: 9px, $position: right, $orientation: vertical)
+  @include dottedBorder($color: #0f91c2, $size: 2px, $spacing: 9px, $position: right, $orientation: vertical);
   display: inline-block;
   margin-top: 278px;
   height: 820px;
@@ -372,7 +372,7 @@ ul.text-list {
 }
 
 .dotted-border-top {
-  @include dottedBorder($color: #0f91c2, $size: 2px, $spacing: 9px, $position: top)
+  @include dottedBorder($color: #0f91c2, $size: 2px, $spacing: 9px, $position: top);
   position: absolute;
   right: -505px;
   height: 10px;
@@ -380,7 +380,7 @@ ul.text-list {
 }
 
 .dotted-border-bottom {
-  @include dottedBorder($color: #0f91c2, $size: 2px, $spacing: 9px, $position: top)
+  @include dottedBorder($color: #0f91c2, $size: 2px, $spacing: 9px, $position: top);
   position: absolute;
   height: 10px;
 
@@ -420,7 +420,7 @@ ul.text-list {
 }
 
 .status-description {
-  font-family: Grafik-Regular
+  font-family: SFProDisplay, Arial, sans-serif;
 }
 
 .sub-footer {
