@@ -1,8 +1,8 @@
 p, ul {
-  font-family: Grafik-Regular;
+  font-family: Grafik-Regular, SFProDisplay, Arial, sans-serif;
 
   .btn {
-    font-family: Grafik-Medium;
+    font-family: Grafik-Medium, sans-serif;
   }
 }
 
@@ -56,7 +56,7 @@ img.faded {
 
 
 .nav-tabs .nav-link {
-  border: 0px;
+  border: 0;
   border-bottom: 1px solid transparent;
 }
 
