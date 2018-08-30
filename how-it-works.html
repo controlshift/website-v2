@@ -5,47 +5,132 @@ permalink: /how-it-works/
 ---
 
 <div class="container">
-  <div id="hero">
-  	<p>How it works</p>
-  	<h1>Broadcast vs Distributed Organizing</h1>
-  	<p>ControlShift Labs is committed to the idea that people should drive social movements, even when they happen online. With a distributed organizing model, your organization can leverage the power of your supporters by giving them the opportunity to start, run, and win their own campaigns. The distributed organizing model not only allows your organization to run more numerous and diverse campaigns, but it also leads to more involved and more active supporters.</p>
-  </div>
-
-
-
-  <div id="comparisons">
-    <div class="row comparison">
-      <div class="col-md-5 comparison-left">
-        <h4>Traditional Broadcast Organizing</h4>
-        <img src="/assets/images/how_it_works/vector-traditional-organizing-main.svg" />
+  <div id="hero" class="mt-4 mb-5">
+    <div class="row">
+      <div class="col-md-8">
+      	<p>How it works</p>
+      	<h1>Broadcast vs Distributed Organizing</h1>
+      	<p>ControlShift Labs is committed to the idea that people should drive social movements, even when they happen online. With a distributed organizing model, your organization can leverage the power of your supporters by giving them the opportunity to start, run, and win their own campaigns. The distributed organizing model not only allows your organization to run more numerous and diverse campaigns, but it also leads to more involved and more active supporters.</p>
       </div>
-      <div class="col-md-2 comparison-versus"></div>
-      <div class="col-md-5 comparison-right">
-        <h4>Distributed Organizing</h4>
-        <img src="/assets/images/how_it_works/vector-distributed-organizing-main.svg" />
+      <div class="col-md-1">
+      </div>
+      <div class="col-md-3">
+        <img src="/assets/images/how_it_works/image-howitworks-hero-peeps.svg" style="position: absolute; top: 40px;" />
+      </div>
+      <div class="row-full absolute d-none d-xl-block">
+        <img class="" src="/assets/images/how_it_works/image-howitworks-hero-biker.svg" style="position: absolute; top: 40px;" />
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="container-fluid bg-white text-black">
+  <div class="container p-0">
+    <div class="row">
+      <div id="comparisons" class="mt-5 text-center">
+        <div class="row comparison mt-3 mb-3">
+          <div class="col-md-5 comparison-left">
+            <h4>Traditional Broadcast Organizing</h4>
+            <img src="/assets/images/how_it_works/vector-traditional-organizing-main.svg" class="mb-2" />
+          </div>
+          <div class="col-md-2 comparison-versus"></div>
+          <div class="col-md-5 comparison-right">
+            <h4>Distributed Organizing</h4>
+            <img src="/assets/images/how_it_works/vector-distributed-organizing-main.svg" class="mb-2" />
+          </div>
+        </div>
+        <hr />
+
+        {% for comparison in site.data.comparisons %}
+          <div class="row comparison mt-3 mb-3">
+            <div class="col-12">
+              <div class="row mb-2">
+                <div class="col-md-5 comparison-left">
+                  <img src="/assets/images/how_it_works/vector-traditional-organizing-vs-{{comparison.name}}.svg" />
+                </div>
+                <div class="col-md-2 comparison-versus"></div>
+                <div class="col-md-5 comparison-right">
+                  <img src="/assets/images/how_it_works/vector-distributed-organizing-vs-{{comparison.name}}.svg" />
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-md-5 comparison-left">
+                  <p>{{comparison.traditional}}</p>
+                </div>
+                <div class="col-md-2 comparison-versus">VS</div>
+                <div class="col-md-5 comparison-right">
+                  <p>{{comparison.distributed}}</p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <hr />
+        {% endfor %}
       </div>
     </div>
 
-    {% for comparison in site.data.comparisons %}
-      <div class="row comparison">
-        <div class="col-md-5 comparison-left">
-          <img src="/assets/images/how_it_works/vector-traditional-{{comparison.name}}.svg" />
-          <p>{{comparison.traditional}}</p>
+    <div class="row mt-4">
+      <div class="col-12 ml-0 mb-2">
+        <h3>Why Distributed Organizing?</h3>
+      </div>
+    </div>
+    <div class="row ml-0 mb-4">
+      {% for reason in site.data.reasons_why %}
+        <div class="col-md-3 selling-point">
+          <div class="mr-2">
+            <img src="/assets/images/how_it_works/vector-why-distributed-{{reason.name}}.svg" />
+            <h5>{{reason.title}}</h5>
+            <p>{{reason.detail}}</p>
+          </div>
         </div>
-        <div class="col-md-2 comparison-versus"></div>
-        <div class="col-md-5 comparison-right">
-          <img src="/assets/images/how_it_works/vector-distributed-{{comparison.name}}.svg" />
-          <p>{{comparison.distributed}}</p>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <div id="get-in-touch">
+    <div class="row mt-4 mb-4">
+      <div class="col-12 text-center">
+        <h3>Get in touch for a demo or to learn more.</h3>
+        <a href="" class="btn btn-primary">Let's Talk</a>
+        <div class="row-full text-center">
+          <img class="" src="/assets/images/how_it_works/hero.svg" />
         </div>
       </div>
-    {% endfor %}
+    </div>
   </div>
+</div>
 
-  <div id="why-distributed"></div>
-
-  <div id="get-in-touch"></div>
-
-  <div id="endorsements"></div>
-
-
+<div class="container-fluid bg-darkblue">
+  <div class="container p-0 carousel slide" id="carousel" data-ride="carousel">
+    <div id="endorsements carousel-inner" class="row pt-4 pb-4">
+      <div class="row-full absolute">
+        <a class="carousel-control-prev" href="#carousel" role="button" data-slide="prev">
+          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span class="sr-only">Previous</span>
+        </a>
+        <a class="carousel-control-next" href="#carousel" role="button" data-slide="next">
+          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+          <span class="sr-only">Next</span>
+        </a>
+      </div>
+      {% for e in site.data.endorsements %}
+        <div class="col-12 carousel-item {% if forloop.first == true %}active{% endif %}">
+          <div class="row">
+            <div class="col-md-2 name">
+              <strong>{{e.name}}</strong><br />
+              {{e.position}},<br />
+              {{e.org}}
+            </div>
+            <div class="col-md-8 detail ml-2">
+              {{e.detail}}”
+            </div>
+            <div class="col-md-2">
+            </div>
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
 </div>

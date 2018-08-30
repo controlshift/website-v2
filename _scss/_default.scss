@@ -20,11 +20,15 @@ img.faded {
   opacity: 0.6;
 }
 
-.row-full{
+.row-full {
   width: 100vw;
   position: relative;
   margin-left: -50vw;
   left: 50%;
+
+  &.absolute {
+    position: absolute;
+  }
 }
 
 #hero-image-xl {

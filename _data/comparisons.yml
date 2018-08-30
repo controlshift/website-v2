@@ -1,11 +1,19 @@
-- name: organizing-vs-central
+- name: central
   traditional: The central organization decides on the campaign, and the members respond.
   distributed: The central organization guides the strategy, and members are engaged as organizers in winning campaigns.
 
-- name: organizing-vs-communication
+- name: communication
   traditional: Members receive lots of emails from campaigners, but don’t often communicate with each other.
   distributed: Members communicate with each other and meet frequently in person.
 
-- name: organizing-vs-success
+- name: success
   traditional: Success is measured in clicks, petition signatures, phone calls, new emails on the list, and occasional big wins.
   distributed: Success is measured in many small — and a few big — victories.
+
+- name: org-fail
+  traditional: If the central organization fails, members are on their own.
+  distributed: Members build power and community that can outlive the central organization.
+
+- name: members
+  traditional: Members read and click on lots of emails.
+  distributed: Members learn real organizing skills and become leaders.

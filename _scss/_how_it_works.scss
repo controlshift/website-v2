@@ -1,0 +1,21 @@
+#endorsements-container {
+  background: $darkblue;
+}
+
+#endorsements {
+  .name {
+    font-family: Grafik-Regular;
+  }
+
+  .detail {
+    position: relative;
+
+    &:before {
+      content: "“";
+      left: 0px;
+      position: absolute;
+    }
+
+    font-size: 1.8em;
+  }
+}
