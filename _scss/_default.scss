@@ -1,8 +1,8 @@
 p, ul {
-  font-family: Grafik-Regular;
+  font-family: Grafik-Regular, SFProDisplay, Arial, sans-serif;
 
   .btn {
-    font-family: Grafik-Medium;
+    font-family: Grafik-Medium, sans-serif;
   }
 }
 
@@ -60,7 +60,7 @@ img.faded {
 
 
 .nav-tabs .nav-link {
-  border: 0px;
+  border: 0;
   border-bottom: 1px solid transparent;
 }
 
@@ -278,7 +278,7 @@ ul.text-list {
     }
 
     .screen {
-      @include caseStudyOnClick()
+      @include caseStudyOnClick();
       position: absolute;
       top: 58px;
       left: 63px;
@@ -367,7 +367,7 @@ ul.text-list {
 }
 
 .dotted-border-right {
-  @include dottedBorder($color: #0f91c2, $size: 2px, $spacing: 9px, $position: right, $orientation: vertical)
+  @include dottedBorder($color: #0f91c2, $size: 2px, $spacing: 9px, $position: right, $orientation: vertical);
   display: inline-block;
   margin-top: 278px;
   height: 820px;
@@ -376,7 +376,7 @@ ul.text-list {
 }
 
 .dotted-border-top {
-  @include dottedBorder($color: #0f91c2, $size: 2px, $spacing: 9px, $position: top)
+  @include dottedBorder($color: #0f91c2, $size: 2px, $spacing: 9px, $position: top);
   position: absolute;
   right: -505px;
   height: 10px;
@@ -384,7 +384,7 @@ ul.text-list {
 }
 
 .dotted-border-bottom {
-  @include dottedBorder($color: #0f91c2, $size: 2px, $spacing: 9px, $position: top)
+  @include dottedBorder($color: #0f91c2, $size: 2px, $spacing: 9px, $position: top);
   position: absolute;
   height: 10px;
 
@@ -415,7 +415,7 @@ ul.text-list {
 /* FOOTER */
 
 .status-indicator {
-  margin: 10px;
+  margin-right: 10px;
   font-size: 1.2em;
 
   .none { color: #7af5a3 }
@@ -424,7 +424,7 @@ ul.text-list {
 }
 
 .status-description {
-  font-family: Grafik-Regular
+  font-family: SFProDisplay, Arial, sans-serif;
 }
 
 .sub-footer {
