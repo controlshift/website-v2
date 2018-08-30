@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+<div class="container">
+  <div class="row mt-3">
+    <div class="col-md-6">
+      <p><strong>Case Study</strong></p>
+      <h2>{{page.title}}</h2>
+    </div>
+    <div class="col-md-6">
+      <img src="/assets/images/case_studies/title-{{page.org}}.png" class="img-fluid">
+    </div>
+  </div>
+</div>
+
+<div class="container-fluid bg-white text-black">
+  <div class="container p-0 pt-4 pb-4">
+    {{content}}
+  </div>
+</div>
+
+{% include page-footer.html %}
+
