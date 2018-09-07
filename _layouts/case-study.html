@@ -17,8 +17,24 @@ layout: default
 <div class="container-fluid bg-white text-black">
   <div class="container p-0 pt-4 pb-4">
     {{content}}
+
+    <hr />
+
+    <div class="row pt-5 pb-1">
+      <div class="col-md-2"></div>
+      <div class="col-md-6">
+        <strong>Next Case Study</strong>
+        <h2><a href="/case-study/{{page.next_case_study_org}}/">{{page.next_case_study_title}}</a></h2>
+      </div>
+      <div class="col-md-2">
+        <img src="/assets/images/logo-{{page.next_case_study_org}}.png" class="img-fluid" />
+      </div>
+    </div>
+
   </div>
 </div>
+
+
 
 {% include page-footer.html %}
 
