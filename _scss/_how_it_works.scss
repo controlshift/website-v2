@@ -38,3 +38,11 @@
     font-size: 1.8em;
   }
 }
+
+.versus-spacer {
+  height: 89px;
+
+  @include media-breakpoint-down(xs) {
+    height: 0px;
+  }
+}

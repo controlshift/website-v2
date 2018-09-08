@@ -28,7 +28,7 @@ permalink: /how-it-works/
   <div class="container p-0">
     <div class="row">
       <div id="comparisons" class="mt-5 text-center">
-        <div class="row comparison mt-3 mb-3">
+        <div class="row comparison mt-3 mb-3 d-none d-sm-flex">
           <div class="col-md-5 comparison-left">
             <h4>Traditional Broadcast Organizing</h4>
             <img src="/assets/images/how_it_works/vector-traditional-organizing-main.svg" class="mb-2" />
@@ -44,21 +44,23 @@ permalink: /how-it-works/
         {% for comparison in site.data.comparisons %}
           <div class="row comparison mt-3 mb-3">
             <div class="col-12">
-              <div class="row mb-2">
-                <div class="col-md-5 comparison-left">
-                  <img src="/assets/images/how_it_works/vector-traditional-organizing-vs-{{comparison.name}}.svg" />
-                </div>
-                <div class="col-md-2 comparison-versus"></div>
-                <div class="col-md-5 comparison-right">
-                  <img src="/assets/images/how_it_works/vector-distributed-organizing-vs-{{comparison.name}}.svg" />
-                </div>
-              </div>
               <div class="row">
-                <div class="col-md-5 comparison-left">
+                <div class="col-sm-5 comparison-left">
+                  <h5 class="d-sm-none">Traditional Broadcast Organizing</h5>
+                  <div class="mb-2">
+                    <img src="/assets/images/how_it_works/vector-traditional-organizing-vs-{{comparison.name}}.svg" />
+                  </div>
                   <p>{{comparison.traditional}}</p>
                 </div>
-                <div class="col-md-2 comparison-versus">VS</div>
-                <div class="col-md-5 comparison-right">
+                <div class="col-sm-2 comparison-versus mb-2">
+                  <div class="mb-2 versus-spacer"></div>
+                  VS
+                </div>
+                <div class="col-sm-5 comparison-right">
+                  <h5 class="d-sm-none">Distributed Organizing</h5>
+                  <div class="mb-2">
+                    <img src="/assets/images/how_it_works/vector-distributed-organizing-vs-{{comparison.name}}.svg" />
+                  </div>
                   <p>{{comparison.distributed}}</p>
                 </div>
               </div>
