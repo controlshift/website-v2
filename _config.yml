@@ -40,10 +40,11 @@ exclude:
   - node_modules
   - vendor
   - _src
-  - _images
+  - images
   - LICENSE
   - package.json
   - README.md
+  - OLD_README.md
   - webpack.config.js
   - yarn-error.log
   - yarn.lock
