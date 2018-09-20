@@ -119,6 +119,8 @@ ul.text-list {
 
 .nav-tabs {
   .nav-link {
+    color: white;
+    
     &:hover {
       border: 0px;
       border-bottom: 1px solid $white;
@@ -417,7 +419,7 @@ ul.text-list {
   a {
     color: white;
   }
-  
+
   .status-indicator {
     margin-right: 10px;
     font-size: 1.2em;
