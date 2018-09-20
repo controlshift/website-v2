@@ -1,0 +1,36 @@
+---
+layout: default
+---
+
+<div class="container pt-2">
+  <div class="row mt-3">
+    <div class="col-md-12 feature-tab-header">
+      <h1>{{page.title}}</h1>
+
+      <div class="feature-tabs">
+        {% for tab in page.tabs %}
+          {% if tab.selected %}
+            <div class="tab selected">
+              {{tab.name}}
+            </div>
+          {% else %}
+            <div class="tab">
+              <a href="{{tab.link}}">{{tab.name}}</a>
+            </div>
+          {% endif %}
+        {% endfor %}
+      </div>
+
+      <img src="/assets/images/features/hero/{{page.image_slug}}.svg">
+    </div>
+  </div>
+</div>
+
+<div class="container-fluid bg-white text-black">
+  <div class="container feature-description p-0 pt-4 pb-4">
+    {{content}}
+  </div>
+</div>
+
+{% include other-features.html %}
+{% include page-footer.html %}
