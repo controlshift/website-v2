@@ -1,3 +1,13 @@
+.feature-header {
+  @media (max-width: 768px) {
+    .img-fluid {
+      width: 50%;
+      display: block;
+      margin: auto;
+    }
+  }
+}
+
 .feature-tab-header {
   .feature-tabs {
     background: $dark;
@@ -73,10 +83,19 @@
 
   	&.left {
   		margin-right: 25px;
+
+      @media (max-width: 768px) {
+        margin-right: 0px;
+      }
   	}
 
   	&.right {
   		margin-left: 25px;
+
+      @media (max-width: 768px) {
+        margin-top: 25px;
+        margin-left: 0px;
+      }
   	}
 
     .lead {
