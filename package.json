@@ -1,5 +1,5 @@
 {
-  "name": "jekyll-webpack-boilerplate",
+  "name": "ControlShift",
   "version": "1.0.0",
   "description": "A boilerplate with Jekyll and Webpack to make the most performant static websites",
   "main": "src/index.js",
