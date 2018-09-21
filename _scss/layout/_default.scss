@@ -413,27 +413,3 @@ ul.text-list {
     right: 300px;
   }
 }
-
-/* FOOTER */
-.footer {
-  a {
-    color: white;
-  }
-
-  .status-indicator {
-    margin-right: 10px;
-    font-size: 1.2em;
-
-    .none { color: #7af5a3 }
-    .minor { color: #ff9933 }
-    .major { color: #ff3333 }
-  }
-
-  .status-description {
-    font-family: SFProDisplay, Arial, sans-serif;
-  }
-
-  .sub-footer {
-    font-size: 0.8em;
-  }
-}

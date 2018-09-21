@@ -11,8 +11,9 @@
 /* components */
 @import '../_scss/components/_example';
 
-/* layouts */
-@import '../_scss/layouts/_default';
+/* layout */
+@import '../_scss/layout/_default';
+@import '../_scss/layout/_footer';
 
 /* pages */
 @import '../_scss/pages/_case_study';
