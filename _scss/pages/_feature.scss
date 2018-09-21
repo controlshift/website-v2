@@ -27,21 +27,37 @@
 }
 
 .feature-description {
-  .center-image {
-    text-align: center;
-  }
-
   .lead {
     font-size: 1.15em;
   }
 
-  h3 {
-    color: $gray-800;
-    font-size: 1.3em;
+  .subfeature {
+    h3 {
+      color: $gray-800;
+      font-size: 1.3em;
+    }
+
+    p {
+      color: $gray-800;
+      margin-bottom: 0px;
+    }
+
+    @media (max-width: 768px) {
+      .subfeature-image {
+        margin: 25px 0px;
+
+        .img-fluid {
+          width: 50%;
+        }
+      }
+    }
   }
 
-  p {
-    color: $gray-800;
+  hr {
+    @media (max-width: 768px) {
+      margin-top: 1.5rem;
+      margin-bottom: 1.5rem;
+    }
   }
 }
 
