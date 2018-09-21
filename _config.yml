@@ -1,8 +1,3 @@
-### Welcome to Jekyll Webpack Boilerplate
-#
-# This config file contains the config of your webpages
-# You may also want to update /config/webpack.pwa.js in case you want to generate a Progressive Web App
-
 title: ControlShift
 email: your-email@example.com
 description: ControlShift is a set of web tools that helps your organization build community, leadership, and real power among your members.
