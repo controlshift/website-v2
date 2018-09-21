@@ -1,24 +1,21 @@
-@font-face {
-  font-family: Grafik-Medium;
-  src:
-    url('../_fonts/Graphik-Medium-Web.woff2') format('woff2'),
-    url('../_fonts/Graphik-Medium-Web.woff') format('woff');
-}
-
-@font-face {
-  font-family: Grafik-Regular;
-  src:
-    url('../_fonts/Graphik-Regular-Web.woff2') format('woff2'),
-    url('../_fonts/Graphik-Regular-Web.woff') format('woff');
-}
-
+/* lib */
 @import 'normalize.css';
-@import '../_scss/_dotted_border' ;
 
+/* theme */
+@import '../_scss/_dotted_border' ;
 @import '../_scss/_custom';
 @import "~bootstrap/scss/bootstrap";
+@import '../_scss/_typography';
+@import '../_scss/_utilities';
 
-@import '../_scss/_default';
-@import '../_scss/_feature';
-@import '../_scss/_how_it_works';
-@import '../_scss/_case_study';
+/* components */
+@import '../_scss/components/_example';
+
+/* layouts */
+@import '../_scss/layouts/_default';
+
+/* pages */
+@import '../_scss/pages/_case_study';
+@import '../_scss/pages/_feature';
+@import '../_scss/pages/_how_it_works';
+@import '../_scss/pages/_sector';

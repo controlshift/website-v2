@@ -1,0 +1,45 @@
+---
+layout: default
+---
+
+<div class="container sector-header">
+  <div class="row mt-3">
+    <div class="col-md-6 sector">
+      {% if page.slug == 'electoral' %}
+        <img class="img-fluid" src="/assets/images/sectors/hero/electoral-active.svg" />
+      {% else %}
+        <img class="img-fluid" src="/assets/images/sectors/hero/electoral-inactive.svg" />
+      {% endif %}
+      <div class="label">
+        {% if page.slug == 'electoral' %}
+          <p>Electoral</p>
+        {% else %}
+          <a href="/sector/electoral/">Electoral</a>
+        {% endif %}
+      </div>
+    </div>
+
+    <div class="col-md-6 sector">
+      {% if page.slug == 'advocacy' %}
+        <img class="img-fluid advocacy-image" src="/assets/images/sectors/hero/advocacy-active.svg" />
+      {% else %}
+        <img class="img-fluid advocacy-image" src="/assets/images/sectors/hero/advocacy-inactive.svg" />
+      {% endif %}
+      <div class="label">
+        {% if page.slug == 'advocacy' %}
+          <p>Advocacy</p>
+        {% else %}
+          <a href="/sector/advocacy/">Advocacy</a>
+        {% endif %}
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="container-fluid bg-white text-black">
+  <div class="container">
+    {{content}}
+  </div>
+</div>
+
+{% include page-footer.html %}
