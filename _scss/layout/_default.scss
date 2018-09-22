@@ -2,7 +2,7 @@ p, ul {
   font-family: Grafik-Regular, SFProDisplay, Arial, sans-serif;
 
   .btn {
-    font-family: Grafik-Medium, sans-serif;
+    font-family: Grafik-Medium, SFProDisplay, Arial, sans-serif;
   }
 }
 
@@ -120,7 +120,7 @@ ul.text-list {
 .nav-tabs {
   .nav-link {
     color: white;
-    
+
     &:hover {
       border: 0px;
       border-bottom: 1px solid $white;
@@ -180,11 +180,9 @@ ul.text-list {
   }
 
   @include media-breakpoint-down(xs) {
-    padding: 0px;
+    padding: 0;
     text-align: left;
     direction: ltr;
-    padding-left: 0px;
-    padding-right: 0px;
 
     img.frame {
       height: 300px;
@@ -207,7 +205,7 @@ ul.text-list {
     @include media-breakpoint-down(xs) {
       top: 132px;
       right: inherit;
-      left: 0px;
+      left: 0;
     }
   }
 }
@@ -342,7 +340,7 @@ ul.text-list {
     background: $light;
     position: absolute;
     z-index: 99;
-    bottom: 0px;
+    bottom: 0;
 
     &#people-local-group {
       left: 100px;

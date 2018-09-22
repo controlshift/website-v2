@@ -8,14 +8,14 @@
 
 #endorsements {
   min-height: 400px;
-  
+
   .controls {
     text-align: right;
     top: $spacer;
     padding: 20px;
     padding-right: 100px;
     font-size: 2.5em;
-    font-family: Grafik-Regular;
+    font-family: Grafik-Regular, sans-serif;
     a {
       margin-left: 0.3 * $spacer;
       &:hover {
@@ -25,7 +25,7 @@
   }
 
   .name {
-    font-family: Grafik-Regular;
+    font-family: Grafik-Regular, sans-serif;
   }
 
   .detail {
