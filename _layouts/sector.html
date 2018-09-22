@@ -8,7 +8,7 @@ layout: default
       {% if page.slug == 'electoral' %}
         <img class="img-fluid" src="/assets/images/sectors/hero/electoral-active.svg" />
       {% else %}
-        <img class="img-fluid" src="/assets/images/sectors/hero/electoral-inactive.svg" />
+        <a href="/sector/electoral/"><img class="img-fluid" src="/assets/images/sectors/hero/electoral-inactive.svg" /></a>
       {% endif %}
       <div class="label">
         {% if page.slug == 'electoral' %}
@@ -23,7 +23,9 @@ layout: default
       {% if page.slug == 'advocacy' %}
         <img class="img-fluid advocacy-image" src="/assets/images/sectors/hero/advocacy-active.svg" />
       {% else %}
-        <img class="img-fluid advocacy-image" src="/assets/images/sectors/hero/advocacy-inactive.svg" />
+        <a href="/sector/advocacy/">
+          <img class="img-fluid advocacy-image" src="/assets/images/sectors/hero/advocacy-inactive.svg" />
+        </a>
       {% endif %}
       <div class="label">
         {% if page.slug == 'advocacy' %}
