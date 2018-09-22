@@ -7,6 +7,8 @@
 }
 
 #endorsements {
+  min-height: 400px;
+  
   .controls {
     text-align: right;
     top: $spacer;
@@ -31,7 +33,7 @@
 
     &:before {
       content: "“";
-      left: 0px;
+      left: 0;
       position: absolute;
     }
 
@@ -43,6 +45,6 @@
   height: 89px;
 
   @include media-breakpoint-down(xs) {
-    height: 0px;
+    height: 0;
   }
 }
