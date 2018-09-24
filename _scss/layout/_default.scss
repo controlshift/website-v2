@@ -141,7 +141,7 @@ ul.text-list {
 .desktop-graphic {
 
   @include media-breakpoint-down(xs) {
-    padding: 0px;
+    padding: 0;
     text-align: right;
 
     img {
@@ -161,8 +161,16 @@ ul.text-list {
 
     @include media-breakpoint-down(xs) {
       top: 22px;
-      right: 0px;
+      right: 0;
     }
+  }
+  .overlay {
+    width: 905px;
+    position: absolute;
+    display: inline-block;
+    top: 568px;
+    height: 77px;
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.1));
   }
 }
 
