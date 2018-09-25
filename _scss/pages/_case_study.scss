@@ -1,21 +1,23 @@
-div.stretchy-wrapper {
-  width: 100%;
-  padding-bottom: 4.5%;
-  position: relative;
-  overflow: hidden;
-}
-
-div.stretchy-wrapper > div {
-  position: absolute;
-  top: 0; bottom: 0; left: 0; right: 0;
-}
-
-div.screen-img {
-  margin-right: 1px;
-
-  img {
-    border: #e8e8e8 1px solid;
+.case-study {
+  div.stretchy-wrapper {
     width: 100%;
-    max-width: 1221px;
+    padding-bottom: 4.5%;
+    position: relative;
+    overflow: hidden;
+  }
+
+  div.stretchy-wrapper > div {
+    position: absolute;
+    top: 0; bottom: 0; left: 0; right: 0;
+  }
+
+  div.screen-img {
+    margin-right: 1px;
+
+    img {
+      border: #e8e8e8 1px solid;
+      width: 100%;
+      max-width: 1221px;
+    }
   }
 }
