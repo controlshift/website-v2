@@ -15,9 +15,23 @@
     bottom: -80px;
   }
 
-  .event-image {
+  .events-image {
     bottom: -140px;
-    width: 80%;
+    width: 60%;
+  }
+
+  @media (max-width: 1200px) {
+    .events-image {
+      bottom: -120px;
+      width: 70%;
+    }
+  }
+
+  @media (max-width: 992px) {
+    .events-image {
+      bottom: -120px;
+      width: 80%;
+    }
   }
 
   @media (max-width: 768px) {
@@ -25,6 +39,10 @@
       width: 40%;
       display: block;
       margin: auto;
+    }
+
+    .events-image {
+      bottom: -100px;
     }
   }
 }
