@@ -4,6 +4,7 @@ description: ControlShift is a set of web tools that helps your organization bui
 baseurl: ""
 url: "https://www.controlshiftlabs.com/"
 theme_color: '#0f91c2'
+relative_permalinks: false
 
 languages: ["en"]
 ampdir: amp
