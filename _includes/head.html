@@ -15,6 +15,12 @@
 
 {% seo %}
 
-{% if ((jekyll.environment == 'production' or jekyll.environment == 'pwa') and site.google_analytics) %}
-{% include google-analytics.html %}
+{% if (jekyll.environment == 'production' or jekyll.environment == 'pwa') %}
+	{% if site.google_analytics %}
+		{% include google-analytics.html %}
+	{% endif %}
+
+	{% if site.segment %}
+		{% include segment.html %}
+	{% endif %}
 {% endif %}
