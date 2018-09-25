@@ -72,14 +72,33 @@
 }
 
 .other-features {
+  .next-feature-link {
+    &:hover {
+      text-decoration: none;
+    }
+  }
+  
   .next-feature {
   	position: relative;
   	border-radius: 10px;
   	width: 100%;
   	background: $secondary;
+    color: white;
   	text-align: center;
   	font-size: 1.6em;
   	padding-top: 50px;
+
+    &:hover {
+      color: white;
+
+      .lead {
+        text-decoration: none;
+      }
+
+      .see-more {
+        text-decoration: underline;
+      }
+    }
 
   	&.left {
   		margin-right: 25px;
@@ -106,12 +125,6 @@
 
     .see-more {
       margin: 10px 0px 25px 0px;
-  
-    	a {
-    		color: white;
-    		font-size: 0.7em;
-        margin: 25px 0px 35px 0px;
-    	}
     }
 
     .image-container {
