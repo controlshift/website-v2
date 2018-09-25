@@ -1,7 +1,23 @@
 .feature-header {
+  overflow: hidden;
+
+  .feature-title {
+    padding-top: 70px;
+
+    @media (max-width: 768px) {
+      padding-top: 0px;
+    }
+  }
+
+  .feature-image {
+    position: absolute;
+    right: 0px;
+    bottom: -80px;
+  }
+
   @media (max-width: 768px) {
-    .img-fluid {
-      width: 50%;
+    .feature-image {
+      width: 40%;
       display: block;
       margin: auto;
     }
@@ -9,6 +25,8 @@
 }
 
 .feature-tab-header {
+  padding-top: 50px;
+
   .feature-tabs {
     background: $dark;
     width: 100%;
@@ -29,10 +47,27 @@
     }
   }
 
-  img {
-    position: absolute;
-    right: 0px;
+  .feature-image {
     bottom: 0px;
+  }
+
+  @media (max-width: 768px) {
+    padding-top: 0px;
+
+    .feature-image {
+      display: none;
+    }
+
+    .feature-tabs {
+      height: 80px;
+
+      .tab {
+        width: 50%;
+        font-size: 1.2rem;
+        text-align: center;
+        padding: 25px;
+      }
+    }
   }
 }
 
@@ -43,12 +78,10 @@
 
   .subfeature {
     h3 {
-      color: $gray-800;
       font-size: 1.3em;
     }
 
     p {
-      color: $gray-800;
       margin-bottom: 0px;
     }
 

@@ -4,7 +4,7 @@ layout: default
 
 <div class="container pt-2">
   <div class="row mt-3">
-    <div class="col-md-12 feature-tab-header">
+    <div class="col-md-12 feature-header feature-tab-header">
       <h1>{{page.title}}</h1>
 
       <div class="feature-tabs">
@@ -21,13 +21,13 @@ layout: default
         {% endfor %}
       </div>
 
-      <img src="/assets/images/features/hero/{{page.image_slug}}.svg">
+      <img class="feature-image" src="/assets/images/features/hero/{{page.image_slug}}.svg">
     </div>
   </div>
 </div>
 
 <div class="container-fluid bg-white text-black">
-  <div class="container feature-description p-0 pt-4 pb-4">
+  <div class="container feature-description p-0 pt-4 pb-md-4">
     {{content}}
   </div>
 </div>

@@ -31,6 +31,12 @@ img.faded {
   }
 }
 
+.lets-talk-link {
+  @media (max-width: 768 px) {
+    margin: 5px 0px;
+  }
+}
+
 #hero-image-xl {
   position: absolute;
   @include media-breakpoint-down(md) {
