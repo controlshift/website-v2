@@ -8,7 +8,11 @@ layout: default
       <h1>{{page.title}}</h1>
     </div>
     <div class="col-md-6">
-      <img src="/assets/images/features/hero/{{page.image_slug}}.svg" class="img-fluid feature-image" alt="" />
+      {% if page.image_class %}
+        <img src="/assets/images/features/hero/{{page.image_slug}}.svg" class="img-fluid feature-image {{page.image_class}}" alt="" />
+      {% else %}
+        <img src="/assets/images/features/hero/{{page.image_slug}}.svg" class="img-fluid feature-image" alt="" />
+      {% endif %}
     </div>
   </div>
 </div>
