@@ -49,6 +49,10 @@
 			transparent 100%
 		); 
 
+		&.first-line {
+			margin-top: 0px;
+		}
+
 		@media (max-width: 768px) {
 			margin: 5px 0px;
 			height: 50px;
