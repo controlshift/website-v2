@@ -31,6 +31,26 @@
 				color: white;
 			}
 		}
+
+		@media (max-width: 762px) {
+			&.advocacy {
+				margin-top: 25px;
+			}
+
+			.sector-image {
+				width: 30%;
+			}
+
+			.advocacy-image {
+				margin-left: 20px;
+				width: 35%; // this is wider as the image has content to its right, and so to scale it correctly this is what we have to do
+			}
+
+			.label {
+				margin-top: 5px;
+				font-size: 1.1em;
+			}
+		}
 	}
 }
 

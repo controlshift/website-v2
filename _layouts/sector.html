@@ -6,9 +6,9 @@ layout: default
   <div class="row mt-3">
     <div class="col-md-6 sector">
       {% if page.slug == 'electoral' %}
-        <img class="img-fluid" src="/assets/images/sectors/hero/electoral-active.svg" alt="" />
+        <img class="img-fluid sector-image" src="/assets/images/sectors/hero/electoral-active.svg" alt="" />
       {% else %}
-        <a href="/sector/electoral/"><img class="img-fluid" src="/assets/images/sectors/hero/electoral-inactive.svg" alt="" /></a>
+        <a href="/sector/electoral/"><img class="img-fluid sector-image" src="/assets/images/sectors/hero/electoral-inactive.svg" alt="" /></a>
       {% endif %}
       <div class="label">
         {% if page.slug == 'electoral' %}
@@ -19,12 +19,12 @@ layout: default
       </div>
     </div>
 
-    <div class="col-md-6 sector">
+    <div class="col-md-6 sector advocacy">
       {% if page.slug == 'advocacy' %}
-        <img class="img-fluid advocacy-image" src="/assets/images/sectors/hero/advocacy-active.svg" alt="" />
+        <img class="img-fluid sector-image advocacy-image" src="/assets/images/sectors/hero/advocacy-active.svg" alt="" />
       {% else %}
         <a href="/sector/advocacy/">
-          <img class="img-fluid advocacy-image" src="/assets/images/sectors/hero/advocacy-inactive.svg" alt="" />
+          <img class="img-fluid sector-image advocacy-image" src="/assets/images/sectors/hero/advocacy-inactive.svg" alt="" />
         </a>
       {% endif %}
       <div class="label">
