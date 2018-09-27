@@ -9,15 +9,20 @@
 @import '../_scss/_utilities';
 
 /* components */
+@import '../_scss/components/_dropdown-menu';
 @import '../_scss/components/_endorsements';
 @import '../_scss/components/_example';
+@import '../_scss/components/_lets-talk';
 
 /* layout */
 @import '../_scss/layout/_default';
 @import '../_scss/layout/_footer';
+@import '../_scss/layout/_navigation';
 
 /* pages */
-@import '../_scss/pages/_case_study';
+@import '../_scss/pages/_case-studies';
+@import '../_scss/pages/_case-study';
 @import '../_scss/pages/_feature';
-@import '../_scss/pages/_how_it_works';
+@import '../_scss/pages/_home';
+@import '../_scss/pages/_how-it-works';
 @import '../_scss/pages/_sector';

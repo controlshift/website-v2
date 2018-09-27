@@ -1,0 +1,59 @@
+.dropdown-nav-container {
+	display: none;
+    position: absolute;
+    top: 30px;
+    padding-top: 30px; // this is to bridge the gap between the nav and the dropdown
+    z-index: 999;
+
+    // this is the actual dropdown - it's within a container so it can be positioned perfectly
+	.dropdown-nav {
+		width: 420px;
+		height: 200px;
+		border-radius: 4px;
+		background-color: #ffffff;
+		box-shadow: 0 10px 20px 0 rgba(0, 0, 0, 0.2);
+
+		.menu-item {
+			width: 140px;
+			height: 200px;
+			display: inline-block;
+
+			&:not(:last-child) {
+				border-right: 1px solid $light-gray;
+			}
+
+			.menu-item-image {
+				width: 100%;
+				height: 120px;
+				background-position: center center;
+				background-repeat: no-repeat;
+
+				&.events {
+					background-image: url(/assets/images/menu/events.svg);
+				}
+
+				&.groups {
+					background-image: url(/assets/images/menu/groups.svg);
+				}
+
+				&.campaigns {
+					background-image: url(/assets/images/menu/campaigns.svg);
+				}
+			}
+
+			.menu-item-text {
+				display: block;
+				width: 100px;
+				margin: auto;
+				color: $secondary;
+				text-align: center;
+				font-family: Grafik-Medium;
+			}
+
+			&:hover {
+				background: $lightest-blue;
+				text-decoration: none;
+			}
+		}
+	}
+}

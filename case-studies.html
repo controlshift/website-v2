@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Case Studies
 permalink: /case-studies/
 ---
@@ -8,49 +8,19 @@ permalink: /case-studies/
   <div id="hero" class="mt-4 mb-3">
     <div class="row">
       <div class="col-md-1"></div>
-      <div class="col-md-6">
+      <div class="col-md-10">
         <h1>Case Studies</h1>
-      </div>
-    </div>
-  </div>
-</div>
+        <p>Discover how other organisations have used the ControlShift tools to run interesting and important campaigns.
 
-<div class="container-fluid bg-white text-black">
-  <div class="container p-0">
-    <div class="row pb-4 pt-4">
-      <div class="col-md-2"></div>
-      <div class="col-xs-12 col-md-8">
-        <p class="lead pb-1">
-          Interested in hearing how other organizations have used the ControlShift tools to run interesting and important campaigns? Check out the case studies below.
-        </p>
-
-        <p>
-          <a href="/case-study/coworker/">Coworker’s Campaign To Allow Tattoos At Starbucks</p>
-        </p>
-        <p>
-          <a href="/case-study/democracy-for-america/">Democracy for America’s Raise the Minimum Wage Campaign</p>
-        </p>
-        <p>
-          <a href="/case-study/minkampanj/">Skiftet’s No Train Fare Hike Campaign</p>
-        </p>
-        <p>
-          <a href="/case-study/groundswell/">Groundswell at Auburn Seminary’s Sanctuary Campaign</p>
-        </p>
-        <p>
-          <a href="/case-study/350/">350.org’s Go Fossil Free Campaign</p>
-        </p>
-        <p>
-          <a href="/case-study/38degrees/">38 Degrees’ Refugees Welcome</p>
-        </p>
-        <p>
-          <a href="/case-study/color-of-change/">Color of Change’s Remove Confederate Symbols</p>
-        </p>
-        <p>
-          <a href="/case-study/moms-rising/">MomsRising’s Tampon Tax</p>
-        </p>
-        <p>
-          <a href="/case-study/sum-of-us/">SumOfUs’ Neonicotinoids Campaign</p>
-        </p>
+        <div class="row case-studies">
+          {% for case_study in site.data.case_studies %}
+            <div class="col-md-4 col-sm-12 case-study">
+              <div class="case-study-image" style="background-image: url(/assets/images/logos/{{case_study.logo}});"></div>
+              <div class="divider"></div>
+              <a href="/case-study/{{case_study.link}}/">{{case_study.name}}</a>
+            </div>
+          {% endfor %}
+        </div>
       </div>
     </div>
   </div>

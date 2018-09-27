@@ -42,7 +42,7 @@
     }
 
     .events-image {
-      bottom: -100px;
+      bottom: -90px;
     }
   }
 }
@@ -57,11 +57,15 @@
 
     .tab {
       display: inline-block;
-      font-size: 1.4em;
-      padding: 40px;
+      font-size: 1.8em;
+      padding: 37px;
 
       &.selected {
-        text-decoration: underline;
+        span {
+          display: inline-block;
+          padding-bottom: 5px;
+          border-bottom: 1px solid white;
+        }
       }
 
       a {
@@ -102,10 +106,14 @@
   .subfeature {
     h3 {
       font-size: 1.3em;
+      line-height: 1.4;
+      color: $dark-gray-text;
     }
 
     p {
       margin-bottom: 0px;
+      line-height: 1.7;
+      color: $gray-text;
     }
 
     @media (max-width: 768px) {
@@ -146,13 +154,15 @@
 
     &:hover {
       color: white;
+      background-color: $light-blue;
+      box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.15);
 
       .lead {
         text-decoration: none;
       }
 
       .see-more {
-        text-decoration: underline;
+        text-decoration: none;
       }
     }
 
@@ -181,6 +191,7 @@
 
     .see-more {
       margin: 10px 0px 25px 0px;
+      font-size: 0.7em;
     }
 
     .image-container {

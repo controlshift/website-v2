@@ -31,90 +31,6 @@ img.faded {
   }
 }
 
-.lets-talk-link {
-  @media (max-width: 768 px) {
-    margin: 5px 0px;
-  }
-}
-
-#hero-image-xl {
-  position: absolute;
-  @include media-breakpoint-down(md) {
-    position: relative;
-  }
-
-  img {
-    position: absolute;
-    @include media-breakpoint-up(lg) {
-      right: 0px;
-      width: 60%;
-      max-width: 880px;
-    }
-
-    @include media-breakpoint-down(lg) {
-      margin-top: 70px;
-    }
-    @include media-breakpoint-down(md) {
-      position: relative;
-      margin-top: 20px;
-      margin-left: 50%;
-      transform: translateX(-50%);
-      width: 100%;
-    }
-  }
-}
-
-
-.nav-tabs .nav-link {
-  border: 0;
-  border-bottom: 1px solid transparent;
-}
-
-.navbar-nav .nav-link {
-  &:hover, &:focus {
-    color: $primary !important;
-  }
-
-  &.btn {
-    padding-left: $input-btn-padding-x;
-    padding-right: $input-btn-padding-x;
-
-    &:hover, &:focus {
-      color: $secondary !important;
-    }
-  }
-}
-
-ul.text-list {
-  li {
-    margin-top: 16px;
-    list-style-type: none;
-
-    &:first-child {
-      margin-top:0;
-    }
-
-    &:before {
-      content: "";
-      border-color: transparent #fff;
-      border-style: solid;
-      border-width: 0.35em 0 0.35em 0.45em;
-      display: block;
-      height: 0;
-      width: 0;
-      left: -2.4em;
-      top: 1.1em;
-      position:  relative;
-    }
-  }
-}
-
-.navbar-nav > li {
-  padding-left:21px;
-  padding-right:21px;
-}
-
-
 .btn-primary {
   color: $body-bg;
 }
@@ -126,6 +42,9 @@ ul.text-list {
 .nav-tabs {
   .nav-link {
     color: white;
+    font-family: Grafik-Medium;
+    border: 0;
+    border-bottom: 1px solid transparent;
 
     &:hover {
       border: 0px;
@@ -326,18 +245,6 @@ ul.text-list {
 
 /* SELLING POINTS */
 
-.selling-point {
-  @include media-breakpoint-down(sm) {
-    &:not(:first-child){
-      margin-top: $spacer
-    }
-  }
-
-  img {
-    margin-bottom: $spacer * 0.5;
-    height: 45px;
-  }
-}
 
 #integration-images-container {
   img {

@@ -1,0 +1,27 @@
+.lets-talk {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  line-height: 1.8;
+
+  &.white {
+    border: 1px solid white;
+    background: initial;
+
+    &:hover {
+      background: white;
+      border: 1px solid white;
+      color: $light-blue !important;
+    }
+  }
+
+  &:hover {
+    background: $light-blue;
+    color: white;
+    border: 1px solid $light-blue; // to not resize the element
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.15);
+  }
+
+  @media (max-width: 768 px) {
+    margin: 5px 0px;
+  }
+}

@@ -10,9 +10,7 @@ layout: default
       <div class="feature-tabs">
         {% for tab in page.tabs %}
           {% if tab.selected %}
-            <div class="tab selected">
-              {{tab.name}}
-            </div>
+            <div class="tab selected"><span>{{tab.name}}</span></div>
           {% else %}
             <div class="tab">
               <a href="{{tab.link}}">{{tab.name}}</a>
@@ -27,7 +25,7 @@ layout: default
 </div>
 
 <div class="container-fluid bg-white text-black">
-  <div class="container feature-description p-0 pt-4 pb-md-4">
+  <div class="container feature-description p-0 pt-md-4 pt-1 pb-md-4 pb-1">
     {{content}}
   </div>
 </div>

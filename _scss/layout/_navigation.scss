@@ -1,0 +1,49 @@
+.navbar-brand {
+  padding: 20px 0px 0px 20px;
+
+  @include media-breakpoint-down(sm) {
+    padding: initial;
+  }
+}
+
+.navbar-nav {
+  padding-top: 20px;
+
+  .nav-item {
+    padding-left: 1.5rem; // this padding has been moved from the nav-link within so the underline functions
+    padding-right: 1.5rem;
+
+    &.features-dropdown {
+      position: relative;
+
+      &:hover {
+        .dropdown-nav-container {
+          display: block;
+        }
+      }
+    }
+  }
+
+  .nav-link {
+    font-family: Grafik-Medium;
+
+    &.no-padding {
+      padding-left: 0px !important; // so we can underline the text without padding on the underline
+      padding-right: 0px !important;
+    }
+
+    // do not apply this to the let's talk button, which has its own hover state
+    &:not(.lets-talk) {
+      &:hover, &:focus {
+        color: $primary !important;
+        padding-bottom: 5px;
+        border-bottom: 1px solid white;
+      }
+    }
+  }
+
+  > li {
+    padding-left:21px;
+    padding-right:21px;
+  }
+}

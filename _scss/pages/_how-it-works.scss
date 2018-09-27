@@ -1,0 +1,50 @@
+.how-it-works-hero {
+	.hero-image {
+		position: absolute;
+		top: 40px;
+
+		@include media-breakpoint-down(sm) {
+			margin-top: 40px;
+			position: initial;
+			top: initial;
+		}
+	}
+}
+
+.comparison-header {
+	h3 {
+		font-size: 21px;
+		margin-bottom: 75px;
+		color: $dark-gray-text;
+
+		@include media-breakpoint-down(xs) {
+			margin-bottom: 40px;
+		}
+	}
+}
+
+.comparison-versus {
+	color: $gray-text;
+	font-size: 1.5em;
+	line-height: 1.7;
+}
+
+.versus-spacer {
+	height: 89px;
+
+	@include media-breakpoint-down(xs) {
+		height: 0;
+	}
+}
+
+.why-distributed-organizing {
+	.why-distributed-organizing-header {
+		color: $dark-gray-text;
+		line-height: 1.4;
+	}
+
+	h5 {
+		color: $gray-text;
+		line-height: 1.4;
+	}
+}

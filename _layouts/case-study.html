@@ -5,29 +5,32 @@ layout: default
 <div class="container">
   <div class="row mt-3">
     <div class="col-md-6">
-      <p><strong>Case Study</strong></p>
+      <p class="medium">Case Study</p>
       <h1>{{page.title}}</h1>
     </div>
     <div class="col-md-6 center-image" style="background: {{page.org_color}}; padding: 50px;">
-      <img src="/assets/images/logos/logo-{{page.org}}.png" class="img-fluid">
+      <img src="/assets/images/logos/logo-org-{{page.org}}.png" class="img-fluid">
     </div>
   </div>
 </div>
 
 <div class="container-fluid bg-white text-black case-study">
-  <div class="container p-0 pt-4 pb-4">
+  <div class="container p-0 pt-4">
     {{content}}
 
     <hr />
+  </div>
+</div>
 
-    <div class="row pt-5 pb-1">
-      <div class="col-md-2"></div>
-      <div class="col-md-6">
-        <strong>Next Case Study</strong>
+<div class="container-fluid bg-white">
+  <div class="container">
+    <div class="row next-case-study">
+      <div class="col-md-6 left">
+        <p class="medium">Next Case Study</p>
         <h2><a href="/case-study/{{page.next_case_study_org}}/">{{page.next_case_study_title}}</a></h2>
       </div>
-      <div class="col-md-2">
-        <img src="/assets/images/logos/logo-{{page.next_case_study_org}}.png" class="img-fluid" />
+      <div class="col-md-6 right">
+        <img src="/assets/images/logos/logo-org-{{page.next_case_study_org}}.png" class="img-fluid" />
       </div>
     </div>
 

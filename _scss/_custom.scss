@@ -10,18 +10,21 @@ $gray-100: #0f91c2;
 // Color system
 //
 
-$white:    #fff !default;
-$gray-100: #f8f9fa !default;
-$gray-200: #e9ecef !default;
-$gray-300: #dee2e6 !default;
-$gray-400: #ced4da !default;
-$gray-500: #adb5bd !default;
-$gray-600: #6c757d !default;
-$gray-700: #495057 !default;
-$gray-800: #343a40 !default;
-$gray-900: #212529 !default;
-$gray-text: #36393e;
-$black:    #000 !default;
+$white:           #fff !default;
+$light-gray:      #e2e2e2;
+$gray-100:        #f8f9fa !default;
+$gray-200:        #e9ecef !default;
+$gray-300:        #dee2e6 !default;
+$gray-400:        #ced4da !default;
+$gray-500:        #adb5bd !default;
+$gray-600:        #6c757d !default;
+$gray-700:        #495057 !default;
+$gray-800:        #343a40 !default;
+$gray-900:        #212529 !default;
+$gray-text:       #36393e;
+$dark-gray-text:  #292929;
+$black:           #000 !default;
+
 
 $grays: () !default;
 // stylelint-disable-next-line scss/dollar-variable-default
@@ -75,15 +78,18 @@ $colors: map-merge(
   $colors
 );
 
-$primary: white;
+$primary:       white;
 $secondary:     #0f91c2;
 $success:       $green !default;
 $info:          $cyan !default;
 $warning:       $yellow !default;
 $danger:        $red !default;
 $light:         #f5fcff;
+$light-text:    #0F91C2;
 $dark:          #0a85b3;
 $black:         #000;
+$lightest-blue: #DEEAEE;
+$light-blue:    #27a3d1;
 
 $theme-colors: () !default;
 // stylelint-disable-next-line scss/dollar-variable-default
