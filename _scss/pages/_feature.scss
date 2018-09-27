@@ -141,16 +141,16 @@
       text-decoration: none;
     }
   }
-  
+
   .next-feature {
-  	position: relative;
-  	border-radius: 10px;
-  	width: 100%;
-  	background: $secondary;
+    position: relative;
+    border-radius: 10px;
+    width: 100%;
+    background: $secondary;
     color: white;
-  	text-align: center;
-  	font-size: 1.6em;
-  	padding-top: 50px;
+    text-align: center;
+    font-size: 1.6em;
+    padding-top: 50px;
 
     &:hover {
       color: white;
@@ -166,22 +166,22 @@
       }
     }
 
-  	&.left {
-  		margin-right: 25px;
+    &.left {
+      margin-right: 25px;
 
       @media (max-width: 768px) {
         margin-right: 0px;
       }
-  	}
+    }
 
-  	&.right {
-  		margin-left: 25px;
+    &.right {
+      margin-left: 25px;
 
       @media (max-width: 768px) {
         margin-top: 25px;
         margin-left: 0px;
       }
-  	}
+    }
 
     .lead {
       font-weight: 600;
@@ -199,11 +199,11 @@
       width: 65%;
       margin: auto;
       max-height: 250px;
-    
-    	img {
-    		width: 100%;
+
+      img {
+        width: 100%;
         height: auto;
-    	}
+      }
     }
   }
 }

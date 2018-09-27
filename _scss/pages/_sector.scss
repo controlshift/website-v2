@@ -1,111 +1,111 @@
 .sector-header {
-	padding-bottom: 75px;
+  padding-bottom: 75px;
 
-	.title {
-		text-align: center;
-		font-size: 1.4em;
-	}
-  
-	.sector {
- 		text-align: center;
+  .title {
+    text-align: center;
+    font-size: 1.4em;
+  }
 
- 		.advocacy-image {
- 			margin-left: 25px;
- 		}
+  .sector {
+    text-align: center;
 
- 		.label {
- 			text-align: center;
- 			margin-top: 20px;
-			font-size: 1.4em;
+    .advocacy-image {
+      margin-left: 25px;
+    }
 
-			p {
- 				font-family: Grafik-Medium;
-				display: inline-block;
-				margin: 20px auto 0px auto;
-				border-bottom: 1px solid white;
-			}
+    .label {
+      text-align: center;
+      margin-top: 20px;
+      font-size: 1.4em;
 
-			a {
-				display: inline-block;
-				margin-top: 20px;
-				color: white;
-			}
-		}
+      p {
+        font-family: Grafik-Medium, sans-serif;
+        display: inline-block;
+        margin: 20px auto 0px auto;
+        border-bottom: 1px solid white;
+      }
 
-		@media (max-width: 762px) {
-			&.advocacy {
-				margin-top: 25px;
-			}
+      a {
+        display: inline-block;
+        margin-top: 20px;
+        color: white;
+      }
+    }
 
-			.sector-image {
-				width: 30%;
-			}
+    @media (max-width: 762px) {
+      &.advocacy {
+        margin-top: 25px;
+      }
 
-			.advocacy-image {
-				margin-left: 20px;
-				width: 35%; // this is wider as the image has content to its right, and so to scale it correctly this is what we have to do
-			}
+      .sector-image {
+        width: 30%;
+      }
 
-			.label {
-				margin-top: 5px;
-				font-size: 1.1em;
-			}
-		}
-	}
+      .advocacy-image {
+        margin-left: 20px;
+        width: 35%; // this is wider as the image has content to its right, and so to scale it correctly this is what we have to do
+      }
+
+      .label {
+        margin-top: 5px;
+        font-size: 1.1em;
+      }
+    }
+  }
 }
 
 .steps {
-	.vertical-line {
-		margin: 20px 0px;
-		height: 80px;
+  .vertical-line {
+    margin: 20px 0;
+    height: 80px;
 
-		background: linear-gradient(
-			to right, 
-	        transparent 0%, 
-	        transparent calc(50% - 0.81px), 
-	        $secondary calc(50% - 0.8px), 
-			$secondary calc(50% + 0.8px), 
-			transparent calc(50% + 0.81px), 
-			transparent 100%
-		); 
+    background: linear-gradient(
+                    to right,
+                    transparent 0%,
+                    transparent calc(50% - 0.81px),
+                    $secondary calc(50% - 0.8px),
+                    $secondary calc(50% + 0.8px),
+                    transparent calc(50% + 0.81px),
+                    transparent 100%
+    );
 
-		&.first-line {
-			margin-top: 0px;
-		}
+    &.first-line {
+      margin-top: 0px;
+    }
 
-		@media (max-width: 768px) {
-			margin: 5px 0px;
-			height: 50px;
-		}
-	}
+    @media (max-width: 768px) {
+      margin: 5px 0px;
+      height: 50px;
+    }
+  }
 
-	.step {
-		margin: 20px 0px;
+  .step {
+    margin: 20px 0px;
 
-		.step-description {
-			padding: 20px 20px 0px 0px;
-		}
+    .step-description {
+      padding: 20px 20px 0px 0px;
+    }
 
-		.img-fluid {
-			width: 50%;
-			height: auto;
-			margin: auto;
+    .img-fluid {
+      width: 50%;
+      height: auto;
+      margin: auto;
 
-			&.smaller {
-				width: 35%;
-			}
-		}
+      &.smaller {
+        width: 35%;
+      }
+    }
 
-		@media (max-width: 768px) {
-			margin: 20px 0px;
+    @media (max-width: 768px) {
+      margin: 20px 0;
 
-			.step-image {
-				margin: 20px 0px;
+      .step-image {
+        margin: 20px 0;
 
-				.img-fluid {
-					width: 65%;
-				}
-			}
-		}
-	}
+        .img-fluid {
+          width: 65%;
+        }
+      }
+    }
+  }
 }

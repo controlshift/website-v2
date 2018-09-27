@@ -1,79 +1,86 @@
 .dropdown-nav-container {
-	display: none;
-    position: absolute;
-    top: 30px;
-    padding-top: 30px; // this is to bridge the gap between the nav and the dropdown
-    z-index: 999;
+  display: none;
+  position: absolute;
+  top: 30px;
+  padding-top: 30px; // this is to bridge the gap between the nav and the dropdown
+  z-index: 999;
 
-    &.left {
-    	left: 0px;
+  &.left {
+    left: 0;
+  }
+
+  &.right {
+    right: 25px;
+  }
+
+  // this is the actual dropdown - it's within a container so it can be positioned perfectly
+  .dropdown-nav {
+    width: 420px;
+    height: 200px;
+    border-radius: 4px;
+    background-color: #ffffff;
+    box-shadow: 0 10px 20px 0 rgba(0, 0, 0, 0.2);
+
+    .menu-item {
+      width: 140px;
+      height: 200px;
+      float: left;
+
+      &:not(:last-child) {
+        border-right: 1px solid $light-gray;
+      }
+
+      .menu-item-image {
+        width: 100%;
+        height: 120px;
+        background-position: center center;
+        background-repeat: no-repeat;
+
+        &.events {
+          background-image: url(/assets/images/menu/events.svg);
+        }
+
+        &.groups {
+          background-image: url(/assets/images/menu/groups.svg);
+        }
+
+        &.campaigns {
+          background-image: url(/assets/images/menu/campaigns.svg);
+        }
+
+        &.sectors {
+          background-image: url(/assets/images/menu/sectors.svg);
+        }
+
+        &.case-studies {
+          background-image: url(/assets/images/menu/case-studies.svg);
+        }
+
+        &.why-distributed {
+          background-image: url(/assets/images/menu/why-distributed.svg);
+        }
+      }
+
+      .menu-item-text {
+        display: block;
+        width: 100%;
+        color: $secondary;
+        text-align: center;
+        font-family: Grafik-Medium, sans-serif;
+        padding: 5px 20px;
+      }
+
+      &:hover {
+        background: $lightest-blue;
+        text-decoration: none;
+        &:last-child {
+          border-radius: 0 4px 4px 0;
+        }
+        &:first-child {
+          border-radius: 4px 0 0 4px;
+        }
+
+      }
     }
-
-    &.right {
-    	right: 25px;
-    }
-
-    // this is the actual dropdown - it's within a container so it can be positioned perfectly
-	.dropdown-nav {
-		width: 420px;
-		height: 200px;
-		border-radius: 4px;
-		background-color: #ffffff;
-		box-shadow: 0 10px 20px 0 rgba(0, 0, 0, 0.2);
-
-		.menu-item {
-			width: 140px;
-			height: 200px;
-			float: left;
-
-			&:not(:last-child) {
-				border-right: 1px solid $light-gray;
-			}
-
-			.menu-item-image {
-				width: 100%;
-				height: 120px;
-				background-position: center center;
-				background-repeat: no-repeat;
-
-				&.events {
-					background-image: url(/assets/images/menu/events.svg);
-				}
-
-				&.groups {
-					background-image: url(/assets/images/menu/groups.svg);
-				}
-
-				&.campaigns {
-					background-image: url(/assets/images/menu/campaigns.svg);
-				}
-
-				&.sectors {
-					background-image: url(/assets/images/menu/sectors.svg);
-				}
-
-				&.case-studies {
-					background-image: url(/assets/images/menu/case-studies.svg);
-				}
-
-				&.why-distributed {
-					background-image: url(/assets/images/menu/why-distributed.svg);
-				}
-			}
-
-			.menu-item-text {
-				display: block;
-				width: 100%;
-				color: $secondary;
-				text-align: center;
-				font-family: Grafik-Medium;
-				padding: 5px 20px;
-			}
-
-			&:hover {
-				background: $lightest-blue;
-				text-decoration: none;
-			}
-		}
-	}
+  }
 }

@@ -26,7 +26,7 @@
   }
 
   .nav-link {
-    font-family: Grafik-Medium;
+    font-family: Grafik-Medium, sans-serif;
 
     &.no-padding {
       padding-left: 0px !important; // so we can underline the text without padding on the underline
@@ -44,7 +44,7 @@
   }
 
   > li {
-    padding-left:21px;
-    padding-right:21px;
+    padding-left: 21px;
+    padding-right: 21px;
   }
 }

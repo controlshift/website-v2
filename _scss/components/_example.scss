@@ -1,19 +1,19 @@
 .example {
-	font-size: 0.9em;
-	color: $light-text;
-	background-color: $light;
-	padding: 20px;
-	border-radius: 4px;
+  font-size: 0.9em;
+  color: $light-text;
+  background-color: $light;
+  padding: 20px;
+  border-radius: 4px;
 
-	label {
-		font-weight: bold;
-	}
+  label {
+    font-weight: bold;
+  }
 
-	p {
-		margin-bottom: 0px;
-	}
+  p {
+    margin-bottom: 0px;
+  }
 
-	@media (max-width: 768px) {
-		font-size: 1em;
-	}
+  @media (max-width: 768px) {
+    font-size: 1em;
+  }
 }
