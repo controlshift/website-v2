@@ -5,6 +5,14 @@
     padding-top: 30px; // this is to bridge the gap between the nav and the dropdown
     z-index: 999;
 
+    &.left {
+    	left: 0px;
+    }
+
+    &.right {
+    	right: 25px;
+    }
+
     // this is the actual dropdown - it's within a container so it can be positioned perfectly
 	.dropdown-nav {
 		width: 420px;
@@ -16,7 +24,7 @@
 		.menu-item {
 			width: 140px;
 			height: 200px;
-			display: inline-block;
+			float: left;
 
 			&:not(:last-child) {
 				border-right: 1px solid $light-gray;
@@ -39,15 +47,27 @@
 				&.campaigns {
 					background-image: url(/assets/images/menu/campaigns.svg);
 				}
+
+				&.sectors {
+					background-image: url(/assets/images/menu/sectors.svg);
+				}
+
+				&.case-studies {
+					background-image: url(/assets/images/menu/case-studies.svg);
+				}
+
+				&.why-distributed {
+					background-image: url(/assets/images/menu/why-distributed.svg);
+				}
 			}
 
 			.menu-item-text {
 				display: block;
-				width: 100px;
-				margin: auto;
+				width: 100%;
 				color: $secondary;
 				text-align: center;
 				font-family: Grafik-Medium;
+				padding: 5px 20px;
 			}
 
 			&:hover {

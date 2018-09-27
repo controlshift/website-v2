@@ -13,7 +13,8 @@
     padding-left: 1.5rem; // this padding has been moved from the nav-link within so the underline functions
     padding-right: 1.5rem;
 
-    &.features-dropdown {
+    &.features-dropdown,
+    &.how-it-works-dropdown {
       position: relative;
 
       &:hover {
