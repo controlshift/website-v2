@@ -13,7 +13,7 @@ jQuery.getJSON('https://cfyy3d57ng36.statuspage.io/api/v2/status.json', (data) =
 /* global zE */
 
 jQuery(() => {
-  jQuery('.lets-talk-link').on('click', () => {
+  jQuery('.lets-talk').on('click', () => {
     zE.activate();
   });
 });
