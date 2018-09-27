@@ -70,20 +70,20 @@
     );
 
     &.first-line {
-      margin-top: 0px;
+      margin-top: 0;
     }
 
-    @media (max-width: 768px) {
-      margin: 5px 0px;
+    @media (max-width: $grid-breakpoints('md')) {
+      margin: 5px 0;
       height: 50px;
     }
   }
 
   .step {
-    margin: 20px 0px;
+    margin: 20px 0;
 
     .step-description {
-      padding: 20px 20px 0px 0px;
+      padding: 20px 20px 0 0;
     }
 
     .img-fluid {
@@ -96,7 +96,7 @@
       }
     }
 
-    @media (max-width: 768px) {
+    @media (max-width: $grid-breakpoints('md')) {
       margin: 20px 0;
 
       .step-image {

@@ -4,8 +4,8 @@
   .feature-title {
     padding-top: 70px;
 
-    @media (max-width: 768px) {
-      padding-top: 0px;
+    @media (max-width: $grid-breakpoints('md')) {
+      padding-top: 0;
     }
   }
 
@@ -34,7 +34,7 @@
     }
   }
 
-  @media (max-width: 768px) {
+  @media (max-width: $grid-breakpoints('md')) {
     .feature-image {
       width: 40%;
       display: block;
@@ -78,7 +78,7 @@
     bottom: 0px;
   }
 
-  @media (max-width: 768px) {
+  @media (max-width: $grid-breakpoints('md')) {
     padding-top: 0px;
 
     .feature-image {
@@ -111,14 +111,14 @@
     }
 
     p {
-      margin-bottom: 0px;
+      margin-bottom: 0;
       line-height: 1.7;
       color: $gray-text;
     }
 
-    @media (max-width: 768px) {
+    @media (max-width: $grid-breakpoints('md')) {
       .subfeature-image {
-        margin: 25px 0px;
+        margin: 25px 0;
 
         .img-fluid {
           width: 50%;
@@ -128,7 +128,7 @@
   }
 
   hr {
-    @media (max-width: 768px) {
+    @media (max-width: $grid-breakpoints('md')) {
       margin-top: 1.5rem;
       margin-bottom: 1.5rem;
     }
@@ -169,28 +169,28 @@
     &.left {
       margin-right: 25px;
 
-      @media (max-width: 768px) {
-        margin-right: 0px;
+      @media (max-width: $grid-breakpoints('md')) {
+        margin-right: 0;
       }
     }
 
     &.right {
       margin-left: 25px;
 
-      @media (max-width: 768px) {
+      @media (max-width: $grid-breakpoints('md')) {
         margin-top: 25px;
-        margin-left: 0px;
+        margin-left: 0;
       }
     }
 
     .lead {
       font-weight: 600;
       font-size: 1.3em;
-      margin: 25px 0px;
+      margin: 25px 0;
     }
 
     .see-more {
-      margin: 10px 0px 25px 0px;
+      margin: 10px 0 25px 0;
       font-size: 0.7em;
     }
 
