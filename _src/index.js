@@ -1,7 +1,6 @@
 // CSS and SASS files
 import 'bootstrap';
 import jQuery from 'jquery';
-import './index.scss';
 
 jQuery.getJSON('https://cfyy3d57ng36.statuspage.io/api/v2/status.json', (data) => {
   jQuery(() => {
