@@ -14,9 +14,8 @@ permalink: /case-studies/
 
         <div class="row case-studies">
           {% for case_study in site.data.case_studies %}
-            <div class="col-md-4 col-sm-12 case-study">
-              <div class="case-study-image" style="background-image: url(/assets/images/logos/{{case_study.logo}});"></div>
-              <div class="divider"></div>
+            <div class="col-lg-4 col-md-6 col-sm-12 case-study">
+              <div class="case-study-image"><img src="/assets/images/logos/{{case_study.logo}}" alt="{{case_study.name | smartify }}"></div>
               <a href="/case-study/{{case_study.link}}/">{{case_study.name}}</a>
             </div>
           {% endfor %}
