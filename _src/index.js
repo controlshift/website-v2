@@ -16,4 +16,10 @@ jQuery(() => {
   jQuery('.lets-talk').on('click', () => {
     zE.activate();
   });
+
+  const $hamburger = jQuery('.hamburger');
+  $hamburger.on('click', () => {
+    $hamburger.toggleClass('is-active');
+    jQuery('body').toggleClass('mobile-menu-open');
+  });
 });

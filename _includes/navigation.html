@@ -1,8 +1,24 @@
 <nav class="navbar navbar-expand-lg navbar-light p-1">
-  <a class="navbar-brand" href="/"><img src="/assets/images/logos/logo.svg" class="img-fluid" alt="Logo" /></a>
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-    <span class="navbar-toggler-icon"></span>
+  <a class="navbar-brand" href="/"><img src="/assets/images/logos/logo.svg" class="img-fluid" alt="ControlShift Logo" /></a>
+  <button class="navbar-toggler hamburger hamburger--spin js-hamburger" type="button" data-toggle="collapse" data-target="#mobileNavbar" aria-controls="mobileNavbar" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="hamburger-box">
+      <span class="hamburger-inner"></span>
+    </span>
   </button>
+
+  <div class="collapse mobile-navbar" id="mobileNavbar">
+    <ul class="navbar-nav">
+      <li class="nav-item"><a class="nav-link" href="/feature/events/">Distributed Events</a></li>
+      <li class="nav-item"><a class="nav-link" href="/feature/groups/">Local Groups</a></li>
+      <li class="nav-item"><a class="nav-link" href="/feature/campaigns/">Member Campaigns</a></li>
+      <li class="nav-item"><a class="nav-link" href="https://controlshiftlabs.zendesk.com/hc/en-us">Support</a></li>
+      <li class="nav-item"><a class="nav-link" href="https://medium.com/controlshift-organizer">Blog</a></li>
+      <li class="nav-item"><a class="nav-link" href="/sector/advocacy">Sectors</a></li>
+      <li class="nav-item"><a class="nav-link" href="/case-studies/">Case Studies</a></li>
+      <li class="nav-item"><a class="nav-link" href="/how-it-works/">Why Distributed</a></li>
+      <li class="nav-item"><button class="nav-link btn btn-outline-primary lets-talk white">Let's Talk</button></li>
+    </ul>
+  </div>
 
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="navbar-nav ml-auto">
@@ -60,4 +76,3 @@
     </ul>
   </div>
 </nav>
-
