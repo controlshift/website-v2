@@ -18,7 +18,7 @@ jQuery(() => {
   });
 
   const $hamburger = jQuery('.hamburger');
-  $hamburger.on('click', function(e) {
+  $hamburger.on('click', () => {
     $hamburger.toggleClass('is-active');
     jQuery('body').toggleClass('mobile-menu-open');
   });
