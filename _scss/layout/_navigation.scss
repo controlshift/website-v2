@@ -48,3 +48,49 @@
     padding-right: 21px;
   }
 }
+
+.navbar-toggler{
+  &:focus{
+    outline: none;
+  }
+
+  &.hamburger{
+    &:hover{
+      opacity: 1;
+    }
+  }
+}
+
+@include media-breakpoint-up(md){
+  .mobile-navbar{
+    display: none;
+  }
+}
+
+@include media-breakpoint-down(md){
+  .mobile-navbar{
+    text-align: center;
+    width: 100%;
+
+    .navbar-nav{
+      .nav-item{
+        padding-left: 0.5rem;
+        padding-right: 0.5rem;
+      }
+
+      .nav-link{
+        &:hover,
+        &:focus{
+          border: 0;
+          padding-bottom: 8px;
+        }
+      }
+    }
+
+    .lets-talk{
+      min-width: 140px;
+      text-align: center;
+      margin: 10px auto 0 auto;
+    }
+  }
+}
