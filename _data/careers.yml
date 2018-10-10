@@ -1,18 +1,18 @@
 - name: team
   title: Great Team
-  detail: We're a passionate, kind and committed team trying to do the right thing by our customers and community.
+  detail: We're a passionate, kind, and committed team trying to do the right thing by our customers and community.
 
 - name: remote
-  title: Work where you want
-  detail: We're committed to working remotely. We meet up in-person for a week or two a year, but most of the time we work from home. Or the cafe. Or a co-working place. Or the beach. Wherever makes sense for our team members and their lives.
+  title: Work Where You Want
+  detail: We're committed to working remotely. We meet up in-person for a week or two a year, but most of the time we work from home. Or the cafe. Or a coworking place. Or the beach. Wherever makes sense for our team members and their lives.
 
 - name: retire
   title: 401k
-  detail: We offer staff a Vanguard 401k retirement plan and we match the contributions that you make to it.
+  detail: We offer staff a Vanguard 401k retirement plan, and we match the contributions that you make to it.
 
 - name: healthcare
-  title: Healthcare, Vision and Dental
-  detail: We provide access to a menu of health, dental and vision insurance to you and your family. We also provide access to OneMedical, a healthcare concierge and telemedicine service.
+  title: Healthcare, Vision, and Dental
+  detail: We provide access to a menu of health, dental, and vision insurance options for you and your family. We also provide access to OneMedical, a healthcare concierge and telemedicine service.
 
 - name: coworking
   title: Coworking Space
@@ -20,7 +20,7 @@
 
 - name: parents
   title: Paid Parental Leave
-  detail: When you welcome a new baby to your family we offer six weeks of paid and twenty weeks of unpaid leave.
+  detail: When you welcome a new baby or child to your family we offer six weeks of paid and twenty weeks of unpaid leave.
 
 - name: vacation
   title: Vacation
@@ -28,11 +28,11 @@
 
 - name: travel
   title: See the World
-  detail: Our team meets up for a week of in-person collaboration every nine months. So far we've convened in New York, Montreal, Sao Paulo and Buenos Aires.
+  detail: Our team meets up for a week of in-person collaboration every nine months. So far we've convened in New York, Montreal, Sao Paulo, and Buenos Aires.
 
 - name: support
   title: Everyone on Support
-  detail: Our whole team shares some of the work of supporting our customers - which helps us build empathy for our users and build a better product.
+  detail: Our whole team shares the work of supporting our customers - which helps us build empathy for our users and develop a better product.
 
 - name: matters
   title: Work that Matters
