@@ -10,8 +10,11 @@ permalink: /about-us/
       <div class="col-md-1"></div>
       <div class="col-md-6">
         <p>About us</p>
-        <h1>What Is ControlShift?</h1>
-        <p>The ControlShift platform is a set of innovative online organizing tools, rooted in the idea that people should drive social movements, even when they happen online. We are shifting control of online organizing beyond impersonal broadcast and back to our community organizing roots. We empower ordinary people from Bangalore to St. Louis with digital tools to collaborate on and win their own campaigns for social change, with offline support from the staff of existing organizations that they know and trust.</p>
+        <h1>We're ControlShift.</h1>
+        <p>
+          We think that advocacy organizations, campaigns and movements are more powerful when they invite everyone to participate and build
+          software in service of that vision. We while also building a great place to do work that matters.
+        </p>
       </div>
       <div class="col-md-1">
       </div>
@@ -28,20 +31,39 @@ permalink: /about-us/
 <div class="container-fluid bg-white text-black">
   <div class="container p-0">
     <div class="row pb-4 pt-4">
-      <div class="col-md-2"></div>
-      <div class="col-xs-12 col-md-8">
-        <h1>How Does It Work?</h1>
-        <p>The ControlShift platform builds your organization’s clout by letting members start, run, and win their own campaigns — anywhere in the world. It works like this: one of your members learns of plans to close a school in her neighborhood and decides to do something about it. She visits your organization’s ControlShift site and starts a petition asking the local school board to reverse the decision.</p>
-        <p>Through email, social media, and even door-to-door canvassing, she lets people know about the campaign and builds a supporter list through the petition. She then messages her supporters about the school board meeting, where they show up, speak out, turn in the petition signatures, and save their school. And then the same thing happens with other members, on other issues, in other communities. ControlShift lets your members come together and flex their power on the issues they care about most.</p>
+      <div class="col-xs-12 offset-md-2 col-md-8">
+        <div class="row ml-0 p-0 pb-3 pt-3">
+          {% for fact in site.data.about_us %}
+          <div class="col-md-4 selling-point">
+            <div class="mr-2">
+              <h5>{{fact.title}}</h5>
+              <p>{{fact.detail}}</p>
+            </div>
+          </div>
+          {% endfor %}
+        </div>
 
-        <p>Your organization has complete visibility into campaigns on the platform, including the option to moderate and offer strategic support. Supporters of the campaigns also opt-in to your list, growing your base of committed activists. More advanced functionality includes the ability to coordinate efforts across campaigns, through templating and pre-selected targets.</p>
+        <h2>Work with Us</h2>
+        <div class="row ml-0 p-0 pb-3  pt-3">
+          {% for benefit in site.data.careers %}
+          <div class="col-md-4 selling-point ">
+            <div class="mr-2">
+              <h5>{{benefit.title}}</h5>
+              <p>{{benefit.detail}}</p>
+            </div>
+          </div>
+          {% endfor %}
+        </div>
 
-        <p>We’re constantly adding new features designed to help supporters collaborate, mobilize, and fund their work — all in the name of winning victories that make people’s lives better.</p>
+        <h2 class="pt-1">Our Team</h2>
 
-        <h1 class="pt-1">Who Are We?</h1>
-        <p>ChangeSprout Inc., which provides access to the ControlShift toolset and other innovative online organizing tools, is a small team of software engineers and online organizers with several decades of combined experience in the advocacy sector, including at Organizing for America, ActBlue, CREDO, MoveOn.org, and Purpose. Our deep organizing and technology background, coupled with a close interest in our partners’ campaigns and goals, lets us develop tools that are particularly useful in facilitating effective grassroots organizing and building strong and participatory organizations. We have a deep commitment to progressive social change around the world, and we’re proud to support the work of groups like Greenpeace, 38 Degrees, GetUp, Campact.de, 350.org, and CREDO.</p>
+        <p>
+          We're a small team of software engineers and organizers with several decades of combined experience in the advocacy sector.
+          Our deep organizing and technology background, coupled with a close interest in our partners’
+          campaigns and goals, lets us develop tools that are particularly useful in facilitating effective grassroots organizing
+          and building strong and participatory organizations.
+        </p>
 
-        <div class="text-center pt-1">
           <img src="/assets/images/retreat.png" alt="Staff team photo" class="img-fluid" />
         </div>
       </div>
