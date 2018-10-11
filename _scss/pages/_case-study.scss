@@ -24,11 +24,15 @@
 
 .next-case-study {
   .left {
-    padding: 100px 0px;
+    padding: 100px 0;
 
     @include media-breakpoint-down(sm) {
-      padding: 25px 0px;
+      padding: 25px 0;
     }
+  }
+
+  .medium {
+    color: $gray-text;
   }
 
   .right {
