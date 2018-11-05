@@ -58,16 +58,21 @@
   .vertical-line {
     margin: 20px 0;
     height: 80px;
+    background-color: $secondary;
 
-    background: linear-gradient(
-                    to right,
-                    transparent 0%,
-                    transparent calc(50% - 0.81px),
-                    $secondary calc(50% - 0.8px),
-                    $secondary calc(50% + 0.8px),
-                    transparent calc(50% + 0.81px),
-                    transparent 100%
-    );
+    &:before, &:after {
+      content: ' ';
+      background-color: white;
+      display: inline-block;
+      width: calc(50% - 1px);
+      height: 100%;
+    }
+    &:before {
+      float: left;
+    }
+    &:after {
+      float: right;
+    }
 
     &.first-line {
       margin-top: 0;
