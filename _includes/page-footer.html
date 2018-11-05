@@ -29,15 +29,18 @@
       {% for e in site.data.endorsements %}
         <div class="col-12 carousel-item {% if forloop.first == true %}active{% endif %}  mt-4 mb-4">
           <div class="row">
-            <div class="col-md-2 name">
+            <div class="d-none d-lg-block col-lg-2 name">
               <strong>{{e.name}}</strong><br />
               {{e.position}},<br />
               {{e.org}}
             </div>
-            <div class="col-md-8 detail ml-2">
-              {{e.detail}}”
+            <div class="d-lg-none col-sm-12 name mb-1">
+              <strong>{{e.name}}</strong><br />
+              {{e.position}},<br />
+              {{e.org}}
             </div>
-            <div class="col-md-2">
+            <div class="col-lg-8 col-sm-12 detail ml-2">
+              {{e.detail}}”
             </div>
           </div>
         </div>

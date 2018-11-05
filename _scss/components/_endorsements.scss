@@ -22,6 +22,10 @@
         color: white;
       }
     }
+
+    @include media-breakpoint-down(sm) {
+      padding-right: 10px;
+    }
   }
 
   .name {
