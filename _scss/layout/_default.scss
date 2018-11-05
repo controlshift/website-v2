@@ -239,6 +239,11 @@ img.faded {
 
 .carousel-inner {
   overflow: visible;
+
+  .arrow {
+    position: relative;
+    z-index: 1000;
+  }
 }
 
 /* SELLING POINTS */
