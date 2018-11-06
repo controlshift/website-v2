@@ -2,18 +2,18 @@
 
 ## Prerequisites
 The following tools should be installed before starting:
-* NodeJS, npm
+* NodeJS, npm, yarn
 * Ruby, Gem, Bundler
 * Jekyll
 * Sass
 
 ## Set up instructions
-* `npm install`
+* `yarn install`
 * `bundle install`
-* `npm start` to serve locally, with live reload
+* `yarn start` to serve locally, with live reload
 
 ## Deployment
-* `npm run build`
+* `yarn run build`
 
 ### Configurations
 * The required configurations are all in `_config.yml`
