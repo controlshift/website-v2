@@ -169,7 +169,7 @@
     &.left {
       margin-right: 25px;
 
-      @media (max-width: map-get($grid-breakpoints, 'md')) {
+      @include media-breakpoint-down(sm) {
         margin-right: 0;
       }
     }
@@ -177,7 +177,7 @@
     &.right {
       margin-left: 25px;
 
-      @media (max-width: map-get($grid-breakpoints, 'md')) {
+      @include media-breakpoint-down(sm) {
         margin-top: 25px;
         margin-left: 0;
       }
@@ -202,7 +202,12 @@
 
       img {
         width: 100%;
-        height: auto;
+        height: 250px;
+
+        @include media-breakpoint-down(sm) {
+          width: 100%;
+          height: auto;
+        }
       }
     }
   }
