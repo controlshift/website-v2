@@ -1,0 +1,16 @@
+.stats-bar{
+  background-color: #f5fcff;
+  color: $secondary;
+
+  .stat:not(:last-child) {
+    border-right: solid 1px $light-blue;
+  }
+
+  .stat-value {
+    font-size: $font-size-lg;
+  }
+
+  .stat-name {
+
+  }
+}

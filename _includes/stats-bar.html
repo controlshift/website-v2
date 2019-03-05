@@ -1,0 +1,10 @@
+<div class="container stats-bar">
+  {% assign org_stats = site.data.stats | where: "organization", include.org | first %}
+  {% for stat in org_stats.stats %}
+    <div class="stat">
+      <!-- TODO: Add stat logo -->
+      <span class="stat-value">{{ stat.value }}</span>
+      <span class="stat-name">{{ stat.name }}</span>
+    </div>
+  {% endfor %}
+</div>
