@@ -2,12 +2,24 @@
   background-color: #f5fcff;
   color: $secondary;
 
-  .stat:not(:last-child) {
-    border-right: solid 1px $light-blue;
+  .stat {
+    display: inline-block;
+    margin: {
+      top: 40px;
+      bottom: 40px;
+    }
+
+    &:not(:last-child) {
+      border-right: solid 1px $light-blue;
+    }
+
+    span {
+      display: block;
+    }
   }
 
   .stat-value {
-    font-size: $font-size-lg;
+    font-size: 38px;
   }
 
   .stat-name {
