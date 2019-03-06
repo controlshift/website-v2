@@ -1,0 +1,14 @@
+- organization: amnesty-ca
+  stats:
+    -
+      name: Events Created
+      value: "272"
+      icon: event.png
+    -
+      name: Letters sent in Canada
+      value: "49,582"
+      icon: envelope.png
+    -
+      name: Year-on-year increase
+      value: "33%"
+      icon: increase.png
