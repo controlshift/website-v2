@@ -14,6 +14,10 @@ layout: default
   </div>
 </div>
 
+{% if page.show_stats_bar %}
+  {% include stats-bar.html org=page.org %}
+{% endif %}
+
 <div class="container-fluid bg-white text-black case-study">
   <div class="container p-0 pt-4">
     {{content}}

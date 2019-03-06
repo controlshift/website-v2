@@ -2,8 +2,18 @@
   background-color: #f5fcff;
   color: $secondary;
 
+  .stats-container {
+    display: flex;
+    margin: 0 auto;
+
+    @include media-breakpoint-down(sm) {
+      padding: 0;
+    }
+  }
+
   .stat {
-    display: inline-block;
+    display: block;
+    flex: auto;
     margin: {
       top: 40px;
       bottom: 40px;
@@ -18,11 +28,22 @@
     }
   }
 
-  .stat-value {
-    font-size: 38px;
+  .stat-icon-container {
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
   }
 
-  .stat-name {
+  .stat-icon {
+    width: 45px;
+  }
 
+  .stat-value {
+    font-size: 38px;
+
+    @include media-breakpoint-down(sm) {
+      font-size: 24px;
+    }
   }
 }
