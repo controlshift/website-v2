@@ -1,4 +1,20 @@
 .case-study {
+  h4 {
+    font-size: 28px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    color: #292929;
+    line-height: 1.43;
+    letter-spacing: normal;
+  }
+
+  p {
+    color: $gray-text;
+    font-size: 18px;
+    line-height: 1.67;
+  }
+
   div.stretchy-wrapper {
     width: 100%;
     padding-bottom: 4.5%;
