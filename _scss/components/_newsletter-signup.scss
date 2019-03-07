@@ -1,0 +1,48 @@
+.newsletter-signup {
+  font-family: $font-family-sans-serif-regular;
+
+  .email-label {
+    @include media-breakpoint-up(md) {
+      text-align: right;
+    }
+  }
+
+  .email-address {
+    background-color: transparent;
+    font-weight: 100;
+
+    &, &::placeholder {
+      color: #ffffff;
+    }
+
+    &:focus, &:active {
+      box-shadow: unset;
+    }
+
+    @include media-breakpoint-up(md) {
+      max-width: 250px;
+    }
+
+    @include media-breakpoint-down(sm) {
+      padding-left: 14px;
+    }
+  }
+
+  .btn-subscribe {
+    // Need to force re-setting border radius in case to avoid losing the style
+    // when a validation error message is inserted by Mailchimp
+    border-top-right-radius: 6px !important;
+    border-bottom-right-radius: 6px !important;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  // Mailchimp elements customization
+  .mce_inline_error {
+    display: block;
+    width: 100%;
+  }
+}
