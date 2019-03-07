@@ -29,9 +29,20 @@
   }
 
   .btn-subscribe {
-    @include media-breakpoint-up(md) {
-      padding-left: 15px;
-      padding-right: 15px;
-    }
+    // Need to force re-setting border radius in case to avoid losing the style
+    // when a validation error message is inserted by Mailchimp
+    border-top-right-radius: 6px !important;
+    border-bottom-right-radius: 6px !important;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  // Mailchimp elements customization
+  .mce_inline_error {
+    display: block;
+    width: 100%;
   }
 }
