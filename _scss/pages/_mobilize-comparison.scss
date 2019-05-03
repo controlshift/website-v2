@@ -1,0 +1,51 @@
+.mobilize-comparison {
+  h4 {
+    font-size: 28px;
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+    color: #292929;
+    line-height: 1.43;
+    letter-spacing: normal;
+  }
+
+  p {
+    color: $gray-text;
+    font-size: 18px;
+    line-height: 1.67;
+  }
+
+  .table {
+    color: #292929;
+    text-align: center;
+    font-weight: 400;
+
+    thead {
+      th {
+        color: #ffffff;
+        background-color: #0f91c2;
+        font-weight: 400;
+
+        &:last-child {
+          background-color: #0679a4;
+          font-weight: 800;
+        }
+      }
+    }
+
+    tbody {
+
+      td:first-child {
+        font-size: 20px;
+      }
+
+      td:last-child {
+        font-weight: 800;
+      }
+    }
+
+    .fa-check {
+      color: #0f91c2;
+    }
+  }
+}
