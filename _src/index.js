@@ -10,13 +10,7 @@ jQuery.getJSON('https://cfyy3d57ng36.statuspage.io/api/v2/status.json', (data) =
   });
 });
 
-/* global zE */
-
 jQuery(() => {
-  jQuery('.lets-talk').on('click', () => {
-    zE.activate();
-  });
-
   const $hamburger = jQuery('.hamburger');
   $hamburger.on('click', () => {
     $hamburger.toggleClass('is-active');
