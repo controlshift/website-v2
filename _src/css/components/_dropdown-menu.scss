@@ -37,27 +37,27 @@
         background-repeat: no-repeat;
 
         &.events {
-          background-image: url(/assets/images/menu/events.svg);
+          background-image: url(images/menu/events.svg);
         }
 
         &.groups {
-          background-image: url(/assets/images/menu/groups.svg);
+          background-image: url(images/menu/groups.svg);
         }
 
         &.campaigns {
-          background-image: url(/assets/images/menu/campaigns.svg);
+          background-image: url(images/menu/campaigns.svg);
         }
 
         &.sectors {
-          background-image: url(/assets/images/menu/sectors.svg);
+          background-image: url(images/menu/sectors.svg);
         }
 
         &.case-studies {
-          background-image: url(/assets/images/menu/case-studies.svg);
+          background-image: url(images/menu/case-studies.svg);
         }
 
         &.why-distributed {
-          background-image: url(/assets/images/menu/why-distributed.svg);
+          background-image: url(images/menu/why-distributed.svg);
         }
       }
 
@@ -79,7 +79,6 @@
         &:first-child {
           border-radius: 4px 0 0 4px;
         }
-
       }
     }
   }

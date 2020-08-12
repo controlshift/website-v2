@@ -2,31 +2,31 @@
 @import 'normalize.css';
 
 /* theme */
-@import '../_scss/_dotted_border' ;
-@import '../_scss/_custom';
+@import 'css/_dotted_border' ;
+@import 'css/_custom';
 @import "~bootstrap/scss/bootstrap";
-@import '../_scss/_hamburger';
-@import '../_scss/_typography';
-@import '../_scss/_utilities';
+@import 'css/_hamburger';
+@import 'css/_typography';
+@import 'css/_utilities';
 
 /* components */
-@import '../_scss/components/_dropdown-menu';
-@import '../_scss/components/_endorsements';
-@import '../_scss/components/_example';
-@import '../_scss/components/_lets-talk';
-@import '../_scss/components/_newsletter-signup';
-@import '../_scss/components/_stats-bar';
+@import 'css/components/_dropdown-menu';
+@import 'css/components/_endorsements';
+@import 'css/components/_example';
+@import 'css/components/_lets-talk';
+@import 'css/components/_newsletter-signup';
+@import 'css/components/_stats-bar';
 
 /* layout */
-@import '../_scss/layout/_default';
-@import '../_scss/layout/_footer';
-@import '../_scss/layout/_navigation';
+@import 'css/layout/_default';
+@import 'css/layout/_footer';
+@import 'css/layout/_navigation';
 
 /* pages */
-@import '../_scss/pages/_case-studies';
-@import '../_scss/pages/_case-study';
-@import '../_scss/pages/_feature';
-@import '../_scss/pages/_home';
-@import '../_scss/pages/_how-it-works';
-@import '../_scss/pages/_mobilize-comparison';
-@import '../_scss/pages/_sector';
+@import 'css/pages/_case-studies';
+@import 'css/pages/_case-study';
+@import 'css/pages/_feature';
+@import 'css/pages/_home';
+@import 'css/pages/_how-it-works';
+@import 'css/pages/_mobilize-comparison';
+@import 'css/pages/_sector';

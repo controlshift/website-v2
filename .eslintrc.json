@@ -1,0 +1,57 @@
+{
+  "env": {
+    "browser": true,
+    "es6": true,
+    "node": true,
+    "jquery": true
+  },
+  "plugins": [],
+  "extends": ["eslint:recommended"],
+  "parserOptions": {
+    "parser": "babel-eslint",
+    "allowImportExportEverywhere": true,
+    "sourceType": "module",
+    "babelOptions": {
+      "configFile": "babel.config.js"
+    }
+  },
+  "rules": {
+    "indent": [
+      "error",
+      2,
+      {"CallExpression": {"arguments": "first"},
+        "ArrayExpression": "first",
+        "ObjectExpression": "first",
+        "ignoredNodes": [
+          "TemplateLiteral"
+        ]
+      }
+    ],
+    "comma-dangle": ["error"],
+    "linebreak-style": [
+      "error",
+      "unix"
+    ],
+    "quotes": [
+      "error",
+      "single"
+    ],
+    "semi": [
+      "error",
+      "never"
+    ],
+    "eqeqeq": [
+      "error",
+      "smart"
+    ],
+    "no-unused-vars": [
+      "error",
+      {
+        "argsIgnorePattern": "^_"
+      }
+    ]
+  },
+  "globals":{
+    "google": "readonly"
+  }
+}

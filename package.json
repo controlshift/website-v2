@@ -8,10 +8,7 @@
   "license": "MIT",
   "scripts": {
     "start": "npm run-script clean:project; concurrently \"webpack --env=dev --progress --profile --colors; NODE_ENV=development webpack-dev-server --env=dev\" \"bundle exec jekyll serve\"",
-    "build:optim": "npm run-script clean:project; cross-env NODE_ENV=production webpack --env=prod --progress --profile --colors; webpack --env=optim  --progress --profile --colors; JEKYLL_ENV=production bundle exec jekyll build",
-    "build:pwa:optim": "npm run-script clean:project; cross-env NODE_ENV=production webpack --env=pwa --progress --profile --colors; webpack --env=optim  --progress --profile --colors; JEKYLL_ENV=pwa bundle exec jekyll build; sw-precache --config=config/sw.config.js --verbose",
     "build": "npm run-script clean:project; cross-env NODE_ENV=production webpack --env=prod --progress --profile --colors; JEKYLL_ENV=production bundle exec jekyll build",
-    "build:pwa": "npm run-script clean:project; cross-env NODE_ENV=production webpack --env=pwa --progress --profile --colors; JEKYLL_ENV=pwa bundle exec jekyll build; sw-precache --config=config/sw.config.js --verbose",
     "serve:dist": "http-server _site",
     "clean:project": "if [ -e _site ]; then rm -R _site; fi; if [ -e assets ]; then rm -R assets; fi"
   },
@@ -56,6 +53,7 @@
   },
   "devDependencies": {
     "mini-css-extract-plugin": "^0.10.0",
+    "resolve-url-loader": "^3.1.1",
     "webpack-cli": "^3.3.12"
   }
 }

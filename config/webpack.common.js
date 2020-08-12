@@ -1,40 +1,48 @@
-const path = require('path');
-const HtmlWebpackPlugin = require('html-webpack-plugin');
-const webpack = require('webpack');
-const MiniCssExtractPlugin = require('mini-css-extract-plugin');
-const CopyWebpackPlugin = require('copy-webpack-plugin');
-const FaviconsWebpackPlugin = require('favicons-webpack-plugin');
+/* eslint-disable indent */
+const path = require('path')
+const HtmlWebpackPlugin = require('html-webpack-plugin')
+const webpack = require('webpack')
+const MiniCssExtractPlugin = require('mini-css-extract-plugin')
+const CopyWebpackPlugin = require('copy-webpack-plugin')
+const FaviconsWebpackPlugin = require('favicons-webpack-plugin')
 
 module.exports = {
+  context: path.resolve(__dirname, '..'),
+
+  output: {
+    filename: '[name]-[hash].bundle.js',
+    path: path.resolve('assets'),
+    publicPath: '/assets/'
+  },
   entry: {
-    app: './_src/index.js',
+    app: './_src/index.js'
   },
   plugins: [
     new FaviconsWebpackPlugin({
-      logo: './icon.png',
+      logo: './icon.png'
     }),
     new HtmlWebpackPlugin({
       template: './_src/template/default.html',
-      filename: '../_layouts/default.html',
+      filename: '../_layouts/default.html'
     }),
     new MiniCssExtractPlugin({
       filename: '[name].css',
-      chunkFilename: '[id].css',
+      chunkFilename: '[id].css'
     }),
     new CopyWebpackPlugin({
       patterns: [{
-        from: path.resolve('_images'),
-        to: 'images/',
+        from: path.resolve('_src/images'),
+        to: 'images/'
       },
       {
-        from: path.resolve('_fonts'),
-        to: 'fonts/',
-      }],
+        from: path.resolve('_src/fonts'),
+        to: 'fonts/'
+      }]
     }),
     new webpack.ProvidePlugin({
       jQuery: 'jquery',
-      $: 'jquery',
-    }),
+      $: 'jquery'
+    })
   ],
   module: {
     rules: [
@@ -44,30 +52,35 @@ module.exports = {
         use: {
           loader: 'babel-loader',
           options: {
-            presets: ['@babel/preset-env'],
-          },
-        },
+            presets: ['@babel/preset-env']
+          }
+        }
       },
       {
         test: /\.(sa|sc|c)ss$/,
         use: [
           'style-loader',
           'css-loader',
-          'sass-loader',
-        ],
+          'resolve-url-loader',
+          'sass-loader'
+        ]
       },
       {
-        test: /\.(png|svg|jpg|gif)$/,
-        use: [
-          'file-loader',
-        ],
+        test: /\.(?:ico|gif|png|jpg|jpeg|webp|svg)$/i,
+        loader: 'file-loader',
+        options: {
+          name: '[path][name].[ext]',
+          context: '_src' // prevent display of src/ in filename
+        }
       },
       {
         test: /\.(woff|woff2|eot|ttf|otf)$/,
-        use: [
-          'file-loader',
-        ],
-      },
-    ],
-  },
-};
+        loader: 'file-loader',
+        options: {
+          name: '[path][name].[ext]',
+          context: '_src' // prevent display of src/ in filename
+        }
+      }
+    ]
+  }
+}
