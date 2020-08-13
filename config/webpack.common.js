@@ -9,11 +9,6 @@ const FaviconsWebpackPlugin = require('favicons-webpack-plugin')
 module.exports = {
   context: path.resolve(__dirname, '..'),
 
-  output: {
-    filename: '[name]-[hash].bundle.js',
-    path: path.resolve('assets'),
-    publicPath: '/assets/'
-  },
   entry: {
     app: './_src/index.js'
   },
@@ -59,7 +54,7 @@ module.exports = {
       {
         test: /\.(sa|sc|c)ss$/,
         use: [
-          'style-loader',
+          MiniCssExtractPlugin.loader,
           'css-loader',
           'resolve-url-loader',
           'sass-loader'
