@@ -18,7 +18,6 @@ The following tools should be installed before starting:
 ### Configurations
 * The required configurations are all in `_config.yml`
 * Also edit `package.json` the name is used in the meta tags
-* If you want a `manifest.json` file please edit `config/webpack.pwa.js`
 * Replace the different icon by yours in `_images` and in the root folder
 
 ### Assets

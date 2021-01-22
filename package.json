@@ -48,8 +48,7 @@
     "webpack": "^4.44.1",
     "webpack-dev-server": "^3.11.0",
     "webpack-merge": "^5.1.1",
-    "webpack-plugin-critical": "^1.0.0",
-    "webpack-pwa-manifest": "^4.2.0"
+    "webpack-plugin-critical": "^1.0.0"
   },
   "devDependencies": {
     "mini-css-extract-plugin": "^0.10.0",
