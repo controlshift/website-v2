@@ -10,9 +10,12 @@ The following tools should be installed before starting:
 ## Set up instructions
 * `yarn install`
 * `bundle install`
-* `yarn start` to serve locally, with live reload
+* `yarn start` to serve locally, with live reload, site will be available at http://localhost:8080/
 
 ## Deployment
+To deploy a new version of the app, just commit a new version on `main`. Netlify will compile the content and deploy automatically.
+
+To simulate locally:
 * `yarn run build`
 
 ### Configurations
