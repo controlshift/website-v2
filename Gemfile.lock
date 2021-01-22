@@ -95,7 +95,7 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll
-  jekyll-feed (~> 0.6)
+  jekyll-feed
   jekyll-multiple-languages-plugin
   jekyll-seo-tag
   jekyll-sitemap
