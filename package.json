@@ -35,7 +35,6 @@
     "http-server": "^0.12.3",
     "imagemin-webpack-plugin": "^2.3.0",
     "jquery": "^3.3.1",
-    "normalize.css": "^8.0.1",
     "npm-lifecycle": "^3.1.5",
     "popper.js": "^1.14.4",
     "postcss-import": "^12.0.1",

@@ -1,11 +1,10 @@
 /* lib */
-@import 'normalize.css';
-
-/* theme */
-@import 'css/_dotted_border' ;
 @import 'css/_custom';
 @import "~bootstrap/scss/bootstrap";
 @import 'css/_hamburger';
+@import 'css/_dotted_border';
+
+/* theme */
 @import 'css/_typography';
 @import 'css/_utilities';
 
