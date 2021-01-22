@@ -2,7 +2,7 @@ title: ControlShift
 email: talk@controlshiftlabs.com
 description: ControlShift is a set of web tools that helps your organization build community, leadership, and real power among your members.
 baseurl: ""
-url: "https://www.controlshiftlabs.com/"
+url: "https://www.controlshiftlabs.com"
 theme_color: '#0f91c2'
 relative_permalinks: false
 
@@ -36,6 +36,8 @@ exclude:
   - yarn.lock
   - config
   - icon.png
+  - .idea
+  - .git
 include:
   - _headers
   - _redirects
