@@ -1,7 +1,6 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
 
 <meta name="theme-color" content="{{ site.theme_color }}">
 <meta name="msapplication-navbutton-color" content="{{ site.theme_color }}">
@@ -9,10 +8,6 @@
 <meta property="og:image" content="{{ site.url }}/{{ site.logo }}" />
 
 <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
-
-<script type="text/javascript">window.$crisp=[];window.CRISP_WEBSITE_ID="47a07ce8-dd2f-49a9-a6d8-b1f62509a54d";(function(){d=document;s=d.createElement("script");s.src="https://client.crisp.chat/l.js";s.async=1;d.getElementsByTagName("head")[0].appendChild(s);})();</script>
-
-{% seo %}
 
 {% if (jekyll.environment == 'production') %}
 	{% if site.google_analytics %}

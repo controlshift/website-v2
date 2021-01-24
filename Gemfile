@@ -1,6 +1,7 @@
 source "https://rubygems.org"
 
 gem "jekyll"
+gem "liquid-c"
 
 group :jekyll_plugins do
    gem 'jekyll-feed'
@@ -8,6 +9,7 @@ group :jekyll_plugins do
    gem 'jekyll-seo-tag'
    gem 'octopress-minify-html'
    gem 'jekyll-multiple-languages-plugin'
+   gem 'jekyll-include-cache'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem

@@ -19,6 +19,7 @@ plugins:
   - jekyll-seo-tag
   - octopress-minify-html
   - jekyll-multiple-languages-plugin
+  - jekyll-include-cache
 
 ### Exclude from processing.
 exclude:
