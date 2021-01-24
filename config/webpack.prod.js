@@ -4,7 +4,6 @@ const { CleanWebpackPlugin } = require('clean-webpack-plugin')
 const path = require('path')
 const TerserPlugin = require('terser-webpack-plugin')
 
-
 module.exports = merge(CommonConfig, {
   mode: 'production',
 

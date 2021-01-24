@@ -7,7 +7,6 @@ const CopyWebpackPlugin = require('copy-webpack-plugin')
 const FaviconsWebpackPlugin = require('favicons-webpack-plugin')
 const ImageminPlugin = require('imagemin-webpack-plugin').default
 
-
 module.exports = {
   context: path.resolve(__dirname, '..'),
 
@@ -36,7 +35,10 @@ module.exports = {
         to: 'fonts/'
       }]
     }),
-    new ImageminPlugin({ test: /\.(jpe?g|png|gif|svg)$/i }),
+    new ImageminPlugin({
+      disable: process.env.NODE_ENV !== 'production',
+      test: /\.(jpe?g|png|gif|svg)$/i
+    }),
     new webpack.ProvidePlugin({
       jQuery: 'jquery',
       $: 'jquery'

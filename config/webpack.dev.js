@@ -6,7 +6,7 @@ module.exports = merge(CommonConfig, {
   mode: 'development',
   output: {
     filename: '[name].js',
-    path: path.resolve('assets'),
+    path: path.resolve('_site', 'assets'),
     publicPath: '/assets/'
   },
   devServer: {

@@ -25,11 +25,12 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - node_modules
-  - vendor
   - _src
   - images
   - LICENSE
+  - netlify.toml
   - package.json
+  - Rakefile
   - README.md
   - webpack.config.js
   - yarn-error.log
