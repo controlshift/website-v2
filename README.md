@@ -26,7 +26,7 @@ To simulate locally:
 ### Assets
 * SCSS partials should be located in `_scss` for better reading
 * Put all your images in `_images` the content of this folder will be moved to the `_site/assets/images` so you can access them with this path `/assets/images/**` in your templates, check the examples
-* Put all your Javascript files inside `_src` and import them from `index.js` or you can also add them as a new entry point in your webpack configuration file
+* Put all your Javascript files inside `_src` and import them from `app.js` or you can also add them as a new entry point in your webpack configuration file
 
 ### Internationalization
 * All the posts should be there in inside `_i18n` folder inside its language, check the boilerplate examples
