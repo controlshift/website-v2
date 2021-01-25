@@ -11,7 +11,8 @@ module.exports = {
   context: path.resolve(__dirname, '..'),
 
   entry: {
-    app: './_src/index.js'
+    app: './_src/index.js',
+    admin: './_src/admin.js'
   },
   plugins: [
     new FaviconsWebpackPlugin({
@@ -19,7 +20,8 @@ module.exports = {
     }),
     new HtmlWebpackPlugin({
       template: './_src/template/default.html',
-      filename: '../_layouts/default.html'
+      filename: '../_layouts/default.html',
+      chunks: ['app']
     }),
     new MiniCssExtractPlugin({
       filename: '[name].css',
