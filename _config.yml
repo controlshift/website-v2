@@ -7,7 +7,8 @@ theme_color: '#0f91c2'
 relative_permalinks: false
 
 languages: ["en"]
-
+paginate: 10
+paginate_path: "/blog/page:num/"
 ### Segment
 segment: Bzk4BmiFef6VNuKJRAqXV6zdubV3fnRs
 
@@ -17,8 +18,7 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
-  - octopress-minify-html
-  - jekyll-multiple-languages-plugin
+  - jekyll-paginate
   - jekyll-include-cache
 
 ### Exclude from processing.

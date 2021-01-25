@@ -7,8 +7,7 @@ group :jekyll_plugins do
    gem 'jekyll-feed'
    gem 'jekyll-sitemap'
    gem 'jekyll-seo-tag'
-   gem 'octopress-minify-html'
-   gem 'jekyll-multiple-languages-plugin'
+   gem 'jekyll-paginate'
    gem 'jekyll-include-cache'
 end
 
