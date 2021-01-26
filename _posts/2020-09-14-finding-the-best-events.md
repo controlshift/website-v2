@@ -2,6 +2,7 @@
 layout:	post
 title:	"Finding the Best Events"
 date:	2020-09-14
+featured_image: "/img/1*zulST3AWtzH9nrL-83Gwjg@2x.png"
 ---
 
 Whether your movement is fighting for racial justice, a Green New Deal, or a fair workplace, there can be an overwhelming number of ways for volunteers to get involved and get to work locally. These opportunities may also be spread across allied organizations or siloed in different event tools.

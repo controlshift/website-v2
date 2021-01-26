@@ -1,0 +1,13 @@
+<div class="post-summary {{ include.featured_class }}">
+
+    <a href="{{ post.url }}">
+        <h2>{{ post.title }}</h2>
+    </a>
+    <div class="excerpt">
+        {{ post.excerpt | strip_html  }}
+    </div>
+    {% if post.featured_image and include.featured_class %}
+    <img src="{{post.featured_image}}" class="img-fluid mx-auto d-block">
+    {% endif %}
+    <a href="{{ post.url }}">Read More →</a>
+</div>

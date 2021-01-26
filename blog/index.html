@@ -2,18 +2,26 @@
 layout: default
 title: Blog
 ---
-<div class="container-fluid bg-white text-black">
-    <div class="container p-0">
+<div class="container-fluid bg-white text-black blog">
+    <div class="container">
         <div class="row pb-4 pt-4">
             <div class="row justify-content-center">
                 <div class="col-md-8">
-                    <ul>
+                    <h4> ControlShift Blog</h4>
+                </div>
+                <div class="col-md-8">
+                    {% unless paginator.previous_page  %}
+                      {% for post in paginator.posts offset:0 limit:1 %}
+                        {% include post-summary.html featured_class="featured" %}
+                      {% endfor %}
+                      {% for post in paginator.posts offset:1  %}
+                        {% include post-summary.html %}
+                      {% endfor %}
+                    {% else %}
                         {% for post in paginator.posts %}
-                        <li>
-                            <a href="{{ post.url }}">{{ post.title }}</a>
-                        </li>
+                          {% include post-summary.html %}
                         {% endfor %}
-                    </ul>
+                    {% endunless %}
                 </div>
 
                 <div class="col-md-8">
