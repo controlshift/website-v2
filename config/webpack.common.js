@@ -23,6 +23,11 @@ module.exports = {
       filename: '../_layouts/default.html',
       chunks: ['app']
     }),
+    new HtmlWebpackPlugin({
+      template: './_src/template/admin.html',
+      filename: '../admin/index.html',
+      chunks: ['admin']
+    }),
     new MiniCssExtractPlugin({
       filename: '[name].css',
       chunkFilename: '[id].css'
