@@ -23,10 +23,23 @@ We’ve kept on working to make this wide-open front door for your supporters mo
 
 Another new option allows your team to feature certain events. Featuring events causes them to rank higher and is a great way to promote national organizing calls that all supporters should attend or national gatherings that local volunteers might travel to. We even automatically feature events in ControlShift when similar toggles are set in the tools we integrate with like MobilizeAmerica.
 
-![expanded filters on an event search page](/img/1*XqfbzQO3uqikiPm_hgMMkw.png)
-Filters help your supporters find events more easily.We’ve also made it easier for your supporters to filter the events list to find the ones they are most interested in attending. Your team can also link to pre-filtered lists to make it easier for supporters or you can build an embeddable map that only has a subset of events. Powerful filters can be combined in complex ways to restrict the events that are displayed.
+<figure markdown="1">
+![expanded filters on an event search page](/img/1*XqfbzQO3uqikiPm_hgMMkw.png){: class="figure-img rounded"}
+<figcaption class="figure-caption">
+Filters help your supporters find events more easily.
+</figcaption>
+</figure>
 
-![CRM Integrations Image](/img/1*IToPcB6cFDHUODKBRD4tlQ.png)ControlShift integrates with the tools you’re already using.The ecosystem of tech used for organizing keeps on getting more complicated, so in addition to aggregating events from other platforms like [Mobilize America](https://www.mobilize.us/) and [VAN](https://act.ngpvan.com/votebuilder) we also integrate tightly with mailers like [ActionKit](https://www.actionkit.com/) and [Blue State Digital](https://tools.bluestatedigital.com/kb). Through these integrations we can automatically recognize your users when they arrive on the platform. You can also embed personalized event information directly into your emails so that your supporters can RSVP instantly without filling out a cumbersome form.
+We’ve also made it easier for your supporters to filter the events list to find the ones they are most interested in attending. Your team can also link to pre-filtered lists to make it easier for supporters or you can build an embeddable map that only has a subset of events. Powerful filters can be combined in complex ways to restrict the events that are displayed.
+
+<figure markdown="1">
+![CRM Integrations Image](/img/1*IToPcB6cFDHUODKBRD4tlQ.png){: class="figure-img rounded"}
+<figcaption class="figure-caption">
+ControlShift integrates with the tools you’re already using.
+</figcaption>
+</figure>
+
+The ecosystem of tech used for organizing keeps on getting more complicated, so in addition to aggregating events from other platforms like [Mobilize America](https://www.mobilize.us/) and [VAN](https://act.ngpvan.com/votebuilder) we also integrate tightly with mailers like [ActionKit](https://www.actionkit.com/) and [Blue State Digital](https://tools.bluestatedigital.com/kb). Through these integrations we can automatically recognize your users when they arrive on the platform. You can also embed personalized event information directly into your emails so that your supporters can RSVP instantly without filling out a cumbersome form.
 
 We’re passionate about applying engineering innovation to optimize every step your supporters take, pushing your action rates even higher.
 
