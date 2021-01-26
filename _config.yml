@@ -7,8 +7,16 @@ theme_color: '#0f91c2'
 relative_permalinks: false
 
 languages: ["en"]
-paginate: 10
-paginate_path: "/blog/page:num/"
+pagination:
+
+  # Site-wide kill switch, disabled here it doesn't run at all
+  enabled: true
+  collection: 'posts'
+  per_page: 10
+  permalink: "/blog/:num/"
+  title: ':title - page :num'
+  sort_reverse: true
+
 ### Segment
 segment: Bzk4BmiFef6VNuKJRAqXV6zdubV3fnRs
 
@@ -18,7 +26,7 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
-  - jekyll-paginate
+  - jekyll-paginate-v2
   - jekyll-include-cache
 
 ### Exclude from processing.
