@@ -4,7 +4,7 @@ title:	"ControlShift plus Slack"
 date:	2020-01-29
 ---
 
-  ![](/img/1*bSy-nCwAcQnKZKVG_x4mIg.png)
+![](/img/1*bSy-nCwAcQnKZKVG_x4mIg.png)
   
 Modern digital organizers and advocates depend on a whole ecosystem of tools to create change in the world. All of our customers use ControlShift alongside some number of other platforms. For many of the teams that we work with, [Slack](https://www.slack.com/) is where all of those pieces come together so that work can get done.
 

@@ -4,7 +4,7 @@ title:	"ControlShift brings distributed events and local groups to EveryAction a
 date:	2018-06-26
 ---
 
-  We’re proud to announce that we’ve released a data integration that allows [EveryAction](http://www.everyaction.com/) and [VAN](http://www.ngpvan.com/) customers to seamlessly sync data from our distributed events, local groups, and member campaign features into their CRM and voter file.
+We’re proud to announce that we’ve released a data integration that allows [EveryAction](http://www.everyaction.com/) and [VAN](http://www.ngpvan.com/) customers to seamlessly sync data from our distributed events, local groups, and member campaign features into their CRM and voter file.
 
 ![](/img/1*E_9bWxMv7Kw4RFmXN2ewww.png)We’re excited about this new integration because we think that it unlocks new organizing tactics for Democratic campaigns and their allies who working to win the upcoming mid-term elections. Our philosophy is that organizing needs to be more participatory and distributed.
 
@@ -24,4 +24,3 @@ Our local groups feature supports local volunteer teams, which are tied to a par
 
 We think this new EveryAction/VAN integration will make possible a whole bunch of organizing tactics that are not possible out of the box. If you’re interested in learning more, [please get in touch](mailto:talk@controlshiftlabs.com).
 
-  
