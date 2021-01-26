@@ -16,6 +16,8 @@ pagination:
                       {% for post in paginator.posts offset:0 limit:1 %}
                         {% include post-summary.html featured_class="featured" %}
                       {% endfor %}
+                      <hr/>
+
                       {% for post in paginator.posts offset:1  %}
                         {% include post-summary.html %}
                       {% endfor %}
