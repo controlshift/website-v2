@@ -16,6 +16,8 @@ pagination:
   permalink: "/blog/:num/"
   title: ':title - page :num'
   sort_reverse: true
+feed:
+  posts_limit: 20
 
 ### Segment
 segment: Bzk4BmiFef6VNuKJRAqXV6zdubV3fnRs
