@@ -30,14 +30,13 @@ Recruit your supporters to reach out to their friends on social media. Allows a 
 [**GrowProgress**](http://www.growprogress.org/) and [**Swayable**](https://swayable.com/)   
 Both of these startups have different strategies for testing messages to figure out what will move persuadable voters to your side. GrowProgress is modeling the personality traits of voters while Swayable is measuring the change in opinion caused by an advertisement. I’d love to better understand their methodologies and what makes their approach unique.
 
-[**The Movement Cooperative**](https://movementcooperative.org/)**  
+[**The Movement Cooperative**](https://movementcooperative.org/)  
 **I’m so excited about this one after hearing more about it from the founder [Josh Nussbaum](https://www.linkedin.com/in/josh-nussbaum-5a6aa6a8/) a few weeks ago. By working collectively and using their joint buying power, a growing coalition of progressive organizations are accessing a shared data warehouse and analytics platform, national voter/consumer files, and the technical support to make it all work seamlessly with their existing infrastructure. Starting with the voterfile is smart, and it will be interesting to see how the shared tech model might scale to other use cases beyond that initial need. [OPEN, a global coalition of multi-issue advocacy organizations](http://www.the-open.net/) sharing tech and organizing strategy resources, provides an interesting model to potentially replicate in the American context.
 
-[**Hustle**](https://hustle.com/)**,** [**Spoke**](https://github.com/MoveOnOrg/Spoke) and [**Relay**](https://relaytxt.com/)**  
+[**Hustle**](https://hustle.com/), [**Spoke**](https://github.com/MoveOnOrg/Spoke) and [**Relay**](https://relaytxt.com/) 
 **The 2016 campaign was a breakout moment for peer-to-peer texting. I’m worried about the long term viability of p2p texting as a tactic and the ways it’s being used by some organizations this year have trended towards the cringeworthy but it’s still the best way to get your opted-in supporters to an event near them or otherwise have scaled text message conversations with your audience. Hustle has attracted a bunch of capital. Relay has passionate fans. An impressive open-source community has grown around Spoke. I think the next round of innovation will be integrating this tactic effectively into other tools like VAN, event management or fundraising as the basics become more of a commodity.
 
 There is a much bigger universe of these startups than I’ve been able to highlight here. [Micah Sifry](https://twitter.com/mlsif), [Matt Stempeck](https://twitter.com/mstem) and [Erin Simpson](https://twitter.com/esmpsn) have compiled [the canonical list in an enormous spreadsheet](http://bit.ly/organizecivictech). These just happen to be ten of the ones I’ve been thinking about over the last couple of weeks.
 
 [ControlShift](http://www.controlshiftlabs.com/) is also focused on building infrastructure to help make the mid-terms a nightmare for Trump. We’re spending the summer investing in the events and local groups features of our distributed organizing platform — which we expect to be useful for a variety of organizing campaigns this summer and fall.
 
-  
