@@ -2,9 +2,10 @@
 layout:	post
 title:	"Why we built VisitThem.org"
 date:	2017-05-25
+author: nathan
 ---
 
-  Personal stories are what drives our movements. They change hearts, minds and policy.
+Personal stories are what drives our movements. They change hearts, minds and policy.
 
 But getting the people who need to hear those stories to listen is hard. Calls get pushed to voicemail, emails filtered. When tough issues come up, too often our leaders dismiss us as noise.
 
@@ -32,4 +33,3 @@ We’re just getting started and are very interested in [feedback and ideas](mai
 
 We can’t wait to see the campaigns you launch and the voices you elevate.
 
-  

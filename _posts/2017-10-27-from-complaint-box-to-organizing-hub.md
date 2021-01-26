@@ -2,6 +2,7 @@
 layout:	post
 title:	"From Complaint Box to Organizing Hub"
 date:	2017-10-27
+author: nathan
 ---
 
 So much of what ControlShift is about is not really software tools at all, but a cultural shift in how advocacy organizations and campaigns should operate. We see ourselves as instigating cultural change, helping to shift advocacy organizations from a centralized, broadcast mentality to a distributed, organizing-focused approach.

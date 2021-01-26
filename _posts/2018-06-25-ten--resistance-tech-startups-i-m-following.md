@@ -2,9 +2,10 @@
 layout:	post
 title:	"Ten #Resistance Tech startups I’m following"
 date:	2018-06-25
+author: nathan
 ---
 
-  ![](/img/1*mKjqhhb3u8Cr2BaFAzkl-A.jpeg)Photo Credit, [Kelly Bell](https://flic.kr/p/FvMgzQ), cc-attributionThe political tech ecosystem in the United States usually follows a predictable cadence. Every four years, Presidential campaigns make huge investments in organizing, outreach and data to win. They act as a pressure cooker that brings together brilliant and passionate staff from around the country. Each cycle spawns a new generation of companies and consultancies that seek to replicate, commercialize and sustain the innovations that campaign staff hacked together during the campaign.
+![](/img/1*mKjqhhb3u8Cr2BaFAzkl-A.jpeg)Photo Credit, [Kelly Bell](https://flic.kr/p/FvMgzQ), cc-attributionThe political tech ecosystem in the United States usually follows a predictable cadence. Every four years, Presidential campaigns make huge investments in organizing, outreach and data to win. They act as a pressure cooker that brings together brilliant and passionate staff from around the country. Each cycle spawns a new generation of companies and consultancies that seek to replicate, commercialize and sustain the innovations that campaign staff hacked together during the campaign.
 
 In contrast mid-term elections are usually relatively quiet on the campaign tech innovation front, but 2018 is fundamentally different:
 

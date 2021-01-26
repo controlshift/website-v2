@@ -2,9 +2,10 @@
 layout:	post
 title:	"On Higher Ground"
 date:	2017-08-02
+author: nathan
 ---
 
-  I couldn’t be more pleased that the [Higher Ground Labs](https://www.highergroundlabs.com/) team has launched a new early-stage accelerator to help founders bring new products for progressive campaigns to market.
+I couldn’t be more pleased that the [Higher Ground Labs](https://www.highergroundlabs.com/) team has launched a new early-stage accelerator to help founders bring new products for progressive campaigns to market.
 
 The [portfolio of apps](https://www.highergroundlabs.com/portfolio-companies) that Higher Ground is investing in are designed to give progressive candidates an edge in upcoming elections through better software products. Some friends have criticized the initiative this morning because “apps won’t fix the Democratic Party” but I’d argue that misses the point. It’s true that better software tools for organizing will not heal anyone’s soul but they can make different sorts of campaigns possible that put person to person organizing rather than more TV ads at the center. Better software can make campaigns more efficient, allow them to scale to engage more people and squeeze out every last vote when margins of victory are slim. They can unlock movements through better connections between people that would have otherwise become diffuse and muddled.
 
@@ -16,4 +17,3 @@ More capital for teams building new electoral products and mentorship for their 
 
 I’m also hopeful that some of these companies are financial successes that allow the team of investors at Higher Ground to continue to make investments into future companies over the years to come. However, I’m personally somewhat skeptical that the VC business model works when founders are aiming for impact rather than unicorn-style returns. Will HigherGround fund [zebra companies](https://www.zebrasunite.com) and [feminist businesses](http://feminineeconomy.com/) or just the ones that look like they might give Uber style returns? How will the math work otherwise?
 
-  
