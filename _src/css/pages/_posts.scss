@@ -6,6 +6,24 @@
       font-size: 24px;
       line-height: 1.5;
     }
+    .metadata {
+      margin-bottom: 2rem;
+    }
+  }
+  .metadata {
+    font-family: Grafik-Regular, SFProDisplay, Arial, sans-serif;
+    color: rgb(102, 102, 102);
+    display: block;
+    font-size: 16px;
+    margin-bottom: 1rem;
+
+    .author {
+      img {
+        border-radius: 20px;
+        width: 40px;
+        margin-right: 15px;
+      }
+    }
   }
 
   hr {
@@ -34,18 +52,7 @@
 
 article.post {
   .metadata {
-    font-family: Grafik-Regular, SFProDisplay, Arial, sans-serif;
-    color: rgb(102, 102, 102);
-    display: block;
-    font-size: 16px;
     margin-bottom: 2rem;
-    .author {
-      img {
-        border-radius: 20px;
-        width: 40px;
-        margin-right: 15px;
-      }
-    }
   }
 
   margin-top: 45px;

@@ -1,0 +1,8 @@
+<div class="metadata">
+    {% if post.author %}
+    {% include authors/{{post.author}}.html %}
+    on {{ post.date | date: "%B %e, %Y" }}
+    {% else %}
+    ControlShift Team on {{ post.date | date: "%B %e, %Y" }}
+    {% endif %}
+</div>
