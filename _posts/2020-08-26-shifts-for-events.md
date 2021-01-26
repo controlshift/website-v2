@@ -2,6 +2,7 @@
 layout:	post
 title:	"Shifts for Events"
 date:	2020-08-26
+featured_image: "/img/1*HVNyxI-iEbV8M_cB_24hXg.png"
 ---
 
 As electoral organizing ramps up before election day in the United States, we’re excited to roll out support for event shifts as part of ContolShift’s member-led events feature.

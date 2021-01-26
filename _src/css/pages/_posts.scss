@@ -1,4 +1,32 @@
 
+.blog {
+  .featured {
+    .excerpt {
+      color: rgb(102, 102, 102);
+      font-size: 24px;
+      line-height: 1.5;
+    }
+  }
+
+ .post-summary  {
+   h2 {
+     margin-bottom: 1rem;
+     color: $dark-gray-text;
+
+     :hover {
+       color: $link-color;
+     }
+   }
+
+   .excerpt {
+     font-family: Grafik-Regular, SFProDisplay, Arial, sans-serif;
+     margin-bottom: 1rem;
+   }
+
+   margin-bottom: 4rem;
+ }
+}
+
 article.post {
   margin-top: 45px;
   margin-bottom: 100px;
