@@ -1,5 +1,6 @@
 ---
 layout:	resource
+title: Getting Started with Distributed Organizing
 ---
 
 ## Getting Started with Distributed Organizing
