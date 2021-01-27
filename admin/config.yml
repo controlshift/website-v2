@@ -18,4 +18,13 @@ collections:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'resources'
+    create: true
+    label: 'Resources'
+    folder: '_resources/'
+    slug: '{{slug}}'
+    editor:
+      preview: false
+    fields:
+      - { label: 'Body', name: 'body', widget: 'markdown' }
 # local_backend: true

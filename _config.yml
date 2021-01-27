@@ -19,6 +19,11 @@ pagination:
 feed:
   posts_limit: 20
 
+collections:
+  resources:
+    output: true
+
+
 ### Segment
 segment: Bzk4BmiFef6VNuKJRAqXV6zdubV3fnRs
 
