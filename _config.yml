@@ -8,8 +8,6 @@ relative_permalinks: false
 
 languages: ["en"]
 pagination:
-
-  # Site-wide kill switch, disabled here it doesn't run at all
   enabled: true
   collection: 'posts'
   per_page: 10
@@ -18,6 +16,16 @@ pagination:
   sort_reverse: true
 feed:
   posts_limit: 20
+
+autopages:
+  enabled: false
+
+collections:
+  changelogs:
+    output: true
+  resources:
+    output: true
+
 
 ### Segment
 segment: Bzk4BmiFef6VNuKJRAqXV6zdubV3fnRs

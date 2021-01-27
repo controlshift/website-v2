@@ -1,0 +1,31 @@
+.change-meta {
+  text-transform: uppercase;
+  font-family: Grafik-Regular, SFProDisplay, Arial, sans-serif;
+  color: #666666;
+  display: block;
+  font-size: 16px;
+  margin-bottom: 1rem;
+}
+
+.changes {
+  .item {
+    font-family: Grafik-Regular, SFProDisplay, Arial, sans-serif;
+  }
+  color: rgb(102, 102, 102);;
+  background-color: $light;
+  padding: 20px;
+  border-radius: 4px;
+  margin-bottom:40px;
+
+  .category {
+    height: 19px;
+    padding: 2px 8px;
+    margin-right: 10px;
+    border-radius: 5px;
+    border: 1px solid rgba(0,140,221,.4);
+    font-size: 12px;
+    line-height: 19px;
+    color: #008cdd;
+    text-transform: uppercase;
+  }
+}
