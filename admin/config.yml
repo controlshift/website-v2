@@ -8,6 +8,7 @@ collections:
     create: true
     label: 'Blog'
     folder: '_posts/'
+    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
     editor:
       preview: false
     fields:
