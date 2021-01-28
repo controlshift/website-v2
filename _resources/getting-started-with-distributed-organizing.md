@@ -14,7 +14,8 @@ Very few of your members are ready to spontaneously create a new campaign, host 
 
 Each organization is different, and you’ll want to spend time examining your specific goals and carefully designing a distributed organizing program and launch strategy to achieve them. Because ControlShift supports member-led petitions, events, and groups, organizations can choose which model or models to integrate into their program. Tips for each type of member-led action – petitions, events, and groups – are included below.
 
-### **Petitions**
+### \
+**Petitions**
 
 The key to a successful distributed petitions program is to prepare your members so that when they have the spark of an idea for a campaign, they remember to come to you and your platform. It is a process of focusing the energy of your members – who share a broad alignment on your issues and a desire to make change – into strategic, concrete, and winnable campaigns. There are various ways of doing this, including templatized campaigns on a specific issue, ongoing storytelling about successful member-led efforts, and a lot of coaching, training, and working directly with members to build their organizing skills.
 
@@ -30,7 +31,8 @@ Each organization is different, so you’ll want to spend time examining your sp
 * Tackling campaigns that don’t have a single decision maker, but instead have tens or [hundreds of targets](https://www.controlshiftlabs.com/case-study/350/) that need to be pressured in their own way.
 * Winning more victories that [improve more people’s lives](https://you.38degrees.org.uk/petitions/do-not-deport-wadih-chourey-vack-to-the-lebanon-just-because-his-parents-have-died).
 
-#### **Getting Off the Ground**
+#### \
+**Getting Off the Ground**
 
 Your early steps into distributed organizing are about figuring out what works. Be ready to conduct a lot of tests and dedicate more energy and attention to individual campaigns than you would expect to once the program starts to scale. You want to learn what resonates with your members and what doesn’t, and that means paying attention to the granular details as well as thinking about eventual growth.
 
@@ -62,7 +64,8 @@ Other opportunities you might look for include:
 * Getting businesses to take a product off their shelves or adopt a particular policy. SumOfUs got members to start campaigns asking local hardware stores to stop selling bee-killing pesticides.
 * Crowd-sourcing targets where there’s no authoritative list. Color of Change ran an effort to[ take down Confederate symbols](https://www.controlshiftlabs.com/case-study/color-of-change/), which exist in thousands of places, including street names, schools, and other landmarks.
 
-#### Ongoing Strategies
+#### \
+Ongoing Strategies
 
 Once a core set of users are comfortable with the platform and you have a set of active campaigns, you’re ready to figure out what your ongoing program is going to look like. Of course, you can keep working with your early-stage programs too, but you’ll also want to expand and determine what will eventually scale.
 
@@ -95,8 +98,6 @@ Beyond the written materials, most groups work with the petition starter directl
 Additionally, some organizations do direct coaching for particularly compelling campaigns. By scheduling time on the phone with petition starters, they can discuss how to promote the campaign, schedule an event, work with the media, and stage a high-impact petition delivery. While you can probably communicate much of this information via training guides and online resources, there is no substitute for personal outreach.
 
 As your program grows, you may have a set of supporters who have run successful campaigns and are interested in supporting future campaigners. Some organizations allow these committed supporters to become coaches for fledgling campaigns. This model not only empowers your supporters to grow their leadership and campaign potential, but it also reduces your staff’s support burden. Organization staff will likely still need to step in if a member-coach is unsure of how to support a campaign, or if the campaign is one that the organization finds particularly compelling, but more basic support can be handled by these member-coaches. 
-
-
 
 ## **Events**
 
@@ -174,7 +175,8 @@ Two common pitfalls for organizations supporting local groups are to exert too m
 
 Successful member-led group programs work to find a balance between these two extremes by supporting their group leaders, providing strategic priorities and opportunities for groups to contribute to the organization’s goals, while also empowering group leaders to make their own decisions about the actions the group takes. This balance can be difficult to find and may require recalibration as your groups program matures (or individual groups and their leaders become more comfortable with their roles). 
 
-#### Types of Local Groups
+#### \
+Types of Local Groups
 
 *Local Hubs*\
 A common type of group is the locally-based group. These groups are organized by location (generally a political constituency or city/town) and members of the group are from that community. These groups are often focused on responding to local issues in their communities. They can act as the organization’s eyes and ears – responding to local issues that wouldn’t otherwise be noticed by the organization – and they can serve as rapid responders when the organization’s strategic plans intersect with their community. Generally, successful local groups have a high level of autonomy to decide the direction of the group, but leaders are still given support by the organization and brought into larger strategic priorities. The organization may also help to facilitate collaboration between different local groups when necessary.
@@ -214,9 +216,8 @@ If a group is languishing, try to see if you can get it running again. Has the g
 
 If your efforts to revitalize a group have failed, it may be time to archive the group. Let the members know that they can create or join a new group if they’re interested in doing so in the future.
 
-
-
-## **Supporting Digital Organizing Broadly**
+## \
+**Supporting Digital Organizing Broadly**
 
 Regardless of which model of digital organizing you adopt, supporting your members through each stage of their involvement is essential to your success. While learning from early tests and homing in on the program structure that best resonates with your members should allow you to scale and increase efficiency, distributed organizing will still need plenty of care and feeding. Depending on the size of your program, you will probably need at least a half-time person – and potentially several staff members -- to ensure ongoing results.
 
@@ -259,7 +260,8 @@ If one of your organization’s primary goals is to grow your supporter list, al
 *Broad Integration*\
 Once you’ve tested and established your ongoing program, you’ll want to make sure that distributed organizing is fully integrated into your organization. Many organizations link to their platform from their homepage, which makes it easy for organic action takers to get going. You might also consider adding a prompt to start a campaign, join a group, or find an event to your standard email templates. 
 
-## Final Thoughts
+## \
+Final Thoughts
 
 Launching a distributed organizing program can be a scary step for a lot of organizations. Trusting our members to take the lead in organizing and giving over control is often a large shift from the way the organization has organized in the past, but it’s also a great opportunity to expand the work your organization is able to accomplish. 
 
