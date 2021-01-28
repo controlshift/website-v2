@@ -2,3 +2,4 @@
   publish = "_site/"
   command = "yarn run build"
   environment = { RUBY_VERSION = "2.7.1" }
+  functions = "functions"
