@@ -61,7 +61,7 @@ Other times, there may be opportunities for localizing a larger campaign. Skifte
 
 <div class="example">
 <label>Efforts</label>
-<p>[ControlShift’s Effort feature](https://www.controlshiftlabs.com/feature/campaigns/efforts/) makes it easy to launch and manage a national or international campaign with many local leaders and local targets. The organization sets the framework for the campaign – what’s the goal of the campaign and who should be targeted – and then recruits local leaders to manage the campaign in their community. Each local leader receives support from the organization and their work contributes to the success of the broader campaign.
+<p><a href="https://www.controlshiftlabs.com/feature/campaigns/efforts/">ControlShift’s Effort feature </a> makes it easy to launch and manage a national or international campaign with many local leaders and local targets. The organization sets the framework for the campaign – what’s the goal of the campaign and who should be targeted – and then recruits local leaders to manage the campaign in their community. Each local leader receives support from the organization and their work contributes to the success of the broader campaign.
 </p>
 </div>
 
@@ -158,7 +158,7 @@ Successfully mobilizing supporters for a day of action will require clear commun
 <div class="example">
 <label>Calendars</label>
 <p>
-ControlShift's [calendar feature](https://www.controlshiftlabs.com/case-study/amnesty-ca/) makes it easy to support and manage hundreds of local events hosted by supporters. Within calendars, the organization can provide events defaults and custom instructions – ensuring that hosting an event is an easy and rewarding experience for your supporters.  
+ControlShift's <a href="https://www.controlshiftlabs.com/case-study/amnesty-ca/"> calendar feature</a> makes it easy to support and manage hundreds of local events hosted by supporters. Within calendars, the organization can provide events defaults and custom instructions – ensuring that hosting an event is an easy and rewarding experience for your supporters.  
 </p>
 </div>
 
