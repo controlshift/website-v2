@@ -44,6 +44,7 @@ You can start by taking some of your existing staff-run campaigns and setting th
 
 Next, you can reach out to members of your staff or board to see if they have pet projects that would make for good campaigns. Make sure to ask for detailed feedback on their experiences, which can be crucial for identifying and resolving any problems that members may face.
 
+\
 *Rolodex / Grasstops Outreach*\
 Once your organization is comfortable using the platform, you can start to expand the circle of users. When the opportunity for a campaign arises – maybe you see something on the news that sparks an idea – you probably know a handful of member activists or partner organizations that would be a particularly good “face” for that campaign. Give them a call or shoot them an email asking them to post a campaign. You’ll probably need to hold their hands a bit and coach them through setting up the petition and sharing it with their networks.
 
