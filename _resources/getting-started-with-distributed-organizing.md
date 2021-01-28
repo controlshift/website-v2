@@ -132,7 +132,7 @@ ControlShift’s teams feature allows organizations to create different levels o
 </div>
 
 
-
+<a name="events" />
 ### Events
 
 #### Getting Off the Ground
@@ -218,6 +218,7 @@ Equally important is collecting feedback from attendees – did they feel the ev
 
 Report backs can be done in different ways. If you’ve already spoken to a host during the event setup and planning process, follow up again to ask for feedback. Quick surveys can also give you an aggregated view of event feedback and can be useful in identifying which supporters to ask for more detailed report backs.
 
+<a name="groups" />
 ### Groups
 
 #### Getting Off the Ground
