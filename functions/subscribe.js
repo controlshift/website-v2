@@ -32,11 +32,11 @@ exports.handler = async function(event, context) {
         }
       })
       console.log(mailchimpResult)
-      result = {success: true, status: 'subscribed', message: `${params.email} has been subscribed to the ControlShift mailing list.`};
+      result = {success: true, message: `${params.email} has been subscribed to the ControlShift mailing list.`};
     } catch(err) {
       const message = err.response.body.detail
       if (message.match(/is already a list member/)) {
-        result = {success: true, status: 'already-subscribed', message: `${params.email} was already subscribed.` };
+        result = {success: true, message: `${params.email} has been subscribed to the ControlShift mailing list.`};
       } else {
         result = {success: false, message: message};
       }
