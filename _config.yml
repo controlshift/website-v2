@@ -43,6 +43,7 @@ exclude:
   - node_modules
   - _src
   - images
+  - functions
   - LICENSE
   - netlify.toml
   - package.json
