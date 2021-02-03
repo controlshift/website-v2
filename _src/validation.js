@@ -51,9 +51,7 @@ const postData = async (form, token) => {
     body: new URLSearchParams(formData)
   });
 
-  const data = await response.json()
-  console.log(data)
-  return data
+  return await response.json()
 }
 
 export { setupValidation }

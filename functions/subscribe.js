@@ -9,10 +9,6 @@ exports.handler = async function(event, context) {
     return { statusCode: 405, body: "Method Not Allowed" };
   }
   const params = querystring.parse(event.body);
-  console.log(params);
-
-  console.log(params['g-recaptcha-response'])
-  console.log(params.email)
 
   const VERIFY_URL = `https://www.google.com/recaptcha/api/siteverify?secret=${process.env.RECAPTCHA_API_KEY}&response=${params['g-recaptcha-response']}`;
 
@@ -45,7 +41,6 @@ exports.handler = async function(event, context) {
     result = {success: false, message: 'reCaptcha rejected submission'}
   }
 
-  console.log(result);
 
   return {
     statusCode: 200,
