@@ -12,6 +12,8 @@ exports.handler = async function(event, context) {
 
   const VERIFY_URL = `https://www.google.com/recaptcha/api/siteverify?secret=${process.env.RECAPTCHA_API_KEY}&response=${params['g-recaptcha-response']}`;
 
+  const MAILCHIMP_LIST_ID = 'b4d8624172'
+
   const recaptchaResponse = await fetch(VERIFY_URL, { method: 'POST' })
   const recaptchaData = await recaptchaResponse.json()
   let result;
@@ -21,7 +23,7 @@ exports.handler = async function(event, context) {
     try {
       const mailchimpResult = await mailchimp.request({
         method : 'post',
-        path : '/lists/b4d8624172/members',
+        path : `/lists/${MAILCHIMP_LIST_ID}/members`,
         body : {
           email_address : params.email,
           status : 'subscribed'
