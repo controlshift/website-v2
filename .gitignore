@@ -9,3 +9,6 @@ yarn-error.log
 .yarnclean
 .DS_Store
 .jekyll-cache
+
+# Local Netlify folder
+.netlify
