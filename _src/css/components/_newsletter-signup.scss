@@ -1,3 +1,15 @@
+// this hides the recaptcha v3 default badge. Instead, we use a less intrusive disclaimer on form submits.
+.grecaptcha-badge {
+  visibility: hidden;
+}
+
+.newsletter-disclaimer {
+  color: #ced4da;
+  a {
+    color: #ced4da;
+  }
+}
+
 .newsletter-signup {
   font-family: $font-family-sans-serif-regular;
 
@@ -42,9 +54,7 @@
     padding-right: 15px;
   }
 
-  // Mailchimp elements customization
-  .mce_inline_error {
-    display: block;
-    width: 100%;
+  .invalid-feedback {
+    color: #ff9ea4;
   }
 }
