@@ -57,6 +57,8 @@ We all know that our members are opinionated and will often contact us requestin
 *Efforts or Templatized Campaigns*\
 One of the most powerful strategies of distributed organizing is the idea of running a lot of small campaigns against many local targets – where these small victories add up to a big impact. This might involve letting your members run separate, but similar, campaigns targeting individual legislators and asking them to cosponsor or support a bill. While a campaign to “Parliament” may seem daunting, breaking it down district by district, naming each individual legislator, and sharing the responsibility for getting a commitment from each, can be far more empowering.
 
+![Efforts support templatized campaigns with many local targets, which are led by local leaders.](/assets/uploads/vector-campaign-efforts-supporters-recruited.svg)
+
 Other times, there may be opportunities for localizing a larger campaign. Skiftet -- a progressive organization in Sweden -- was running a campaign to stop public transit fare hikes in the Stockholm region. They decided to open up the campaign on their distributed organizing platform, and [encourage members start local campaigns](https://www.controlshiftlabs.com/case-study/skiftet/) in their own communities. It led to over 50 active petitions and explosive list growth – with over 42,000 signers – helping them win the campaign and jumpstarting their early-stage organization.
 
 <div class="example">
@@ -130,7 +132,6 @@ As your program grows, you may have a set of supporters who have run successful 
 ControlShift’s teams feature allows organizations to create different levels of permissions – allowing member-coaches to have access to only basic admin tools. 
 </p>
 </div>
-
 
 <a name="events" />
 ### Events
@@ -251,8 +252,6 @@ Campaign-related groups may be location-based or issue-based, but they’re hype
 </p>
 </div>
 
-
-
 #### Supporting Group Leaders
 
 \
@@ -272,6 +271,7 @@ The process for approving new group applications can vary based on the organizat
 Similarly, ongoing support of groups can take many forms. At the most basic level, having written materials with expectations, frequently asked questions, and ways of getting in touch with the organization is essential.
 
 Some organizations also divide their groups into cohorts  based on issue area or geographic region before assigning them to a member of staff. That staff member becomes the main point of contact for the leaders of their groups – building a relationship between leaders and the organization and answering any questions the leaders may have. 
+
 <div class="example">
 <label>Mentors</label>
 <p>ControlShift’s mentors feature makes it easy to assign staff who will be in charge of supporting a member-led group.
@@ -344,7 +344,6 @@ As you build capacity for distributed organizing, it can be an extremely valuabl
 Success stories are vital for inspiring members and showing your leadership that the program is worth the time and money. You may want to assign someone who can keep track of successful actions and write compelling stories about what worked. These stories can be shared with staff, your board, and the media to paint a picture of your program’s impact.
 
 Equally importantly, these stories should also be shared back to your supporters. Nothing as effectively captures the power of your supporters as a concrete example of when a regular member, just like everyone else on your list, was able to effect change. These stories don’t just provide encouragement, but they can also spark new life into supporters and can turn passive recipients into newly recruited leaders. 
-
 
 \
 *Ongoing testing and optimization*\
