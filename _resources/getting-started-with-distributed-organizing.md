@@ -57,8 +57,6 @@ We all know that our members are opinionated and will often contact us requestin
 *Efforts or Templatized Campaigns*\
 One of the most powerful strategies of distributed organizing is the idea of running a lot of small campaigns against many local targets – where these small victories add up to a big impact. This might involve letting your members run separate, but similar, campaigns targeting individual legislators and asking them to cosponsor or support a bill. While a campaign to “Parliament” may seem daunting, breaking it down district by district, naming each individual legislator, and sharing the responsibility for getting a commitment from each, can be far more empowering.
 
-![Efforts support templatized campaigns with many local targets, which are led by local leaders.](/assets/uploads/vector-campaign-efforts-supporters-recruited-3x.png)
-
 Other times, there may be opportunities for localizing a larger campaign. Skiftet -- a progressive organization in Sweden -- was running a campaign to stop public transit fare hikes in the Stockholm region. They decided to open up the campaign on their distributed organizing platform, and [encourage members start local campaigns](https://www.controlshiftlabs.com/case-study/skiftet/) in their own communities. It led to over 50 active petitions and explosive list growth – with over 42,000 signers – helping them win the campaign and jumpstarting their early-stage organization.
 
 <div class="example">
