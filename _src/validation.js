@@ -7,8 +7,8 @@ function setupValidation() {
     .forEach(function (form) {
       form.addEventListener('submit', function (event) {
         const emailInput = event.target.getElementsByClassName('email-address')[0]
-        const emailInvalidFeedback = document.getElementById('email-invalid-feedback')
-        const successMessage = document.getElementById('mailchimp-success-message')
+        const emailInvalidFeedback = event.target.getElementsByClassName('email-invalid-feedback')[0]
+        const successMessage = event.target.getElementsByClassName('mailchimp-success-message')[0]
 
         const emailOptInElem = document.getElementById('email-opt-in')
         const emailOptIn = (emailOptInElem !== null) ? emailOptInElem.checked : true
@@ -40,7 +40,7 @@ function setupValidation() {
               }
 
               if(event.target.classList.contains('resource-form')) {
-                // this is a resource page, the user just unlocked the content.
+                // this is a resource page, the user just unlocked the content, so show it and hide the signup box.
                 document.getElementById('resource-content-overlay').classList.add('d-none')
                 document.getElementById('resource-content').classList.remove('d-none')
               }

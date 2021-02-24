@@ -1,14 +1,13 @@
 ---
 layout: resource
 title: Getting Started with Distributed Organizing
+resource_url: /foo.pdf
 tease_title: Learn to scale your organizing by empowering supporters
 tease_image_url: /img/uploads/vector-campaign-efforts-supporters-recruited.svg
 tease_blurb: >
   Download this guide to get 20 pages of steps, checklist and guides to transform your organizing program into a scaled, 
   distributed and member led force for change.
 ---
-## Getting Started with Distributed Organizing
-
 ### Introduction
 
 People call it different things -- distributed organizing, member-led campaigning, wildfire activism. Regardless of the name, there is a central goal: to harness a community’s bottom-up energy to work for changes, large and small, that create leaderful movements more powerful than those directed by organizational staff alone. 

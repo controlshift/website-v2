@@ -7,6 +7,19 @@ layout: default
     <div class="resource-content d-none" id="resource-content">
       <div class="row justify-content-center py-4">
         <div class="col-md-8">
+          <h2>{{page.title}}</h2>
+
+          <div class="example mb-2">
+            <div class="row">
+              <div class="col-sm-8">
+                Download a PDF of this Resource to share with colleagues
+              </div>
+              <div class="col-sm-4">
+                <a href="{{page.resource_url}}" class="btn btn-dark float-right">Download</a>
+              </div>
+            </div>
+          </div>
+
           {{content}}
         </div>
       </div>
@@ -33,7 +46,7 @@ layout: default
                   </div>
 
 
-                  <div class="invalid-feedback" id="email-invalid-feedback">
+                  <div class="invalid-feedback email-invalid-feedback">
                   </div>
                 </div>
 
@@ -50,7 +63,7 @@ layout: default
 
               <div class="row justify-content-center">
                 <div class="col-12">
-                  <div id="mailchimp-success-message">
+                  <div class="mailchimp-success-message">
 
                   </div>
 
