@@ -1,6 +1,10 @@
 ---
 layout: resource
 title: Getting Started with Distributed Organizing
+tease_title: Learn to scale your organizing by empowering supporters
+tease_blurb: >
+  Download this guide to get 20 pages of steps, checklist and guides to transform your organizing program into a scaled, 
+  distributed and member led force for change. 
 ---
 ## Getting Started with Distributed Organizing
 
@@ -366,7 +370,7 @@ Once you’ve tested and established your ongoing program, you’ll want to make
 <p>ControlShift’s front-end JSONP APIs, and other integrations, make it easy to integrate our platform with the rest of your site. Color of Change has done this with their OrganizeFor.org homepage.</p>
 <p> Our pre-built CRM integrations also ensure that member data flows seamlessly to your existing databases and mailing lists.
 </p>
-</div> 
+</div>
 
 ## Final Thoughts
 
