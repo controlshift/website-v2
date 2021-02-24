@@ -4,7 +4,6 @@ layout: default
 
 <div class="container-fluid bg-white text-black blog">
   <div class="container">
-
     <div class="resource-content d-none" id="resource-content">
       <div class="row justify-content-center py-4">
         <div class="col-md-8">
@@ -17,16 +16,17 @@ layout: default
       <div class="row justify-content-center py-4">
         <div class="col-md-7">
           <h2>{{page.tease_title}}</h2>
+          <img src="{{page.tease_image_url}}" class="img-fluid m-3 d-block">
           {{page.tease_blurb}}
         </div>
         <div class="col-md-5">
           <div class="email-capture-card">
             <form action="/.netlify/functions/subscribe" method="post" name="mailchimp-subscribe-form" class="needs-validation resource-form" novalidate>
               <div class="form-group">
-                <label class="col-form-label" for="mailchimp-email">Free Advice from Expert Organizers</label>
+                <label class="col-form-label" for="resource-email-capture">Free Advice from Expert Organizers</label>
 
                 <div class="input-group">
-                  <input type="email" id="mailchimp-email" name="email" required class="form-control email-address required email" placeholder="Email address" aria-label="Email address">
+                  <input type="email" id="resource-email-capture" name="email" required class="form-control email-address required email" placeholder="Email address" aria-label="Email address">
 
                   <div class="input-group-append">
                     <input type="submit" class="btn btn-primary" value="Download Now">

@@ -6,7 +6,7 @@ function setupValidation() {
   Array.prototype.slice.call(forms)
     .forEach(function (form) {
       form.addEventListener('submit', function (event) {
-        const emailInput = document.getElementById('mailchimp-email')
+        const emailInput = event.target.getElementsByClassName('email-address')[0]
         const emailInvalidFeedback = document.getElementById('email-invalid-feedback')
         const successMessage = document.getElementById('mailchimp-success-message')
 
