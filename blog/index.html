@@ -17,10 +17,12 @@ pagination:
                         {% include post-summary.html featured_class="featured" %}
                       {% endfor %}
                       <hr/>
+
                     <div class="change-meta">Changelog • {{ "now" | date: "%B, %Y" }}</div>
 
                       <div class="changes">
-                          {% for change in site.changelogs limit:5 %}
+                          {% assign month_key = "now" | date: "%Y-%m" %}
+                          {% for change in site.data.changelogs[month_key] limit:5 %}
                             {% include change-summary.html %}
                           {% endfor %}
                           <div class="row">

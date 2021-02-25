@@ -21,10 +21,12 @@ autopages:
   enabled: false
 
 collections:
-  changelogs:
-    output: true
   resources:
     output: true
+
+jekyll_get:
+  - data: changelogs
+    json: 'https://controlshift-changelog.herokuapp.com/changelogs/feed'
 
 
 ### Segment
