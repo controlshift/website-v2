@@ -8,6 +8,8 @@ title: Getting Started with Distributed Organizing
 
 People call it different things -- distributed organizing, member-led campaigning, wildfire activism. Regardless of the name, there is a central goal: to harness a community’s bottom-up energy to work for changes, large and small, that create leaderful movements more powerful than those directed by organizational staff alone. 
 
+![](/img/uploads/vector-distributed-organizing-main.png)
+
 Many organizations have proven that this way of organizing can work to generate both growth and impact, and there are many more groups who have the potential to benefit from this model. However, these successes don’t mean that you can just set up a platform, snap your fingers, and suddenly have hundreds of successful campaigns, events, and groups run by members. It takes careful planning and an investment across your organization to launch a successful program.
 
 Very few of your members are ready to spontaneously create a new campaign, host an impactful event, or effectively lead a group at the drop of a hat. The key to a successful distributed organizing model is to prepare your members so that they’re ready to lead in their communities, and then support them along the way. 
@@ -35,6 +37,8 @@ Each organization is different, so you’ll want to spend time examining your sp
 
 Your early steps into distributed organizing are about figuring out what works. Be ready to conduct a lot of tests and dedicate more energy and attention to individual campaigns than you would expect to once the program starts to scale. You want to learn what resonates with your members and what doesn’t, and that means paying attention to the granular details as well as thinking about eventual growth.
 
+![](/img/uploads/graphic-hero-campaigns-1-.svg)
+
 \
 *Start with You*\
 Good organizers understand where their members are coming from. What better way to get a perspective on their experience of running a campaign than running one yourself?
@@ -57,8 +61,7 @@ We all know that our members are opinionated and will often contact us requestin
 *Efforts or Templatized Campaigns*\
 One of the most powerful strategies of distributed organizing is the idea of running a lot of small campaigns against many local targets – where these small victories add up to a big impact. 
 
-<div style="text-align:center;">
-![Efforts support templatized campaigns with many local targets, which are led by local leaders.](/img/uploads/vector-campaign-efforts-supporters-recruited.svg) </div>
+![Efforts support templatized campaigns with many local targets, which are led by local leaders.](/img/uploads/vector-campaign-efforts-supporters-recruited.svg)
 
 This approach might involve letting your members run separate, but similar, campaigns targeting individual legislators and asking them to cosponsor or support a bill. While a campaign to “Parliament” may seem daunting, breaking it down district by district, naming each individual legislator, and sharing the responsibility for getting a commitment from each, can be far more empowering.
 
@@ -103,7 +106,7 @@ It’s really important to define what constitutes success. Is it more petitions
 
 To keep members engaged, some organizations send rolling recruitment emails where each member is prompted to start a petition once every three months. Each of these emails includes an inspiring case study about a different member campaign. Other organizations look for campaign opportunities, and then email members in the relevant location asking them to start a campaign on that specific issue. Another organization sends their members a survey asking them to pick the issue they want the organization to work on and follows up with a prompt for the member to start that very campaign!
 
-Beyond specific solicitation emails, you can also expand into other channels. You can add an ask to the PS line of autoresponders or emails about other campaigns (“Got an idea for a campaign? Start one here. . .”). Facebook ads allow you to target very specific populations. Across all of these channels, remember to model the behavior by framing petitions, even those authored by staff, as coming from a particular person and always reminding your members that they can do the same thing. 
+Beyond specific solicitation emails, you can also expand into other channels. You can add an ask to the PS line of autoresponders or emails about other campaigns (“Have an idea for a campaign? Start one here. . .”). Facebook ads allow you to target very specific populations. Across all of these channels, remember to model the behavior by framing petitions, even those authored by staff, as coming from a particular person and always reminding your members that they can do the same thing. 
 
 #### Supporting campaign leaders
 
@@ -141,7 +144,9 @@ ControlShift’s teams feature allows organizations to create different levels o
 
 #### Getting Off the Ground
 
-Supporters have a lot of different options for where they can post events, and a successful distributed events program will need to demonstrate the benefits of hosting an event with the organization. This includes the support that the organization will provide to hosts, access to the organization’s broad base of like-minded members, and integration with the other tools and opportunities that the organization offers its supporters.
+Supporters have many different options for where they can post events, and a successful distributed events program will need to demonstrate the benefits of hosting an event with the organization. This includes the support that the organization will provide to hosts, access to the organization’s broad base of like-minded members, and integration with the other tools and opportunities that the organization offers its supporters.
+
+![](/img/uploads/graphic-hero-events.svg)
 
 \
 *Petition Events* \
@@ -175,6 +180,8 @@ It’s useful to also provide a contact person that your hosts can reach out to 
 #### Supporting Hosts
 
 For many of your members, the events they’re creating on your platform may be the first organizing or advocacy events they’ve hosted. Some of your members will find that this sort of action comes naturally to them, while others may feel passionately about the issue they’re addressing but may not feel comfortable acting as a host. The support and guidance your organization provides to these potential hosts may be the difference between them taking action and hosting a successful event or remaining on the sidelines.
+
+![](/img/uploads/vector-events-tools.svg)
 
 Some organizations provide that support by reaching out to each host individually, while others will just share written materials and ways for hosts to get in touch with staff if they have a question. Your method of supporting hosts will likely vary based on your staff capacity and can also change based on the event that’s being hosted.
 
@@ -229,6 +236,8 @@ Report backs can be done in different ways. If you’ve already spoken to a host
 
 Supporting healthy and active member-led groups is one of the most complicated aspects of a distributed organizing program and requires a high level of staff time and investment. Before launching a member-led groups program, it’s important to think carefully about your goals for these groups, what will constitute a successful groups program, and how these groups will fit into your organization’s broader strategic goals.
 
+![](/img/uploads/vector-groups-leaders.svg)
+
 Organizations approach groups programs in different ways: some see groups as rapid response hubs that the organization can call on whenever an issue arises in the group’s area, some support groups that are solely focused on winning a specific campaign, and some organization view the groups as an outlet for supporters to build community amongst themselves and get to know one another. Organizations may find that groups fill each of these roles at different times, but organizations who support successful group programs will have a clear vision for their groups and regularly communicate that vision with group leaders.
 
 Two common pitfalls for organizations supporting local groups are to exert too much control over groups or to take a too hands-off approach. With too much organizational control, group leaders won’t feel empowered to make decisions for their group – instead of being member-led organizing, the group becomes another channel for broadcast messages from the organization to its supporters. At the other extreme is the too hands-off approach. When organizations set up groups infrastructure and but then leave group leaders entirely on their own, the groups will often fizzle out as they lack direction. 
@@ -254,6 +263,8 @@ Campaign-related groups may be location-based or issue-based, but they’re hype
 <p>ControlShift’s groups feature supports both location-based groups (tied to a city/town or to a geographic shape, like a county or parliamentary constituency) and non-location-based groups. All groups have access to the same tools: the forum, which serves as the heart of the group; events tools, allowing the group to meet online or in-person; and petitions tools, allowing the group to sponsor online petition campaigns on the issues that mean most to them.
 </p>
 </div>
+
+
 
 #### Supporting Group Leaders
 
