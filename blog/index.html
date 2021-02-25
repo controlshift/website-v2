@@ -9,7 +9,7 @@ pagination:
         <div class="row pb-4 pt-4">
             <div class="row justify-content-center">
                 <div class="col-md-8">
-                    <h4> ControlShift Blog</h4>
+                    <h4>ControlShift Blog</h4>
                 </div>
                 <div class="col-md-8">
                     {% unless paginator.previous_page  %}
@@ -17,6 +17,19 @@ pagination:
                         {% include post-summary.html featured_class="featured" %}
                       {% endfor %}
                       <hr/>
+
+                    <div class="change-meta">Changelog • {{ "now" | date: "%B, %Y" }}</div>
+                      <div class="changes">
+                        {% assign month_key = "now" | date: "%Y-%m" %}
+                        {% for change in site.data.changelogs[month_key] limit:5 %}
+                          {% include change-summary.html %}
+                        {% endfor %}
+                        <div class="row">
+                          <div class="col-9 offset-3">
+                            <a href="https://support.controlshiftlabs.com/hc/en-us/sections/201055528-What-s-New">Read More →</a>
+                          </div>
+                        </div>
+                      </div>
 
                       {% for post in paginator.posts offset:1  %}
                         {% include post-summary.html %}

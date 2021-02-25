@@ -8,8 +8,6 @@ relative_permalinks: false
 
 languages: ["en"]
 pagination:
-
-  # Site-wide kill switch, disabled here it doesn't run at all
   enabled: true
   collection: 'posts'
   per_page: 10
@@ -19,9 +17,16 @@ pagination:
 feed:
   posts_limit: 20
 
+autopages:
+  enabled: false
+
 collections:
   resources:
     output: true
+
+jekyll_get:
+  - data: changelogs
+    json: 'https://controlshift-changelog.herokuapp.com/changelogs/feed'
 
 
 ### Segment
