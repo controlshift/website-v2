@@ -19,17 +19,16 @@ pagination:
                       <hr/>
 
                     <div class="change-meta">Changelog • {{ "now" | date: "%B, %Y" }}</div>
-
                       <div class="changes">
-                          {% assign month_key = "now" | date: "%Y-%m" %}
-                          {% for change in site.data.changelogs[month_key] limit:5 %}
-                            {% include change-summary.html %}
-                          {% endfor %}
-                          <div class="row">
-                              <div class="col-9 offset-3">
-                                  <a href="https://support.controlshiftlabs.com/hc/en-us/sections/201055528-What-s-New">Read More</a>
-                              </div>
+                        {% assign month_key = "now" | date: "%Y-%m" %}
+                        {% for change in site.data.changelogs[month_key] limit:5 %}
+                          {% include change-summary.html %}
+                        {% endfor %}
+                        <div class="row">
+                          <div class="col-9 offset-3">
+                            <a href="https://support.controlshiftlabs.com/hc/en-us/sections/201055528-What-s-New">Read More →</a>
                           </div>
+                        </div>
                       </div>
 
                       {% for post in paginator.posts offset:1  %}
