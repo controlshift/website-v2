@@ -23,7 +23,7 @@ Each organization is different, so you’ll want to spend time examining your sp
 
 * The ability to work on issues beyond the current capacity of your staff organizers.
 * Expanding your reach at the [local](https://you.38degrees.org.uk/) level.
-* Making campaigns more compelling through the authentic voices of real people, confronting an issue personally, rather than the official voice of an issue advocacy organization.
+* Making campaigns more compelling through the authentic voices of real people, confronting an issue personally, rather than the official voice of an advocacy organization.
 * Discovering novel ways to talk about issues or policy proposals that resonate more viscerally with members than talking points from insider think tanks. 
 * Growing your supporter list by [tapping into your members’ personal networks](https://www.controlshiftlabs.com/case-study/coworker/).
 * Identifying new and novel campaign ideas from your members that can be [shared and replicated](https://www.controlshiftlabs.com/case-study/groundswell/) with other supporters. 
@@ -58,7 +58,7 @@ We all know that our members are opinionated and will often contact us requestin
 One of the most powerful strategies of distributed organizing is the idea of running a lot of small campaigns against many local targets – where these small victories add up to a big impact. 
 
 <div style="text-align:center;">
-!\[Efforts support templatized campaigns with many local targets, which are led by local leaders.](/img/uploads/vector-campaign-efforts-supporters-recruited.svg) </div>
+![Efforts support templatized campaigns with many local targets, which are led by local leaders.](/img/uploads/vector-campaign-efforts-supporters-recruited.svg) </div>
 
 This approach might involve letting your members run separate, but similar, campaigns targeting individual legislators and asking them to cosponsor or support a bill. While a campaign to “Parliament” may seem daunting, breaking it down district by district, naming each individual legislator, and sharing the responsibility for getting a commitment from each, can be far more empowering.
 
