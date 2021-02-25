@@ -1,7 +1,8 @@
 backend:
   name: git-gateway
   branch: main # Branch to update (optional; defaults to master)
-media_folder: 'assets/uploads'
+media_folder: 'img/uploads'
+public_folder: '/img/uploads'
 publish_mode: editorial_workflow
 collections:
   - name: 'blog'
