@@ -6,9 +6,12 @@ function setupValidation() {
   Array.prototype.slice.call(forms)
     .forEach(function (form) {
       form.addEventListener('submit', function (event) {
-        const emailInput = document.getElementById('mailchimp-email')
-        const emailInvalidFeedback = document.getElementById('email-invalid-feedback')
-        const successMessage = document.getElementById('mailchimp-success-message')
+        const emailInput = event.target.getElementsByClassName('email-address')[0]
+        const emailInvalidFeedback = event.target.getElementsByClassName('email-invalid-feedback')[0]
+        const successMessage = event.target.getElementsByClassName('mailchimp-success-message')[0]
+
+        const emailOptInElem = document.getElementById('email-opt-in')
+        const emailOptIn = (emailOptInElem !== null) ? emailOptInElem.checked : true
 
         if (!form.checkValidity()) {
           event.preventDefault()
@@ -21,18 +24,26 @@ function setupValidation() {
           event.preventDefault()
           grecaptcha.ready(() => {
             grecaptcha.execute('6LdGUEcaAAAAAAiT_ZLd0w-yKzEbrPm4ZZinhCuA', {action: 'submit'}).then((token) => {
-              postData(event.target, token)
-                .then(data => {
-                  if (!data.success) {
-                    emailInput.classList.add('is-invalid')
-                    emailInvalidFeedback.innerHTML = data.message
-                    successMessage.innerHTML = ''
-                  } else {
-                    emailInput.classList.remove('is-invalid')
-                    emailInvalidFeedback.innerHTML = ''
-                    successMessage.innerHTML = `<div class="alert alert-success" role="alert">${data.message}</div>`
-                  }
-                })
+              if(emailOptIn) {
+                postData(event.target, token)
+                  .then(data => {
+                    if (!data.success) {
+                      emailInput.classList.add('is-invalid')
+                      emailInvalidFeedback.innerHTML = data.message
+                      successMessage.innerHTML = ''
+                    } else {
+                      emailInput.classList.remove('is-invalid')
+                      emailInvalidFeedback.innerHTML = ''
+                      successMessage.innerHTML = `<div class="alert alert-success" role="alert">${data.message}</div>`
+                    }
+                  })
+              }
+
+              if(event.target.classList.contains('resource-form')) {
+                // this is a resource page, the user just unlocked the content, so show it and hide the signup box.
+                document.getElementById('resource-content-overlay').classList.add('d-none')
+                document.getElementById('resource-content').classList.remove('d-none')
+              }
             })
           })
         }

@@ -1,0 +1,28 @@
+.content-overlay {
+
+  .email-capture-card {
+    padding: 20px;
+    border-radius: 10px;
+    width: 100%;
+    background-color: $light;
+    text-align: center;
+
+    .email-address {
+      padding: 0.375rem 0.5rem;
+    }
+
+    .small {
+      color: $gray-500;
+      a {
+        color: $gray-500;
+      }
+    }
+
+    .btn {
+      background-color: #0679a4;
+      color: white;
+      border-top-right-radius: 6px !important;
+      border-bottom-right-radius: 6px !important;
+    }
+  }
+}
