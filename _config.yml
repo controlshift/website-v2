@@ -27,6 +27,8 @@ collections:
 jekyll_get:
   - data: changelogs
     json: 'https://controlshift-changelog.herokuapp.com/changelogs/feed'
+  - data: changelog_months
+    json: 'https://controlshift-changelog.herokuapp.com/changelogs/feed_months'
 
 
 ### Segment

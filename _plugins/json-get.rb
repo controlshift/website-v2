@@ -30,7 +30,8 @@ module Jekyll_Get
               file << JSON.generate(site.data[d['data']])
             end
           end
-        rescue
+        rescue => e
+          puts e
           next
         end
       end
