@@ -14,7 +14,7 @@ title: Changelog
           <div class="change-meta">{{ month | date: "%B, %Y" }}</div>
           <div class="changes">
             {% assign month_key = month | date: "%Y-%m" %}
-            {% for change in site.data.changelogs[month_key] limit:5 %}
+            {% for change in site.data.changelogs[month_key] %}
               <div class="row pb-2">
                 <div class="col-sm-3">
                   <span class="category">{{change.kind}}</span>
