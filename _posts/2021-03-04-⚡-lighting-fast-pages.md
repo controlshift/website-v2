@@ -3,10 +3,10 @@ layout: post
 title: ⚡ Lighting Fast Pages
 date: 2021-03-04T21:44:13.901Z
 ---
-Front-end page performance might seem like an obscure technical aspect of a product, but it can be one of the most critical metrics that drives the success of any site. It's particularly important for mobile users whose constrained bandwidth and device capacity can make websites that otherwise perform well feel frustratingly slow to load. In one often-cited study, [the BBC found that they lost an additional 10% of users](https://web.dev/why-speed-matters/) for each additional second it took for a page to load. We've become quite passionate about finding ways to improve the actual and perceived performance of the sites we host for customers because while it might seem like an obscure concern at first, we think it can be critical to our customers' success.
+Front-end page performance might seem like an obscure technical aspect of a product, but it can be one of the most critical metrics that drives the success of any site. It's particularly important for mobile users whose constrained bandwidth and limited device capacity can make websites that otherwise perform well feel frustratingly slow to load. In one often-cited study, [the BBC found that they lost an additional 10% of users](https://web.dev/why-speed-matters/) for each additional second it took for a page to load. We've become quite passionate about finding ways to improve the actual and perceived performance of the sites that we host for customers because while it might seem like an obscure concern at first, we think it can be critical to our customers' success.
 
-On one level, front-end page performance is about conversions: the faster we make our pages, the more people who will take action by signing a petition or creating an event. \
-\
+On one level, front-end page performance is about conversions: the faster we make our pages, the more people who will take action by signing a petition or creating an event. 
+
 It's also about equity: pages that are fast, regardless of the mobile device or bandwidth available, reach more people wherever they might live or how old their phones might be. 
 
 Finally it's about search engine optimization: Google and other search engines prioritize sites that load quickly when sorting results. Sites that Google believes are fast will rise in the rankings. 
@@ -28,7 +28,7 @@ In addition to instrumenting ControlShift in the lab for front-end performance, 
 Improving the page speed for those taking action via petitions and events has been a particular focus for us because these pages are seen by millions of supporters across our customer sites each month. Many of these supporters visit us with an empty browser cache, and they arrive primarily via mobile devices. We've implemented numerous new strategies to make these flows feel faster, especially on mobile devices:
 
 * Modernized the front-end framework we use to develop ControlShift and refined the CSS we generate to make it smaller. This was an enormous project for us but has paid significant dividends already. 
-* Switched from gzip compression for CSS and JavaScript assets to the newer and more efficient [brotli compression](https://blogs.akamai.com/2016/02/understanding-brotlis-potential.html).
+* Switched from gzip compression for CSS and JavaScript assets to the newer and more efficient [Brotli compression](https://blogs.akamai.com/2016/02/understanding-brotlis-potential.html).
 * Slimmed the amount of JavaScript that is loaded on the page by [carefully analyzing](https://blog.saeloun.com/2020/08/04/how-to-investigate-your-build-size-in-webpack.html) how various libraries we use are imported and deferring some JavaScript loads.
 * Added [browser hints about the resources](https://developer.mozilla.org/en-US/docs/Web/HTML/Preloading_content) each page needs to speed things up, especially for customers using Google Fonts.
 * Experimented with [differential serving of distinct JavaScript bundles](https://www.smashingmagazine.com/2018/10/smart-bundling-legacy-code-browsers/) for specific browser versions. 
@@ -42,4 +42,4 @@ Reducing the size of uploaded images and carefully choosing fonts and other desi
 
 **Just the Beginning**
 
-While we've already made significant changes, we see this work as a continuous process of constant improvement. It's sometimes easy while using a new laptop on high speed internet to ignore page performance, but many of our customers' supporters are visiting the platforms we host on mobile devices over 3G and it's critical that sites and products for activism strive to perform well for those audiences too.
+While we've already made significant changes, we see this work as a continuous process of constant improvement. It's sometimes easy while using a new laptop on high-speed internet to ignore page performance, but many of our customers' supporters are visiting the platforms we host on mobile devices over 3G. It's critical that sites and products for activism strive to perform well for those audiences too.
