@@ -1,5 +1,6 @@
 ---
 layout: post
+featured_image: img/uploads/desktop.png
 title: ⚡ Lighting Fast Pages
 date: 2021-03-04T21:44:13.901Z
 ---
