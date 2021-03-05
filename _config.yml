@@ -23,6 +23,8 @@ autopages:
 collections:
   resources:
     output: true
+  details:
+    output: true
 
 jekyll_get:
   - data: changelogs
