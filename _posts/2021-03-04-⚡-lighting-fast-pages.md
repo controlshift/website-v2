@@ -11,4 +11,6 @@ It's also about equity: Pages that are fast regardless of the mobile device or b
 
 Finally it's about search: Google and other search engines prioritize sites that load quickly while sorting results. Sites that Google notices perform well will rise in the rankings. 
 
-##### Our Process
+##### Measure Once, Cut Twice
+
+![Screenshot of Google Lighthouse CI](/img/uploads/screen-shot-2021-03-04-at-5.47.25-pm.png)
