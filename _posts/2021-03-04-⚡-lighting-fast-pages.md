@@ -1,7 +1,7 @@
 ---
 layout: post
 featured_image: /img/uploads/desktop.png
-title: ⚡ Lighting Fast Pages
+title: ⚡ Lightning Fast Pages
 date: 2021-03-04T21:44:13.901Z
 ---
 Front-end page performance might seem like an obscure technical aspect of a product, but it can be one of the most critical metrics that drives the success of any site. It's particularly important for mobile users whose constrained bandwidth and limited device capacity can make websites that otherwise perform well feel frustratingly slow to load. In one often-cited study, [the BBC found that they lost an additional 10% of users](https://web.dev/why-speed-matters/) for each additional second it took for a page to load. We've become quite passionate about finding ways to improve the actual and perceived performance of the sites that we host for customers because while it might seem like an obscure concern at first, we think it can be critical to our customers' success.
@@ -42,5 +42,7 @@ While we're excited about the performance gains we've already baked into Control
 Reducing the size of uploaded images and carefully choosing fonts and other design elements can also have a big impact.
 
 **Just the Beginning**
+
+![A lighthouse performance report](/img/uploads/desktop.png)
 
 While we've already made significant changes, we see this work as a continuous process of constant improvement. It's sometimes easy while using a new laptop on high-speed internet to ignore page performance, but many of our customers' supporters are visiting the platforms we host on mobile devices over 3G. It's critical that sites and products for activism strive to perform well for those audiences too.
