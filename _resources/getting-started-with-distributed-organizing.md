@@ -6,7 +6,7 @@ title: Getting Started with Distributed Organizing
 
 ### Introduction
 
-People call it different things -- distributed organizing, member-led campaigning, wildfire activism. Regardless of the name, there is a central goal: to harness a community’s bottom-up energy to work for changes, large and small, that create leaderful movements more powerful than those directed by organizational staff alone. 
+People call it different things -- distributed organizing, member-led campaigning, wildfire activism. Regardless of the name, there is a central goal: to harness a community’s bottom-up energy to work for changes, large and small, that create leaderful movements more powerful than those directed by centralized or professionalized staff alone. 
 
 ![](/img/uploads/vector-distributed-organizing-main.png)
 
@@ -19,7 +19,9 @@ Each organization is different, and you’ll want to spend time examining your s
 <a name="petitions" /> 
 ### Petitions
 
-The key to a successful distributed petitions program is to prepare your members so that when they have the spark of an idea for a campaign, they remember to come to you and your platform. It is a process of focusing the energy of your members – who share a broad alignment on your issues and a desire to make change – into strategic, concrete, and winnable campaigns. There are various ways of doing this, including templatized campaigns on a specific issue, ongoing storytelling about successful member-led efforts, and a lot of coaching, training, and working directly with members to build their organizing skills.
+Open petition platforms allow your supporters to create their own campaigns on your organization's website. 
+
+The key to a successful distributed petitions program using a platform is to prepare your members so that when they have the spark of an idea for a campaign, they remember to come to you and your platform to launch a campaign. It is a process of focusing the energy of your members – who share a broad alignment on your issues and a desire to make change – into strategic, concrete, and winnable campaigns. There are various ways of doing this, including templatized campaigns on a specific issue, ongoing storytelling about successful member-led efforts, and a lot of coaching, training, and working directly with members to build their organizing skills.
 
 Each organization is different, so you’ll want to spend time examining your specific goals and carefully designing a launch strategy to achieve them. Below are a few possible outcomes that your organization may wish to achieve through distributed campaigning. Not all organizations focus on all of these outcomes, but you may want to brainstorm how each of them could help further your goals and plan to test a few different approaches to see what works best.
 
@@ -27,10 +29,12 @@ Each organization is different, so you’ll want to spend time examining your sp
 * Expanding your reach at the [local](https://you.38degrees.org.uk/) level.
 * Making campaigns more compelling through the authentic voices of real people, confronting an issue personally, rather than the official voice of an advocacy organization.
 * Discovering novel ways to talk about issues or policy proposals that resonate more viscerally with members than talking points from insider think tanks. 
+* Dramatically increasing the volume of campaigns that your organization launches and discovering more viral growth opportunities as a result.
 * Growing your supporter list by [tapping into your members’ personal networks](https://www.controlshiftlabs.com/case-study/coworker/).
 * Identifying new and novel campaign ideas from your members that can be [shared and replicated](https://www.controlshiftlabs.com/case-study/groundswell/) with other supporters. 
 * [Collaborating with partner organizations](https://www.megaphone.org.au/partnerships/united-voice-national) that don’t have access to sophisticated digital campaigning tools and strategies.
 * Tackling campaigns that don’t have a single decision maker, but instead have tens or [hundreds of targets](https://www.controlshiftlabs.com/case-study/350/) that need to be pressured in their own way.
+* Developing local leaders or empowering local leaders to run locally targeted campaigns to pressure decision makers in their community. 
 * Winning more victories that [improve more people’s lives](https://you.38degrees.org.uk/petitions/do-not-deport-wadih-chourey-vack-to-the-lebanon-just-because-his-parents-have-died).
 
 #### Getting Off the Ground
@@ -78,11 +82,11 @@ Other opportunities you might look for include:
 * Asking governors or mayors to make a statement of support on an issue. Everytown for Gun Safety asked mayors to declare a gun awareness day.
 * Pressuring media outlets to report fairly by not covering climate deniers.
 * Getting businesses to take a product off their shelves or adopt a particular policy. SumOfUs got members to start campaigns asking local hardware stores to stop selling bee-killing pesticides.
-* Crowd-sourcing targets where there’s no authoritative list. Color of Change ran an effort to[ take down Confederate symbols](https://www.controlshiftlabs.com/case-study/color-of-change/), which exist in thousands of places, including street names, schools, and other landmarks.
+* Crowd-sourcing targets where there’s no authoritative list. Color of Change ran an effort to[ take down Confederate symbols](https://www.controlshiftlabs.com/case-study/color-of-change/) and monuments, which exist in thousands of places, including street names, schools, and other landmarks.
 
 #### Ongoing Strategies
 
-Once a core set of users are comfortable with the platform and you have a set of active campaigns, you’re ready to figure out what your ongoing program is going to look like. Of course, you can keep working with your early-stage programs too, but you’ll also want to expand and determine what will eventually scale.
+Once a core set of users are comfortable with the platform and you have a set of active campaigns, you’re ready to design your ongoing program. Of course, you can keep working with your early-stage programs too, but you’ll also want to expand and determine what tactics, support will eventually scale.
 
 \
 *Partner Organizations*\
@@ -106,11 +110,13 @@ It’s really important to define what constitutes success. Is it more petitions
 
 To keep members engaged, some organizations send rolling recruitment emails where each member is prompted to start a petition once every three months. Each of these emails includes an inspiring case study about a different member campaign. Other organizations look for campaign opportunities, and then email members in the relevant location asking them to start a campaign on that specific issue. Another organization sends their members a survey asking them to pick the issue they want the organization to work on and follows up with a prompt for the member to start that very campaign!
 
-Beyond specific solicitation emails, you can also expand into other channels. You can add an ask to the PS line of autoresponders or emails about other campaigns (“Have an idea for a campaign? Start one here. . .”). Facebook ads allow you to target very specific populations. Across all of these channels, remember to model the behavior by framing petitions, even those authored by staff, as coming from a particular person and always reminding your members that they can do the same thing. 
+Beyond specific solicitation emails, you can also expand into other channels. You can add an ask to the PS line of autoresponders or emails about other campaigns (“Have an idea for a campaign? Start one here. . .”). Facebook ads allow you to target very specific populations. You might text members asking them to start campaigns about an issue in a high energy moment. Across all of these channels, remember to model the behavior by framing petitions, even those authored by staff, as coming from a particular person and always reminding your members that they can do the same thing. 
+
+
 
 #### Supporting campaign leaders
 
-As we mentioned before, campaigning is a skill that is learned over time. While members are often able to spot raw opportunities for action, it is rare that they can move to a successful campaign without some level of support from your organization.
+Campaigning is a skill that is learned over time. While members are often able to spot raw opportunities for action, it is rare that they can move to a successful campaign without some level of support from your organization.
 
 Many organizations develop a set of how-to content to share with petition starters. A scalable way to share this information is to include it in the series of emails that go out after a member starts a petition -- giving them important tips at different milestones in the campaign. Other effective channels include short video tutorials, conference calls and webinars, and an email list or online group for petition starters where they can ask questions and learn from one another. 38 Degrees has set up a great [resource site](https://home.38degrees.org.uk/cby-tips/) for their member campaigners.
 
@@ -135,7 +141,7 @@ As your program grows, you may have a set of supporters who have run successful 
 <div class="example">
 <label>Teams</label>
 <p>
-ControlShift’s teams feature allows organizations to create different levels of permissions – allowing member-coaches to have access to only basic admin tools. 
+ControlShift’s teams feature allows organizations to create different levels of permissions – allowing member-coaches to have access to only basic admin tools, or to segment campaign support by geographic area.
 </p>
 </div>
 
@@ -264,8 +270,6 @@ Campaign-related groups may be location-based or issue-based, but they’re hype
 </p>
 </div>
 
-
-
 #### Supporting Group Leaders
 
 \
@@ -320,13 +324,19 @@ Regardless of which model of digital organizing you adopt, supporting your membe
 *Moderation*\
 At a minimum, you’ll need to keep a close eye on what comes in on the platform – at least on a daily basis and ideally closer to real-time. Quickly reviewing new campaigns, events, and group leader applications signals your support for your members’ work and will ensure that their campaigns and other actions can advance in a timely manner. You may consider staffing this on a rolling basis – with each team member being responsible a day or a week at a time.
 
-Some organizations also have a daily review of new campaigns. They sit down, walk through each new or updated campaign, and assign follow-ups for editing, coaching, or other support.
+<div class="example">
+<label>Slack Integration</label>
+<p>ControlShift integrates with Slack and allows fast-moving teams to be notified of new campaigns that require moderation as soon as they are created. 
+</p>
+</div>
+
+Some organizations also have a daily review of new campaigns. They sit down, walk through each new or updated campaign, and assign follow-ups for editing, coaching, PR or other support.
 
 Similarly, organizations supporting days of action or groups may find that regularly scheduled meetings are useful in making sure that everyone knows the current status of the work being done and the places where additional admin support is needed. 
 
 \
 *Organizing Support, Coaching, and Mentorship*\
-As mentioned before, campaigning is a skill that is learned over time. While members are often passionate about the issues and able to spot raw opportunities for action, it is rare that they can channel that passion into a successful campaign or a stable group without some level of support from your organization.
+While members are often passionate about the issues and able to spot raw opportunities for action, it is rare that they can channel that passion into a successful campaign or a stable group without some level of support from your organization.
 
 Many organizations develop a set of written content that can be shared with leaders. A scalable way to share this information is to include it in the series of emails that go out after a member starts a petition, creates a group, or signs up to host an event. Whenever possible, try to tailor your guides to the specific action that the user has just taken and include specific real-life examples of previous actions taken. Other effective channels include short video tutorials, conference calls and webinars, and an email list or online group for leaders where they can ask questions and learn from one another. 38 Degrees has set up a great [resource site](https://home.38degrees.org.uk/cby-tips/) for their member campaigners.
 
