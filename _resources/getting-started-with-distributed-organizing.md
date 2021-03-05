@@ -396,6 +396,6 @@ Once you’ve tested and established your ongoing program, you’ll want to make
 
 ## Final Thoughts
 
-Launching a distributed organizing program can be a scary step for a lot of organizations. Trusting our members to take the lead in organizing and giving over control is often a large shift from the way the organization has organized in the past, but it’s also a great opportunity to expand the work your organization is able to accomplish. 
+Trusting our members to take the lead in organizing and giving over control might be a large shift from the way your organization has worked in the past, but it’s also a great opportunity to expand the work your organization is able to accomplish. This style of organizing is about making our movements big enough to win even if it means our campaigns can't be perfect as a result.
 
 **If you’re interested in how distributed organizing can help improve your organization’s impact, [get in touch](mailto:talk@controlshiftlabs.com)!**
