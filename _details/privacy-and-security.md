@@ -1,6 +1,6 @@
 ---
 layout: detail
-title: Security and Privacy
+title: Privacy and Security
 ---
 Security and Privacy are a critical part of the work that we do. It’s a process that we’re continually working to improve on and a thread that runs through everything that we do — from how we store member data to the tools we provide to customers.
  
