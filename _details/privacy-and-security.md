@@ -59,7 +59,7 @@ While member data is collected using the platform, ChangeSprout does not own the
 
 In addition to the other measures outlined above, we allow users to access and update their personal information to ensure its accuracy.
 
-*Onward Transfer*\ 
+*Onward Transfer*\
 ChangeSprout only transfers member data to third parties when requested by the Customer or when required for the reliable operation of the platform. We limit the number of third-party sub-processors we use to process member data and ensure that all sub-processors adhere to adequate data protection policies. 
 
 A list of our current sub-processors is available in [our help center](https://support.controlshiftlabs.com/hc/en-us/articles/360000175976).
