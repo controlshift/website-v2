@@ -52,7 +52,7 @@ We use automated change management tools to document the current state of our sy
 All team members are regularly briefed on principles and policies of data privacy and data security and the practices are embedded in the engineering culture of the team.
 
 *Availability*\
-The ControlShift platform is deployed across multiple Amazon Web Services Availability Zones within a single AWS region and has been designed to be automaticallly resilient in the case of either single instance or data center failure. We proudly report on the long-term availiabity and performance of the platform on [our status page](https://status.controlshiftlabs.com/).
+The ControlShift platform is deployed across multiple Amazon Web Services Availability Zones within a single AWS region and has been designed to be automatically resilient in the case of either single instance or data center failure. We proudly report on the long-term availability and performance of the platform on [our status page](https://status.controlshiftlabs.com/).
 
 *Member Data*\
 While member data is collected using the platform, ChangeSprout does not own the data, nor do we process it except as directed by the Customer or as required for the operation of the platform. We treat member data as confidential information and take precautions to prevent the unauthorized disclosure, misuse, or loss of data.
