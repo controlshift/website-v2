@@ -1,5 +1,5 @@
 ---
-title: Getting Started with Distributed Organizing – Petitions
+title: Getting Started with Distributed Organizing: Petitions
 ---
 ## Getting Started with Distributed Organizing
 
