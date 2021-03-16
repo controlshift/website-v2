@@ -29,8 +29,8 @@
     font-family: Grafik-Medium, sans-serif;
 
     &.no-padding {
-      padding-left: 0px !important; // so we can underline the text without padding on the underline
-      padding-right: 0px !important;
+      padding-left: 0 !important; // so we can underline the text without padding on the underline
+      padding-right: 0 !important;
     }
 
     // do not apply this to the let's talk button, which has its own hover state
