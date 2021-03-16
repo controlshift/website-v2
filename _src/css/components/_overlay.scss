@@ -26,3 +26,17 @@
     }
   }
 }
+
+@media print {
+  #pdf-download-box {
+    display: none;
+  }
+
+  #resource-content-overlay, .footer, .newsletter-signup {
+    display: none;
+  }
+
+  #resource-content {
+    display: block !important;
+  }
+}

@@ -18,7 +18,7 @@
     position: absolute;
 
     @include media-breakpoint-up(lg) {
-      right: 0px;
+      right: 0;
       width: 60%;
       max-width: 880px;
     }
