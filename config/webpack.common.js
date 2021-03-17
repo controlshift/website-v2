@@ -20,7 +20,9 @@ module.exports = {
     new HtmlWebpackPlugin({
       template: './_src/template/default.html',
       filename: '../_layouts/default.html',
-      chunks: ['app']
+      chunks: ['app'],
+      scriptLoading: 'defer',
+      inject: 'head'
     }),
     new HtmlWebpackPlugin({
       template: './_src/template/admin.html',
