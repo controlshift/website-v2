@@ -1,7 +1,7 @@
 ---
 layout: resource
 title: Getting Started with Distributed Organizing: Petitions
-resource_url: /foo.pdf
+resource_url: /img/pdfs/distributed-organising-petitions.pdf
 tease_title: Learn to scale your organizing by empowering supporters
 tease_image_url: /img/uploads/vector-campaign-efforts-supporters-recruited.svg
 tease_blurb: >
