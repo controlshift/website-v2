@@ -3,9 +3,9 @@ layout: resource
 title: Getting Started with Distributed Organizing: Petitions
 tease_title: Learn to scale your organizing by empowering supporters
 tease_blurb: >
-  Download this guide to get 20 pages of steps, checklist and guides to
-  transform your organizing program into a scaled,  distributed and member led
-  force for change.
+  Download this guide for examples, checklists, and tips to transform your
+  organizing program into a scaled,  distributed, and member-led force for
+  change.
 tease_image_url: /img/uploads/vector-campaign-efforts-supporters-recruited.svg
 resource_url: /img/pdfs/distributed-organising-petitions.pdf
 ---
