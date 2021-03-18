@@ -6,6 +6,11 @@ url: "https://www.controlshiftlabs.com"
 theme_color: '#0f91c2'
 relative_permalinks: false
 
+twitter:
+  username: controlshiftlab
+  card: summary
+facebook:
+  publisher: https://www.facebook.com/controlshiftlabs
 languages: ["en"]
 pagination:
   enabled: true

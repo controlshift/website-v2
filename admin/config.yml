@@ -30,8 +30,8 @@ collections:
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'resource' }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Tease Title', name: 'tease_title', widget: 'string' }
-      - { label: 'Tease Blurb', name: 'tease_blurb', widget: 'text' }
-      - { label: 'Tease Image URL', name: 'tease_image_url', widget: 'string' }
+      - { label: 'Tease Blurb', name: 'description', widget: 'text' }
+      - { label: 'Tease Image URL', name: 'image', widget: 'string' }
       - { label: 'Resource Download URL', name: 'resource_url', widget: 'string'}
       - { label: 'Body', name: 'body', widget: 'markdown' }
 

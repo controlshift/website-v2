@@ -1,12 +1,12 @@
 ---
 layout: resource
-title: Getting Started with Distributed Organizing: Petitions
+title: Getting Started with Distributed Organizing: Petitions
 tease_title: Learn to scale your organizing by empowering supporters
-tease_blurb: >
+description: >
   Download this guide for examples, checklists, and tips to transform your
   organizing program into a scaled,  distributed, and member-led force for
   change.
-tease_image_url: /img/uploads/vector-campaign-efforts-supporters-recruited.svg
+image: /img/uploads/vector-campaign-efforts-supporters-recruited.svg
 resource_url: /img/pdfs/distributed-organising-petitions.pdf
 ---
 ### Introduction
@@ -198,7 +198,7 @@ Once you’ve tested and established your ongoing program, you’ll want to make
 <p>ControlShift’s front-end JSONP APIs, and other integrations, make it easy to integrate our platform with the rest of your site. Color of Change has done this with their OrganizeFor.org homepage.</p>
 <p> Our pre-built CRM integrations also ensure that member data flows seamlessly to your existing databases and mailing lists.
 </p>
-</div> 
+</div>
 
 ## Final Thoughts
 
