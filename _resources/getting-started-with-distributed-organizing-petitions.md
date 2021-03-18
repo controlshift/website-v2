@@ -1,6 +1,6 @@
 ---
 layout: resource
-title: Getting Started with Distributed Organizing: Petitions
+title: "Getting Started with Distributed Organizing: Petitions"
 tease_title: Learn to scale your organizing by empowering supporters
 description: >
   Download this guide for examples, checklists, and tips to transform your
