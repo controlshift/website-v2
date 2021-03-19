@@ -1,13 +1,13 @@
 ---
 layout: resource
-title: Getting Started with Distributed Organizing Events
+title: "Getting Started with Distributed Organizing: Events"
 tease_title: Learn to scale your organizing by empowering supporters to host events
 description: >
   Download this guide for examples, checklists, and tips to transform your
   organizing program into a scaled,  distributed, and member-led force for
   change.
 image: img/uploads/graphic-hero-events.svg
-resource_url: foo.pdf
+resource_url: /img/pdfs/distributed-organising-events.pdf
 ---
 ### Introduction
 
