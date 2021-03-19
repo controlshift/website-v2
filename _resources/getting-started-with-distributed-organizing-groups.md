@@ -1,21 +1,21 @@
 ---
 layout: resource
-title: Getting Started with Distributed Organizing Groups
+title: "Getting Started with Distributed Organizing: Groups"
 tease_title: Learn to scale your organizing by empowering supporters to lead local groups
 description: >
   Download this guide for examples, checklists, and tips to transform your
   organizing program into a scaled,  distributed, and member-led force for
   change.
 image: img/uploads/vector-groups-leaders.svg
-resource_url: foo.pdf
+resource_url: /img/pdfs/distributed-organising-groups.pdf
 ---
 ### Introduction
 
 People call it different things -- distributed organizing, member-led campaigning, wildfire activism. Regardless of the name, there is a central goal: to harness a community’s bottom-up energy to work for changes, large and small, that create leaderful movements more powerful than those directed by centralized or professionalized staff alone. 
 
-Many organizations have proven that this way of organizing can work to generate both growth and impact, and there are many more groups who have the potential to benefit from this model. However, these successes don’t mean that you can just set up a platform, snap your fingers, and suddenly have hundreds of successful events run by members. It takes careful planning and an investment across your organization to launch a successful program.
+Many organizations have proven that this way of organizing can work to generate both growth and impact, and there are many more groups who have the potential to benefit from this model. However, these successes don’t mean that you can just set up a platform, snap your fingers, and suddenly have hundreds of successful groups run by members. It takes careful planning and an investment across your organization to launch a successful program.
 
-Very few of your members are ready to host a successful event at the drop of a hat. The key to a successful distributed organizing model is to prepare your members so that they’re ready to lead in their communities, and then support them along the way. 
+Very few of your members are able to manage a group successfully without an organization's ongoing guidance and support. The key to a successful distributed organizing model is to prepare your members so that they’re ready to lead in their communities, and then support them along the way. 
 
 Each organization is different, and you’ll want to spend time examining your specific goals and carefully designing a distributed organizing program and launch strategy to achieve them. \
 \
