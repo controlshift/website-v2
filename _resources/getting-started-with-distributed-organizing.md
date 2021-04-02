@@ -3,7 +3,8 @@ layout: resource
 title: Getting Started with Distributed Organizing
 resource_url: /foo.pdf
 tease_title: Learn to scale your organizing by empowering supporters
-image: /img/uploads/vector-campaign-efforts-supporters-recruited.svg
+image: /img/uploads/vector-campaign-efforts-supporters-recruited-3x.png
+tease_image: /img/uploads/vector-campaign-efforts-supporters-recruited.svg
 description: >
   Download this guide to get 20 pages of steps, checklist and guides to transform your organizing program into a scaled, 
   distributed and member led force for change.
