@@ -6,7 +6,8 @@ description: >
   Download this guide for examples, checklists, and tips to transform your
   organizing program into a scaled,  distributed, and member-led force for
   change.
-image: /img/uploads/vector-campaign-efforts-supporters-recruited.svg
+image: /img/uploads/vector-campaign-efforts-supporters-recruited-3x.png
+tease_image: /img/uploads/vector-campaign-efforts-supporters-recruited.svg
 resource_url: /img/pdfs/distributed-organising-petitions.pdf
 ---
 ### Introduction
