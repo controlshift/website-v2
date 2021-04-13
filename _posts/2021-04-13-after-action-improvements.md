@@ -12,7 +12,7 @@ We’ve been iteratively refining the experiences your supporters have after the
 
 We’ve refined the share step to balance the initial sharing prompt with a more prominent option to move on to other choices. This updated design maintains the number of supporters who share campaigns while increasing the number of supporters who engage with a second action.
 
-![The updated after-action modal has a refreshed design that's consistent through each step.](/img/uploads/modal.gif "The updated after-action modal has a refreshed design that's consistent through each step.")
+![The updated after-action modal has a refreshed design that's consistent through each step.](/img/uploads/share_modal.png "The updated after-action modal has a refreshed design that's consistent through each step.")
 
 We’re continuing to refine this step since it’s so critical to how quickly both petition and event campaigns grow. Our tests found that adding an option to copy the URL to the clipboard has a positive impact. We’ve also confirmed that the social proof associated with showing that other people are sharing the campaign remains a potent element –  **increasing new shares by 7%**.
 
@@ -30,7 +30,7 @@ Customers can optionally set up a welcome message for new supporters who haven�
 
 Several customers use our support for embedded iframes in the post-action daisy chain to ask their supporters for donations after they sign a petition or attend an event using third-party donation software. This works particularly well when the donation ask is connected back to the campaign the supporter just participated in, but we’ve also seen customers experiment with generic asks to support broader organizing. 
 
-We’re interested in building more robust integrations with other donation tools to more easily allow for after-action fundraising, testing dynamic language, and better donation reporting within ControlShift. Let us know if you’d like to collaborate in early experiments and help shape our product development in this area. 
+We’re interested in building more robust integrations with other donation tools to more easily allow for after-action fundraising, testing dynamic language, and better donation reporting within ControlShift. [Let us know](mailto:talk@controlshiftlabs.com) if you’d like to collaborate in early experiments and help shape our product development in this area. 
 
 #### Promoted Petitions and Campaign Events
 
