@@ -10,10 +10,12 @@
       font-size: 24px;
       line-height: 1.5;
     }
+
     .metadata {
       margin-bottom: 2rem;
     }
   }
+
   .metadata {
     font-family: Grafik-Regular, SFProDisplay, Arial, sans-serif;
     color: rgb(102, 102, 102);
@@ -35,23 +37,23 @@
     max-width: 250px;
   }
 
- .post-summary  {
-   h2 {
-     margin-bottom: 1rem;
-     color: $dark-gray-text;
+  .post-summary {
+    h2 {
+      margin-bottom: 1rem;
+      color: $dark-gray-text;
 
-     :hover {
-       color: $link-color;
-     }
-   }
+      :hover {
+        color: $link-color;
+      }
+    }
 
-   .excerpt {
-     font-family: Grafik-Regular, SFProDisplay, Arial, sans-serif;
-     margin-bottom: 1rem;
-   }
+    .excerpt {
+      font-family: Grafik-Regular, SFProDisplay, Arial, sans-serif;
+      margin-bottom: 1rem;
+    }
 
-   margin-bottom: 4rem;
- }
+    margin-bottom: 4rem;
+  }
 }
 
 article.post {
@@ -64,11 +66,16 @@ article.post {
   font-size: 21px;
   line-height: 32px;
   font-weight: 400;
+
   .entry {
     img {
       display: block;
       width: 100%;
       margin: 40px auto;
+    }
+
+    .post-image {
+      width: 70%;
     }
 
     .figure-img {
