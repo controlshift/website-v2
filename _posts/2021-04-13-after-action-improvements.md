@@ -42,6 +42,6 @@ Then, after someone signs a campaign, we’ll show them a petition they’ve not
 
 Similarly, organizations can also promote campaign events to recent signers. Promoting upcoming events can be a great way to convert supporters to offline action. 
 
-![Events allow supporters to take their action offline. ](/img/uploads/event.png "Events allow supporters to take their action offline. ")
+![Events allow supporters to take their action offline. ](/img/uploads/event.png "Events allow supporters to take their action offline."){: .img-responsive}
 
 As with the other modals, we’ve improved the designs of the promoted petition and event invitation modals to ensure that your supporters have a cohesive visual experience.
