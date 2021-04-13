@@ -9,7 +9,7 @@
         {{ post.excerpt | strip_html  }}
     </div>
     {% if post.featured_image and include.featured_class %}
-    <img src="{{post.featured_image}}" class="img-fluid mx-auto d-block">
+    <a href="{{ post.url }}"><img src="{{post.featured_image}}" class="img-fluid featured-post-image mx-auto d-block"></a>
     {% endif %}
     <a href="{{ post.url }}">Read More →</a>
 </div>
