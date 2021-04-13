@@ -13,7 +13,7 @@ We’ve been iteratively refining the experiences your supporters have after the
 
 We’ve refined the share step to balance the initial sharing prompt with a more prominent option to move on to other choices. This updated design maintains the number of supporters who share campaigns while increasing the number of supporters who engage with a second action.
 
-![The updated after-action modal has a refreshed design that's consistent through each step.](/img/uploads/share_modal.png "The updated after-action modal has a refreshed design that's consistent through each step.")
+![The updated after-action modal has a refreshed design that's consistent through each step.](/img/uploads/share_modal.png "The updated after-action modal has a refreshed design that's consistent through each step."){: .post-image}
 
 We’re continuing to refine this step since it’s so critical to how quickly both petition and event campaigns grow. Our tests found that adding an option to copy the URL to the clipboard has a positive impact. We’ve also confirmed that the social proof associated with showing that other people are sharing the campaign remains a potent element –  **increasing new shares by 7%**.
 
@@ -25,7 +25,7 @@ You can expect to see additional A/B tests in the future as we continue to refin
 
 Customers can optionally set up a welcome message for new supporters who haven’t previously taken action. This welcome message allows organizations to tell the story of their movement and suggest additional ways to get involved. We’ve redesigned the welcome modal to make it consistent with the new share modal styles.
 
-![Use welcome messages to explain the work your organization is doing and other ways to get involved.](/img/uploads/welcome.png "Use welcome messages to explain the work your organization is doing and other ways to get involved.")
+![Use welcome messages to explain the work your organization is doing and other ways to get involved.](/img/uploads/welcome.png "Use welcome messages to explain the work your organization is doing and other ways to get involved."){: .post-image}
 
 #### Donate
 
@@ -39,10 +39,10 @@ Our infrastructure for promoting campaigns remains one of the most powerful feat
 
 Then, after someone signs a campaign, we’ll show them a petition they’ve not yet signed. We’ll automatically choose the campaign we think the user will be most interested in, based on their location and the campaign they just signed.
 
-![Show recent signers other campaigns they might be interested in.](/img/uploads/promoted.png "Show recent signers other campaigns they might be interested in.")
+![Show recent signers other campaigns they might be interested in.](/img/uploads/promoted.png "Show recent signers other campaigns they might be interested in."){: .post-image}
 
 Similarly, organizations can also promote campaign events to recent signers. Promoting upcoming events can be a great way to convert supporters to offline action. 
 
-![Events allow supporters to take their action offline. ](/img/uploads/event.png "Events allow supporters to take their action offline."){: .img-responsive}
+![Events allow supporters to take their action offline. ](/img/uploads/event.png "Events allow supporters to take their action offline."){: .post-image}
 
 As with the other modals, we’ve improved the designs of the promoted petition and event invitation modals to ensure that your supporters have a cohesive visual experience.
