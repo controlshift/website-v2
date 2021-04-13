@@ -1,6 +1,7 @@
 ---
 layout: post
 author: nathan
+featured_image: /img/uploads/share.gif
 title: After Action Improvements
 date: 2021-04-13T19:53:57.306Z
 ---
