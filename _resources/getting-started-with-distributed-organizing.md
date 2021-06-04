@@ -15,7 +15,7 @@ description: >
 
 People call it different things -- distributed organizing, member-led campaigning, wildfire activism. Regardless of the name, there is a central goal: to harness a community’s bottom-up energy to work for changes, large and small, that create leaderful movements more powerful than those directed by centralized or professionalized staff alone. 
 
-![](/img/uploads/vector-distributed-organizing-main.png)
+![](/img/uploads/vector-distributed-organizing-main.png){: .post-image}
 
 Many organizations have proven that this way of organizing can work to generate both growth and impact, and there are many more groups who have the potential to benefit from this model. However, these successes don’t mean that you can just set up a platform, snap your fingers, and suddenly have hundreds of successful campaigns, events, and groups run by members. It takes careful planning and an investment across your organization to launch a successful program.
 
@@ -48,7 +48,7 @@ Each organization is different, so you’ll want to spend time examining your sp
 
 Your early steps into distributed organizing are about figuring out what works. Be ready to conduct a lot of tests and dedicate more energy and attention to individual campaigns than you would expect to once the program starts to scale. You want to learn what resonates with your members and what doesn’t, and that means paying attention to the granular details as well as thinking about eventual growth.
 
-![](/img/uploads/graphic-hero-campaigns-1-.svg)
+![](/img/uploads/graphic-hero-campaigns-1-.svg){: .post-image}
 
 \
 *Start with You*\
@@ -72,7 +72,7 @@ We all know that our members are opinionated and will often contact us requestin
 *Efforts or Templatized Campaigns*\
 One of the most powerful strategies of distributed organizing is the idea of running a lot of small campaigns against many local targets – where these small victories add up to a big impact. 
 
-![Efforts support templatized campaigns with many local targets, which are led by local leaders.](/img/uploads/vector-campaign-efforts-supporters-recruited.svg)
+![Efforts support templatized campaigns with many local targets, which are led by local leaders.](/img/uploads/vector-campaign-efforts-supporters-recruited.svg){: .rounded .mx-auto .d-block}
 
 This approach might involve letting your members run separate, but similar, campaigns targeting individual legislators and asking them to cosponsor or support a bill. While a campaign to “Parliament” may seem daunting, breaking it down district by district, naming each individual legislator, and sharing the responsibility for getting a commitment from each, can be far more empowering.
 
@@ -159,7 +159,7 @@ ControlShift’s teams feature allows organizations to create different levels o
 
 Supporters have many different options for where they can post events, and a successful distributed events program will need to demonstrate the benefits of hosting an event with the organization. This includes the support that the organization will provide to hosts, access to the organization’s broad base of like-minded members, and integration with the other tools and opportunities that the organization offers its supporters.
 
-![](/img/uploads/graphic-hero-events.svg)
+![](/img/uploads/graphic-hero-events.svg){: .post-image}
 
 \
 *Petition Events* \
@@ -194,7 +194,13 @@ It’s useful to also provide a contact person that your hosts can reach out to 
 
 For many of your members, the events they’re creating on your platform may be the first organizing or advocacy events they’ve hosted. Some of your members will find that this sort of action comes naturally to them, while others may feel passionately about the issue they’re addressing but may not feel comfortable acting as a host. The support and guidance your organization provides to these potential hosts may be the difference between them taking action and hosting a successful event or remaining on the sidelines.
 
-![](/img/uploads/vector-events-tools.svg)
+
+<figure markdown="1">
+![](/img/uploads/vector-events-tools.svg){: class="figure-img rounded"}
+<figcaption class="figure-caption">
+Surround the event host in a circle of communication.
+</figcaption>
+</figure>
 
 Some organizations provide that support by reaching out to each host individually, while others will just share written materials and ways for hosts to get in touch with staff if they have a question. Your method of supporting hosts will likely vary based on your staff capacity and can also change based on the event that’s being hosted.
 
@@ -249,7 +255,7 @@ Report backs can be done in different ways. If you’ve already spoken to a host
 
 Supporting healthy and active member-led groups is one of the most complicated aspects of a distributed organizing program and requires a high level of staff time and investment. Before launching a member-led groups program, it’s important to think carefully about your goals for these groups, what will constitute a successful groups program, and how these groups will fit into your organization’s broader strategic goals.
 
-![](/img/uploads/vector-groups-leaders.svg)
+![](/img/uploads/vector-groups-leaders.svg){: .post-image}
 
 Organizations approach groups programs in different ways: some see groups as rapid response hubs that the organization can call on whenever an issue arises in the group’s area, some support groups that are solely focused on winning a specific campaign, and some organization view the groups as an outlet for supporters to build community amongst themselves and get to know one another. Organizations may find that groups fill each of these roles at different times, but organizations who support successful group programs will have a clear vision for their groups and regularly communicate that vision with group leaders.
 
@@ -295,7 +301,7 @@ The process for approving new group applications can vary based on the organizat
 *Ongoing Support*\
 Similarly, ongoing support of groups can take many forms. At the most basic level, having written materials with expectations, frequently asked questions, and ways of getting in touch with the organization is essential.
 
-Some organizations also divide their groups into cohorts  based on issue area or geographic region before assigning them to a member of staff. That staff member becomes the main point of contact for the leaders of their groups – building a relationship between leaders and the organization and answering any questions the leaders may have. 
+Some organizations also divide their groups into cohorts based on issue area or geographic region before assigning them to a member of staff. That staff member becomes the main point of contact for the leaders of their groups – building a relationship between leaders and the organization and answering any questions the leaders may have. 
 
 <div class="example">
 <label>Mentors</label>
@@ -399,7 +405,7 @@ Once you’ve tested and established your ongoing program, you’ll want to make
 <p>ControlShift’s front-end JSONP APIs, and other integrations, make it easy to integrate our platform with the rest of your site. Color of Change has done this with their OrganizeFor.org homepage.</p>
 <p> Our pre-built CRM integrations also ensure that member data flows seamlessly to your existing databases and mailing lists.
 </p>
-</div> 
+</div>
 
 ## Final Thoughts
 

@@ -3,6 +3,10 @@
   color: $dark-gray-text;
 }
 
+.post-image {
+  width: 70%;
+}
+
 .blog {
   .featured {
     .excerpt {
@@ -77,9 +81,7 @@ article.post {
       margin: 40px auto;
     }
 
-    .post-image {
-      width: 70%;
-    }
+
 
     .figure-img {
       margin-bottom: 10px;
