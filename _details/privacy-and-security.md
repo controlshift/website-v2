@@ -66,10 +66,9 @@ ChangeSprout only transfers member data to third parties when requested by the c
 
 A list of our current sub-processors is available in [our help center](https://support.controlshiftlabs.com/hc/en-us/articles/360000175976).
 
-ChangeSprout may also transfer platform data to analytics providers for the purpose of internal, platform-wide analytics. Data analytics transfers that are undertaken for the benefit of our internal analysis will be undertaken only after receiving permission from the customer.  This permission may take the form of emailed
-confirmation and does not require an addendum to customer contracts.
+ChangeSprout may also transfer platform data to analytics providers for the purpose of internal, platform-wide analytics. Data analytics transfers that are undertaken for the benefit of our internal analysis will be undertaken only after receiving permission from the customer.  This permission may take the form of emailed confirmation and does not require an addendum to customer contracts.
 
 Additionally, at the customer's explicit request we will also send information to the customer's chosen CRM or other customer systems. Integrations with any third-party tools enabled by the customer are optional, and it is the responsibility of the customer to ensure that these services adhere to their country's data protection regulations.
 
 *Unsubscribes*\
-Emails sent from the ControlShift platform automatically include links to unsubscribe from communications. By default, this allows users to unsubscribe from communications about a specific campaign. However, for certain CRMs, the ControlShift platform also supports global unsubscribes – allowing the user to unsubscribe from all of the organization’s communications at once. Admin tools also allow customer Staff to unsubscribe users manually.
+Emails sent from the ControlShift platform automatically include links to unsubscribe from communications. By default, this allows users to unsubscribe from communications about a specific campaign. However, for certain CRMs, the ControlShift platform also supports global unsubscribes – allowing the user to unsubscribe from all of the organization’s communications at once. Admin tools also allow customer staff to unsubscribe users manually.
