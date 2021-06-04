@@ -2,7 +2,7 @@
 layout: detail
 title: Privacy and Security
 ---
-Security and Privacy are a critical part of the work that we do and the services that we provide. They drive a process of continual improvement that runs through everything that we do — from how we store member data to the tools we provide to customers. 
+Security and Privacy are a critical part of the work that we do and the services that we provide. They are goals and values that drive a process of continual improvement that runs through everything that we do — from how we store member data to the sorts of organizing tools we provide to customers. 
 
 ### Principles
 
@@ -54,7 +54,7 @@ All team members are regularly briefed on principles and policies of data privac
 *Availability*\
 The ControlShift platform is deployed across multiple Amazon Web Services Availability Zones within a single AWS region and has been designed to be automatically resilient in the case of either single instance or data center failure. We proudly report on the long-term availability and performance of the platform on [our status page](https://status.controlshiftlabs.com/).
 
-The platform is designed to respond dynamically to significant increases in platform activity via automated increases of capacity provisioned via AWS AutoScaling. 
+The platform is designed to respond automatically to significant increases in platform activity via automated increases of capacity.
 
 *Member Data*\
 While member data is collected using the platform, ChangeSprout does not own the data, nor do we process it except as directed by the customer or as required for the operation of the platform. We treat member data as confidential information and take precautions to prevent the unauthorized disclosure, misuse, or loss of data.
