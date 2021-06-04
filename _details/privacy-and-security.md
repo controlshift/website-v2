@@ -2,7 +2,7 @@
 layout: detail
 title: Privacy and Security
 ---
-Security and Privacy are a critical part of the work that we do. It’s a process that we’re continually working to improve on and a thread that runs through everything that we do — from how we store member data to the tools we provide to customers. 
+Security and Privacy are a critical part of the work that we do and the services that we provide. They are goals and values that drive a process of continual improvement that runs through everything that we do — from how we store member data to the sorts of organizing tools we provide to customers. 
 
 ### Principles
 
@@ -20,7 +20,7 @@ We promptly notify customers of outages and security events through our status p
 
 ### Evaluation
 
-We self-certify our practices for privacy, confidentiality, integrity, and availability to the standards set forth in SOC-2. We do not currently engage an external auditor to certify our compliance with this standard but do annually check our compliance using the pre-audit standard questionnaire from Practical Assurance. 
+We self-certify our practices for privacy, security, confidentiality, integrity, and availability to the standards set forth in SOC-2. We do not currently engage an external auditor to certify our compliance with this standard but do annually check our compliance using the pre-audit standard questionnaire from Practical Assurance. 
 
 ### Details
 
@@ -54,19 +54,21 @@ All team members are regularly briefed on principles and policies of data privac
 *Availability*\
 The ControlShift platform is deployed across multiple Amazon Web Services Availability Zones within a single AWS region and has been designed to be automatically resilient in the case of either single instance or data center failure. We proudly report on the long-term availability and performance of the platform on [our status page](https://status.controlshiftlabs.com/).
 
+The platform is designed to respond automatically to significant increases in platform activity via automated increases of capacity.
+
 *Member Data*\
-While member data is collected using the platform, ChangeSprout does not own the data, nor do we process it except as directed by the Customer or as required for the operation of the platform. We treat member data as confidential information and take precautions to prevent the unauthorized disclosure, misuse, or loss of data.
+While member data is collected using the platform, ChangeSprout does not own the data, nor do we process it except as directed by the customer or as required for the operation of the platform. We treat member data as confidential information and take precautions to prevent the unauthorized disclosure, misuse, or loss of data.
 
 In addition to the other measures outlined above, we allow users to access and update their personal information to ensure its accuracy.
 
 *Onward Transfer*\
-ChangeSprout only transfers member data to third parties when requested by the Customer or when required for the reliable operation of the platform. We limit the number of third-party sub-processors we use to process member data and ensure that all sub-processors adhere to adequate data protection policies. 
+ChangeSprout only transfers member data to third parties when requested by the customer or when required for the reliable operation of the platform. We limit the number of third-party sub-processors we use to process member data and ensure that all sub-processors adhere to adequate data protection policies. 
 
 A list of our current sub-processors is available in [our help center](https://support.controlshiftlabs.com/hc/en-us/articles/360000175976).
 
-We may also transfer platform data to analytics providers for the purpose of internal, platform-wide analytics. Data analytics transfers that are undertaken for the benefit of our internal analysis will be undertaken only after receiving permission from the data exporter. 
+ChangeSprout may also transfer platform data to analytics providers for the purpose of internal, platform-wide analytics. Data analytics transfers that are undertaken for the benefit of our internal analysis will be undertaken only after receiving permission from the customer.  This permission may take the form of emailed confirmation and does not require an addendum to customer contracts.
 
 Additionally, at the customer's explicit request we will also send information to the customer's chosen CRM or other customer systems. Integrations with any third-party tools enabled by the customer are optional, and it is the responsibility of the customer to ensure that these services adhere to their country's data protection regulations.
 
 *Unsubscribes*\
-Emails sent from the ControlShift platform automatically include links to unsubscribe from communications. By default, this allows users to unsubscribe from communications about a specific campaign. However, for certain CRMs, the ControlShift platform also supports global unsubscribes – allowing the user to unsubscribe from all of the organization’s communications at once. Admin tools also allow Customer Staff to unsubscribe users manually.
+Emails sent from the ControlShift platform automatically include links to unsubscribe from communications. By default, this allows users to unsubscribe from communications about a specific campaign. However, for certain CRMs, the ControlShift platform also supports global unsubscribes – allowing the user to unsubscribe from all of the organization’s communications at once. Admin tools also allow customer staff to unsubscribe users manually.
