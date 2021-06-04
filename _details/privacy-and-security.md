@@ -41,7 +41,7 @@ ChangeSprout staff use multi-factor authentication, in addition to passwords, in
 Whenever a member of the ChangeSprout staff or an independent contractor leaves the company their accounts and access to systems are removed.  
 
 *Automated Scanning*\
-We use a variety of automated tools to quickly identify and correct security issues with our systems. We use continuously scanning automated tools for detecting known vulnerabilities in software dependencies and static code analysis to detect issues in our application as part of our continuous integration process. Endpoint  management and network traffic analysis tools are used where appropriate. 
+We use a variety of automated tools to quickly identify and correct security issues with our systems. We use continuously scanning automated tools for detecting known vulnerabilities in software dependencies and static code analysis to detect issues in our application as part of our continuous integration process. Endpoint management and network traffic analysis tools are used where appropriate. 
 
 *Change Management*\
 All product software and product systems are administered via automated systems that include an audit trail and peer review of changes that are being applied. The peer review process includes evaluation of the security, privacy, and reliability implications of the change being proposed. Wherever possible manual or ad-hoc changes to systems are avoided.
