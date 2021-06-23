@@ -37,7 +37,7 @@
       max-width: 250px;
     }
 
-    @include media-breakpoint-down(sm) {
+    @include media-breakpoint-down(md) {
       padding-left: 14px;
     }
   }

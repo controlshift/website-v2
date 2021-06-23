@@ -14,8 +14,9 @@
   "dependencies": {
     "@babel/core": "^7.0.0",
     "@babel/preset-env": "^7.0.0",
+    "@popperjs/core": "^2.9.2",
     "babel-loader": "^8.1.0",
-    "bootstrap": "^4.6.0",
+    "bootstrap": "^5.0.2",
     "concurrently": "^5.3.0",
     "copy-webpack-plugin": "^6.0.3",
     "core-js": "^3.9.0",
@@ -29,7 +30,6 @@
     "netlify-cms-app": "^2.14.14",
     "netlify-identity-widget": "^1.9.1",
     "node-fetch": "^2.6.1",
-    "popper.js": "^1.14.4",
     "sass": "^1.32.5",
     "sass-loader": "^9.0.3",
     "style-loader": "^1.2.1",

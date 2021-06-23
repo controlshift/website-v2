@@ -6,7 +6,7 @@
     display: flex;
     margin: 0 auto;
 
-    @include media-breakpoint-down(sm) {
+    @include media-breakpoint-down(md) {
       padding: 0;
     }
   }
@@ -42,7 +42,7 @@
   .stat-value {
     font-size: 38px;
 
-    @include media-breakpoint-down(sm) {
+    @include media-breakpoint-down(md) {
       font-size: 24px;
     }
   }
