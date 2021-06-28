@@ -266,6 +266,50 @@ img.faded {
     z-index: 99;
     bottom: 0;
 
+    &#people-migration {
+      img {
+        transform: scale(-1, 1);
+        height: 180px;
+      }
+      left: 40%;
+
+      @include media-breakpoint-down(sm) {
+        img {
+          height: 100px;
+          left:35%;
+        }
+      }
+    }
+
+    &#crm-logo-migration {
+      img {
+        height: 50px;
+      }
+      right: 0;
+
+
+      @include media-breakpoint-down(sm) {
+        img {
+          height: 35px;
+        }
+      }
+    }
+
+    &#controlshift-logo-migration {
+      img {
+        height: 40px;
+        filter: invert(1) opacity(60%)
+      }
+      left: 0;
+
+      @include media-breakpoint-down(sm) {
+        img {
+          height: 30px;
+        }
+      }
+
+    }
+
     &#people-local-group {
       left: 100px;
       @include media-breakpoint-down(sm) {
@@ -322,6 +366,24 @@ img.faded {
     width: 640px;
     right: 60px;
     bottom: 3px;
+  }
+
+  &.normal {
+    width: 80%;
+    bottom: 3px;
+  }
+
+  &.moving-dots {
+    animation: border-moving-dots 10s infinite linear;
+  }
+
+  @keyframes border-moving-dots {
+    0% {
+      background-position: left top;
+    }
+    100% {
+      background-position: left 44px top;
+    }
   }
 }
 
