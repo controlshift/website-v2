@@ -370,6 +370,19 @@ img.faded {
     width: 80%;
     bottom: 3px;
   }
+
+  &.moving-dots {
+    animation: border-moving-dots 10s infinite linear;
+  }
+
+  @keyframes border-moving-dots {
+    0% {
+      background-position: left top;
+    }
+    100% {
+      background-position: left -44px top;
+    }
+  }
 }
 
 .graphic-bike-container {
