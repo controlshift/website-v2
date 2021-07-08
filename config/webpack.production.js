@@ -7,7 +7,7 @@ module.exports = merge(CommonConfig, {
   mode: 'production',
 
   output: {
-    filename: '[name]-[hash].bundle.js',
+    filename: '[name]-[contenthash].bundle.js',
     path: path.resolve('assets'),
     publicPath: '/assets/'
   },
