@@ -1,3 +1,3 @@
-module.exports = function(env) {
-  return require(`./config/webpack.${env}.js`)
+module.exports = (env, argv) => {
+  return require(`./config/webpack.${argv.mode}.js`)
 }
