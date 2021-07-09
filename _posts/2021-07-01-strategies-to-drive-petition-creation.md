@@ -31,7 +31,7 @@ Your organization may be interested in some or all of these benefits, but thinki
 
 While we've put together some more detailed strategies below, we've found it's also important to remind organizations of the basics that sometimes get missed during more advanced strategic planning. The recruitment strategies will only work if it's easy for a prospective campaign leader to find the new petition creation form. \
 \
-Many of the recruitment strategies will also have longer-term results – someone who's received an email about creating a campaign may not have an issue that they want to work on until weeks later. When someone decides to take action, will you make it easy for them? At the minimum, we recommend:
+Many of the recruitment strategies will also have longer-term results – someone who's received an email about creating a campaign may not have an issue that they want to work on until weeks later. **When someone decides to take action, will you make it easy for them?** At the minimum, we recommend:
 
 * Avoid launching your petition platform with alternative branding that distances it from the brand that your supporters know and trust. Be sure to benefit from the brand equity your organization has built up rather than trying to build a new identity for distributed organizing that's separate from the other work that your organization does. Using one consistent domain for your organization and distributed organizing platform can also have Search Engine Optimization benefits for your platform if your brand already has search engine authority.
 * Ensure that it's easy to find the new petition creation form from your organization's national or global homepage. If your supporters have a vague memory that your organization allows members to launch petitions, make it easy for them to find the option to do so when they return to your site. This can take the form of links in the header and/or footer that direct people to the new campaign page or it can be large, prominent call to action buttons.
@@ -42,8 +42,6 @@ Many of the recruitment strategies will also have longer-term results – someon
 ### Broad Recruitment
 
 Generally petition recruitment strategies are most successful when they're targeted. However, some organizations have also found success with broader recruitment strategies, like running Google ads targeting 'start a petition' and related searches. This is a competitive set of keywords in English, but bidding on those sorts of keywords may be less competitive or expensive in other languages. Keyword advertising works well because it captures potential supporters in the moment they are looking for a site to launch a petition on, but the average quality of the campaigns that are created may be lower or not values aligned. 
-
-
 
 ### Soliciting Campaigns By Email
 
