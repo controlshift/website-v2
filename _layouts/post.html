@@ -18,6 +18,9 @@ layout: default
 
 
                     <div class="entry">
+                        {% if post.image %}
+                        <img src="{{post.featured_image}}" class="img-fluid" >
+                        {% endif %}
                         {{ content }}
                     </div>
                 </article>
