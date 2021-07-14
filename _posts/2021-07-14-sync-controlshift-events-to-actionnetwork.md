@@ -1,5 +1,6 @@
 ---
 layout: post
+image: /img/uploads/controlshift-actionnetwork-data.png
 title: Sync ControlShift Events to ActionNetwork
 date: 2021-07-14T14:57:19.631Z
 ---
