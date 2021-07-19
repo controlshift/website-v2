@@ -18,10 +18,6 @@ All infrastructure is built to be highly available and resilient. Our architectu
 *Transparent*\
 We promptly notify customers of outages and security events through our status pages and proactively via email.
 
-### Evaluation
-
-We self-certify our practices for privacy, security, confidentiality, integrity, and availability to the standards set forth in SOC-2. We do not currently engage an external auditor to certify our compliance with this standard but do annually check our compliance using the pre-audit standard questionnaire from Practical Assurance. 
-
 ### Details
 
 *Physical Security*\
