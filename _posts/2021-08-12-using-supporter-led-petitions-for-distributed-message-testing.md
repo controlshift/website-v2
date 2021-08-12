@@ -1,0 +1,23 @@
+---
+layout: post
+author: nathan
+title: Using Supporter Led Petitions for Distributed Message Testing
+date: 2021-08-12T16:52:13.891Z
+---
+I enjoyed today's [XKCD comic](https://xkcd.com/2501/) which made the point that "experts in everything wildly overestimate the average person's familiarity with their field" and the same is as true for supporter-led petition platforms as it is for geochemistry. 
+
+We provide the white-labeled software-as-a-service platform that [dozens](https://sign.moveon.org/) [of](https://you.38degrees.org.uk) [organizations](https://weact.campact.de/) around the world use to power sites where their supporters can launch their own petition campaigns. On the surface, these sites are about democratizing access to the tools used to create and run petition campaigns – opening up the tactic of launching a petition to local leaders, and supporting local activists with the tools they need to win their own fights. 
+
+Behind the scenes however, our most sophisticated customers are actually using their platforms for message testing, issue identification, and optimization. Supporter-authored petitions are a great tactic for getting out of the professionalized campaigner bubble and finding the issues, and the ways of talking about those issues, that are authentic and resonate with supporters.
+
+Instead of staff writing a petition on an issue themselves, they instead might email dozens of their top supporters and ask them to write petitions in their own words on an issue of the moment. Those different variations in language, image choice, and angle are then tested against one another by emailing them to small segments of an email list to see which ones gain the most traction. Promising petition campaigns are then refined further before pushing them out to a wide audience. 
+
+Similarly, having an open process for creating new petition campaigns can also help organizations identify campaign issues that they might not have been aware of or might have dismissed internally. 
+
+[Dave Karpf](https://twitter.com/davekarpf) at George Washington University coined the term [Analytic Activism](https://oxford.universitypressscholarship.com/view/10.1093/acprof:oso/9780190266127.001.0001/acprof-9780190266127) to describe this process where advocacy organizations use A/B tests, analytics, and large digital audiences to "listen" to their supporters and rapidly respond to opportunities to either grow their audience, find issues to activate them, or find new ways to talk about the issue. 
+
+As an ethical provider of software for democratic participation and progressive power building, I do have some concerns about how far these tactics can be used and the ways that they contribute to the reduction of complicated policy issues into carefully optimized click-bait. On the other hand, these strategies are not fundamentally different than other "listening" tactics like opinion polling -- they simply accelerate the speed with which advocacy organizations can test messages and transform them into public communications. The core insight is that by engaging supporters at scale, organizations can test more messages than they could possibly come up with as a paid staff. Whether the causes or the solutions that supporter-led petitions can generate are worthwhile or simply viral on social media is a question for organizations to answer, as is whether this sort of analytic activism can be used for persuasion. If there is nobody at the wheel but an algorithm the risk is that advocacy organizations become not much more than a newsfeed of causes organized by which ones drive the most outrage on social media.
+
+Focusing on scale, growth and optimization is certainly not the only way that supporter-led petition platforms can be deployed and managed (we have other customers with quite different strategies and intentions) but after a few recent conversations with practitioners who were mystified about what their peers were actually up to, it seemed worthwhile to give folks a bit of a peek behind the curtain.
+
+Even if your organization is not able or interested in opening up petition creation to supporters and partners, the lesson that significant gains in viral growth are possible for advocacy organization by radically increasing the volume of different sorts of campaigns you're testing is a worthwhile one. Staff teams can also be empowered to create and test lots of low fidelity petition language and image variations quickly rather than aiming for perfection each time the organization launches a campaign.
