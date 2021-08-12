@@ -1,6 +1,6 @@
 ---
 layout: post
-author: woodhull
+author: nathan
 title: Using Supporter Led Petitions for Distributed Message Testing
 date: 2021-08-12T16:52:13.891Z
 ---
