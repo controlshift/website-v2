@@ -37,16 +37,21 @@
   }
 }
 
+ul.text-list {
+  li {
+    margin-top: 16px;
+    line-height: 1.7;
+
+    &:first-child {
+      margin-top: 0;
+    }
+  }
+}
+
 .feature-tabs {
   ul.text-list {
     li {
-      margin-top: 16px;
       list-style-type: none;
-      line-height: 1.7;
-
-      &:first-child {
-        margin-top: 0;
-      }
 
       &:before {
         content: "";
@@ -79,6 +84,13 @@
 
   h5 {
     color: $dark-gray-text;
+  }
+
+  i {
+    color: #1191C1;
+    font-size: 30px;
+    display: inline-block;
+    margin-bottom: $spacer * 0.5;
   }
 
   img {
