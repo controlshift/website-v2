@@ -12,14 +12,12 @@
     "clean:project": "if [ -e _site ]; then rm -R _site; fi; if [ -e assets ]; then rm -R assets; fi"
   },
   "dependencies": {
-    "@babel/core": "^7.0.0",
-    "@babel/preset-env": "^7.0.0",
-    "babel-loader": "^8.1.0",
     "bootstrap": "^4.6.0",
     "concurrently": "^6.2.0",
     "copy-webpack-plugin": "^9.0.1",
     "core-js": "^3.9.0",
     "css-loader": "^5.2.6",
+    "esbuild-loader": "^2.15.0",
     "favicons": "^6.2.2",
     "favicons-webpack-plugin": "5.0.2",
     "file-loader": "^6.0.0",

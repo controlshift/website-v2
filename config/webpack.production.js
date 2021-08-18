@@ -1,7 +1,7 @@
 const { merge } = require('webpack-merge')
 const CommonConfig = require('./webpack.common.js')
 const path = require('path')
-const TerserPlugin = require('terser-webpack-plugin')
+const { ESBuildMinifyPlugin } = require('esbuild-loader')
 
 module.exports = merge(CommonConfig, {
   mode: 'production',
@@ -15,8 +15,9 @@ module.exports = merge(CommonConfig, {
   optimization: {
     minimize: true,
     minimizer: [
-      new TerserPlugin({
-        extractComments: true
+      new ESBuildMinifyPlugin({
+        target: 'es2015',
+        css: true
       })
     ]
   }
