@@ -17,8 +17,7 @@ module.exports = merge(CommonConfig, {
     minimizer: [
       new ESBuildMinifyPlugin({
         target: 'es2015',
-        css: true,
-        legalComments: 'linked'
+        css: true
       })
     ]
   }
