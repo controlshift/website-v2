@@ -3,4 +3,5 @@
 # Edit theme's home layout instead if you want to make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
+image: /assets/images/people.png
 ---

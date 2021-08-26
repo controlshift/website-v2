@@ -1,10 +1,11 @@
 title: ControlShift
 email: talk@controlshiftlabs.com
-description: ControlShift is a set of web tools that helps your organization build community, leadership, and real power among your members.
+description: ControlShift is the best software for putting people at the center of your campaigns with distributed events, local groups, and member-led petitions.
 baseurl: ""
 url: "https://www.controlshiftlabs.com"
 theme_color: '#0f91c2'
 relative_permalinks: false
+image: /assets/images/people.png
 
 twitter:
   username: controlshiftlab
