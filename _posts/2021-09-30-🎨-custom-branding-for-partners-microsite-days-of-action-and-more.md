@@ -1,9 +1,9 @@
 ---
 layout: post
 author: kristy
-featured_image: https://support.controlshiftlabs.com/hc/article_attachments/4407274355343/mceclip0.png
+featured_image: img/uploads/themes.png
 image: ""
-title: 🎨  Custom branding for partners, microsite, days of action, and more!
+title: 🎨  Custom branding for partners, microsites, days of action, and more!
 date: 2021-09-30T19:25:34.628Z
 ---
 We're excited to announce a series of updates to ControlShift's themes feature!
