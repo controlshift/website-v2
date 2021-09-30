@@ -1,7 +1,7 @@
 ---
 layout: post
 author: kristy
-featured_image: https://support.controlshiftlabs.com/hc/article_attachments/4406528191631/Sep-15-2021_13-54-27.gif
+featured_image: https://support.controlshiftlabs.com/hc/article_attachments/4407274355343/mceclip0.png
 image: ""
 title: 🎨  Custom branding for partners, microsite, days of action, and more!
 date: 2021-09-30T19:25:34.628Z
