@@ -12,8 +12,7 @@ We're excited to announce a series of updates to ControlShift's themes feature!
 
 With our recent updates, we now allow organizations to create multiple themes, which can be assigned to different pages. **This allows organizations to more fully customize their supporters' journeys and create custom experiences for different types of petitions, events, and groups.**
 
-![Sep-15-2021_13-54-27.gif](https://support.controlshiftlabs.com/hc/article_attachments/4406528191631/Sep-15-2021_13-54-27.gif)\
-\
+
 While there are many ways the themes tools can be used, there are a few use cases that we're particularly excited to be able to support: 
 
 * When a ControlShift organization is partnering with another organization, they can now **create a custom partner theme** for that partner's hub, petitions, and events pages. The custom theme could include some of the partner's colors, a modified logo, or header/footer links to the partner's main site. By assigning the theme within the partnership's settings, newly-created petitions and events in that partnership will automatically inherit that theme.
