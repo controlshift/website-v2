@@ -1,7 +1,7 @@
 ---
 layout: post
 author: kristy
-featured_image: img/uploads/themes.png
+featured_image: /img/uploads/themes.png
 image: ""
 title: 🎨  Custom branding for partners, microsites, days of action, and more!
 date: 2021-09-30T19:25:34.628Z
