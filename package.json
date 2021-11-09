@@ -21,7 +21,7 @@
     "favicons": "^6.2.2",
     "favicons-webpack-plugin": "5.0.2",
     "file-loader": "^6.0.0",
-    "hamburgers": "^1.1.3",
+    "hamburgers": "https://github.com/lewebsimple/hamburgers.git",
     "html-webpack-plugin": "^5.3.2",
     "jquery": "^3.5.0",
     "mailchimp-api-v3": "^1.15.0",
