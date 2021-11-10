@@ -19,6 +19,8 @@ The redesigned and modernized visual editor for blast emails is designed to make
 * **Add Social Share buttons**
   It's now possible to quickly add pre-formatted social share buttons into emails with a single click. These buttons can be inserted into any email and automatically have Share Click tracking appended. These buttons will continue to be enhanced with additional new features in the future. 
 
+![The updated visual editor.](/img/uploads/visual-editor.png "The updated visual editor.")
+
 # HTML Editor
 
 For more advanced technical users, we now offer a much more powerful code-editing interface for authoring custom HTML emails. The new interface is a much more elegant experience than the previous interface for your partners who have the technical know-how to author more bespoke email experiences. 
