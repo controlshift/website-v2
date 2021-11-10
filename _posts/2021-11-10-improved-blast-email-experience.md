@@ -2,7 +2,7 @@
 layout: post
 author: nathan
 featured_image: /img/uploads/visual-editor.png
-image: /img/uploads/visual-editor.png
+image: ""
 title: Improved Blast Email Experience
 date: 2021-10-26T21:00:55.667Z
 ---
