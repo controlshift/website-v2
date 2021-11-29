@@ -8,7 +8,7 @@ date: 2021-10-26T21:00:55.667Z
 ---
 We've been iteratively improving the interface that partners, petition creators, and event hosts use when they message their supporters over the last few weeks. We wanted to highlight all of the improvements as we wrap up the project. 
 
-# Visual Editor
+## Visual Editor
 
 The redesigned and modernized visual editor for blast emails is designed to make email authoring and formatting easy for non-technical users. We've carefully curated this experience to make writing the most common sorts of emails easy, with limited formatting options. 
 
@@ -19,7 +19,7 @@ The redesigned and modernized visual editor for blast emails is designed to make
 * **Add Social Share buttons**
   It's now possible to quickly add pre-formatted social share buttons into emails with a single click. These buttons can be inserted into any email and automatically have Share Click tracking appended. These buttons will continue to be enhanced with additional new features in the future. 
 
-# HTML Editor
+## HTML Editor
 
 For more advanced technical users, we now offer a much more powerful code-editing interface for authoring custom HTML emails. The new interface is a much more elegant experience than the previous interface for your partners who have the technical know-how to author more bespoke email experiences. 
 
