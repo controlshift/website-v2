@@ -21,7 +21,7 @@ We promptly notify customers of outages and security events through our status p
 ### Details
 
 *Physical Security*\
-ChangeSprout, Inc. stores customer data using Amazon Web Services, in their US-East region in northern Virginia, USA. This facility limits and audits physical access, and provides fire suppression, climate control and uninterruptible power supplies. Amazon Web Services’ facilities are SO 27017 and SOC 3 certified. More details about Amazon’s environment is [available on their website](https://aws.amazon.com/security/).
+ChangeSprout, Inc. stores customer data using Amazon Web Services, either in their US-East region in northern Virginia, USA or in the EU-Central region in Frankfurt, Germany, depending on the customer’s selection. These facilities limit and audit physical access, and provide fire suppression, climate control and uninterruptible power supplies. Amazon Web Services’ facilities are ISO 27017 and SOC 3 certified. More details about Amazon’s environment is [available on their website](https://aws.amazon.com/security/).
 
 *Backups*\
 Databases are always replicated configuration to provide immediate failover in case of instance hardware failure, or failure of a data center. A full snapshot of all data is taken nightly, encrypted, and stored for disaster recovery.
