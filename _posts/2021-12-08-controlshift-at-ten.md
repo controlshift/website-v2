@@ -1,6 +1,8 @@
 ---
 layout: post
 author: woodhull
+featured_image: /img/uploads/controlshift-newyear-2022-poster.png
+image: /img/uploads/controlshift-newyear-2022-poster.png
 title: 10 Years of ControlShift
 date: 2021-12-07T21:51:21.190Z
 ---
