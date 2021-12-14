@@ -8,7 +8,7 @@ date: 2021-12-14T21:07:16.000Z
 ---
 We’ve always believed that customers and their supporters own their own data. We are simply stewards of that information in service of helping to make our customers more powerful in the world. 
 
-We've also always been a very global organization: we initially got started in Australia, found our second customer in the UK and now serve customers around the world in more than a dozen languages. As part of our work to support diverse data privacy requirements we’ve long offered a variety of product features to help customers comply with data privacy regulations around the world, including GDPR in Europe. 
+We've also always been a very global organization: we initially got started in Australia, found our second customer in the UK and now serve customers around the world in more than a dozen languages and on every continent except Antartica. As part of our work to support diverse data privacy requirements we’ve long offered a variety of product features to help customers comply with data privacy regulations around the world, including GDPR in Europe. 
 
 We’re excited to announce that we are now going a step further to offer new customers a choice of data-locality and processing within either our North America (Virginia, USA) or European (Frankfurt, DE) points of presence when they sign up for a new instance of the product. This new offering publicly available today makes it easier for customers to meet the data-locality requirements of their stakeholders. 
 
