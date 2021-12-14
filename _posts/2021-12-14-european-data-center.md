@@ -2,6 +2,7 @@
 layout: post
 author: nathan
 featured_image: /img/uploads/eu.png
+image: /img/uploads/eu.png
 title: European Data Center
 date: 2021-12-14T21:07:16.000Z
 ---
