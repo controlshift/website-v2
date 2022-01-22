@@ -27,7 +27,7 @@
     "mailchimp-api-v3": "^1.15.0",
     "netlify-cms-app": "^2.14.14",
     "netlify-identity-widget": "^1.9.1",
-    "node-fetch": "^2.6.1",
+    "node-fetch": "^3.1.1",
     "popper.js": "^1.14.4",
     "sass": "^1.32.5",
     "sass-loader": "^12.1.0",
