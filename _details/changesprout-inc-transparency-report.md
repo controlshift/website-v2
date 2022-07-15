@@ -14,6 +14,7 @@ ChangeSprout is committed to data privacy and security. **Earning and maintainin
 | July - Dec. 2020 |    0                  |    0                  |
 | Jan. - June 2021 |    0                  |    0                  |
 | July - Dec. 2021 |    0                  |    0                  |
+| Jan. - June 2022 |    0                  |    0                  |  
 
 
 \
@@ -23,4 +24,4 @@ In addition to our request data above, ChangeSprout confirms that:
 * ChangeSprout has never installed any law enforcement software or equipment in our tools.
 * ChangeSprout has never compromised or weakened its encryption or security protocols at the request of law enforcement or a third party. 
 
-*Last updated: 19 January 2022*
+*Last updated: 14 July 2022*
