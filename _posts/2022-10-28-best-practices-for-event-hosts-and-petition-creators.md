@@ -1,7 +1,7 @@
 ---
 layout: post
 author: kristy
-featured_image: ""
+featured_image: img/uploads/petition-creator-help.png
 image: img/uploads/petition-creator-help.png
 title: Best Practices for Event Hosts and Petition Creators
 date: 2022-10-28T20:16:21.684Z
