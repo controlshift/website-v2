@@ -12,3 +12,20 @@
       name: Year-on-year increase
       value: "33%"
       icon: increase.png
+
+- organization: coworker
+  stats:
+    -
+      name: Starbucks worker signatures
+      value: "14,000"
+      icon: signature.png
+    -
+      name: of all Starbucks workers!
+      value: "13%"
+      icon: supporters.png
+    -
+      name: major campaign wins
+      value: "5"
+      icon: increase.png
+
+
