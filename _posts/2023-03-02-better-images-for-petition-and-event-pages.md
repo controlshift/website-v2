@@ -2,6 +2,7 @@
 layout: post
 author: kristy
 featured_image: /img/uploads/image-search.png
+image: /img/uploads/image-search.png
 title: Better Images for Petition and Event Pages
 date: 2023-03-02T18:58:30.459Z
 ---
