@@ -1,7 +1,7 @@
 ---
 layout: post
 author: kristy
-featured_image: img/uploads/5d6e9657-d224-7c9f-154f-09a5d7fd0728.png
+featured_image: img/uploads/image-search.png
 title: Better Images for Petition and Event Pages
 date: 2023-03-02T18:58:30.459Z
 ---
@@ -13,7 +13,7 @@ T﻿o help leaders choose better quality images, we've integrated with a free im
 
 After creating an event or petition, the leader will see an automatic prompt to choose an image for their petition or event page. They can then enter a keyword to see a selection of matching images and choose the one that best fits their campaign.
 
-![The free image library allows a leader to search for a keyword and find matching images. ](img/uploads/image-search.gif)
+![The free image library allows a leader to search for campaign images.](img/uploads/bees.png)
 
 After searching for a keyword, users can select the image they'd like to use and it will be automatically added to their campaign or event page. We'll also use the image in social sharing and petition/event listing pages. If leaders prefer to upload their own image, that option remains available
 
