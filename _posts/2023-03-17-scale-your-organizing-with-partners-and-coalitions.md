@@ -1,8 +1,8 @@
 ---
 layout: post
 author: kristy
-featured_image: /img/uploads/coalition.png
-image: ""
+featured_image: ""
+image: /img/uploads/coalition.png
 title: Scale Your Organizing With Partners and Coalitions
 date: 2023-03-16T19:33:06.444Z
 ---
