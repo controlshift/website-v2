@@ -8,7 +8,7 @@ date: 2023-03-17T14:10:55.037Z
 ---
 F﻿ew organizing wins have happened because of a single organization, and strong organizational allies can be the key to a successful campaign. ControlShift's partnerships feature is a great way for organizations to deepen relationships with peers, find new supporters, and demonstrate a broad base of support for their campaign issues.
 
-Historically, ControlShift petitions and events could only be co-sponsored by one partner organization at a time. While this fit a lot of the work our organizations wanted to do, it meant tricky workarounds when there were additional organizations interested in collaborating on a campaign or event. W﻿e're excited to announce that with our recent updates to the partnerships feature, **we've now added support for coalition campaigns with multiple partners.** 
+W﻿e're excited to announce that with our recent updates to the partnerships feature, **we've now added support for coalition campaigns with multiple partners.** 
 
 B﻿oth single partnerships and coalition campaigns allow for organizations to work together on shared petitions and events – opening up new opportunities for collaboration:
 
