@@ -1,7 +1,8 @@
 ---
 layout: post
 author: kristy
-image: /img/uploads/coalition.png
+featured_image: /img/uploads/coalition.png
+image: ""
 title: Scale Your Organizing With Partners and Coalitions
 date: 2023-03-16T19:33:06.444Z
 ---
@@ -16,7 +17,7 @@ B﻿oth single partnerships and coalition campaigns allow for organizations to w
 * Y﻿ou can cohost a training session with other organizations to share campaign strategies and plan next steps for a campaign.
 * Y﻿ou can organize a day of action with multiple partners, with each partner recruiting events and attendees. 
 
-![Coalitions allow multiple partners to collaborate on petitions and events.](/img/uploads/coalition.png)
+![Coalitions allow multiple partners to collaborate on petitions and events.](/img/uploads/coalition.png){: style="max-width:500px;"}
 
 W﻿hile working with partners, you have full control of how supporter data is shared. Regardless of how complex the politics of your coalition is, you can share opt-ins with key stakeholders and grow each of your audiences. Once invited to collaborate, each partner receives special access to various tools to help them organize their supporters. You can also combine partnerships with our [themes feature](https://support.controlshiftlabs.com/hc/en-us/articles/4406443720847-Customizing-Your-Site-With-Themes) to create special branding for partner actions so that they feel distinct from the rest of your work.
 
@@ -31,4 +32,4 @@ I﻿f your organization is interested in expanding your partner work, we have so
 * **B﻿e generous:** ControlShift's [partner tools allow for elegant signature sharing](https://support.controlshiftlabs.com/hc/en-us/articles/203073587-Tutorial-on-Partnerships#lists), whether you're working with a single partner or a coalition. Allowing partners to collect opt-ins for their shared petitions and events encourages the organization to create actions on your site – this is a key benefit that you can use when recruiting a partner. 
 * **K﻿eep it going**: A single petition or event is a great way to kick off a partnership, but winning a campaign and creating a lasting impact requires deepening the partnership beyond list sharing and joint recruitment.  The more collaborative the relationship, the more you share in planning additional actions – like events, demonstrations, campaign pushes, etc. – the better your chances of winning a campaign.
 
-I﻿f you're interested in strategizing your use of partnerships or coalitions, we'd love to help! [Send us an email](mailto:support@controlshiftlabs.com), [schedule a call with our team](https://calendly.com/controlshift-labs), or j[oin one of our office hours](https://team.controlshift.app/).
+I﻿f you're interested in strategizing your use of partnerships or coalitions, we'd love to help! [Send us an email](mailto:support@controlshiftlabs.com), [schedule a call with our team](https://calendly.com/controlshift-labs), or [join one of our office hours](https://team.controlshift.app/).
