@@ -4,7 +4,7 @@ author: kristy
 featured_image: ""
 image: /img/uploads/coalition.png
 title: Scale Your Organizing With Partners and Coalitions
-date: 2023-03-16T19:33:06.444Z
+date: 2023-03-17T14:10:55.037Z
 ---
 F﻿ew organizing wins have happened because of a single organization, and strong organizational allies can be the key to a successful campaign. ControlShift's partnerships feature is a great way for organizations to deepen relationships with peers, find new supporters, and demonstrate a broad base of support for their campaign issues.
 
