@@ -5,7 +5,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Content Manager</title>
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-<link rel="icon" href="/assets/assets/favicon.png"><script defer src="/assets/admin.js"></script></head>
+    <link rel="icon" href="/assets/assets/favicon.png">
+    <script defer src="/assets/admin.js"></script>
+
+    <!-- Fix for editor issue https://github.com/decaporg/decap-cms/issues/3578
+         see https://github.com/decaporg/decap-cms/issues/5092#issuecomment-1256321540 -->
+    <style>
+      [data-slate-editor] {
+        -webkit-user-modify: read-write !important;
+      }
+    </style>
+</head>
 <body>
 
 </body>
