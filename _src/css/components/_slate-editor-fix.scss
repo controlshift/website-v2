@@ -1,0 +1,5 @@
+// Fix for editor issue https://github.com/decaporg/decap-cms/issues/3578
+// See https://github.com/decaporg/decap-cms/issues/5092#issuecomment-1256321540
+[data-slate-editor] {
+  -webkit-user-modify: read-write !important;
+}
