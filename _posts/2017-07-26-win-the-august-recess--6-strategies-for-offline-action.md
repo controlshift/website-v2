@@ -1,16 +1,16 @@
 ---
-layout:	post
-title:	"Win the August Recess: 6 Strategies for Offline Action"
-date:	2017-07-26
+layout: post
 author: kristy
+title: "Win the August Recess: 6 Strategies for Offline Action"
+date: 2017-07-26
 ---
 
 August Recess is around the corner, and Members of Congress will be leaving Washington. As they return to their districts, the recess presents an important opportunity to pressure MOCs on your organization’s legislative agenda. Already we’ve seen the power that committed activists can have on legislative priorities, and we all know that there’s no substitute for in-person action. Regardless of the issue your organization is working on, using the upcoming recess to encourage your members to take in-person action at district offices and town halls should be a key tenet of your recess plan.
 
 <figure markdown="1">
-![](/img/1*Xf6TUnjC7QQzB0f22aedbA.jpeg){: class="figure-img rounded"}
+![](/img/uploads/31258479441_455da224f6_c.jpg){: class="figure-img rounded"}
 <figcaption class="figure-caption" markdown="1">
-[Lafayette Town Hall Meeting © George Miller](https://flic.kr/p/e4gCLh)
+[20161201-OSEC-TEW-0014 Town Hall Meeting](https://flic.kr/p/PCcSUH) by [USDA](https://www.flickr.com/photos/usdagov/) in the [Public Domain](https://creativecommons.org/publicdomain/mark/1.0/)
 </figcaption>
 </figure>
 
