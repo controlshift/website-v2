@@ -1,8 +1,8 @@
 ---
 layout: post
 author: kristy
-featured_image: /img/uploads/a32be027-dc19-ae29-ed8b-65a20386b0fd.png
-image: /img/uploads/a32be027-dc19-ae29-ed8b-65a20386b0fd.png
+featured_image: ""
+image: ""
 title: Petition Creation, Reloaded
 date: 2021-06-28T23:54:43.319Z
 ---
