@@ -1,8 +1,8 @@
 ---
-layout:	post
-title:	"Protecting Healthcare in the UK"
-date:	2017-06-31
+layout: post
 author: adam
+title: Protecting Healthcare in the UK
+date: 2017-06-31
 ---
 
 Our friends at 38 Degrees just shared an inspiring story about a local campaign to save hospital services, launched and run by their members on the Campaigns By You ControlShift platform. From their email:
@@ -21,7 +21,14 @@ After months and months of hard work, **a group of 38 Degrees members in Essex h
 
 **Last Friday: NHS bosses announce that the A&E will be saved!** NHS boss Claire Panniker said that it was the “significant concerns” of so many people that made it happen — that’s the 30,000 people who supported Andy’s campaign.
 
-![](https://cdn-images-1.medium.com/max/2200/1*ULBEBmEIqkyXCo1WiUvlNw.jpeg)
+<figure markdown="1">
+![](/img/uploads/5828105403_d9e6b3b425_o.jpg){: class="figure-img rounded"}
+
+<figcaption class="figure-caption" markdown="1">
+["Battersea hand in 11/06/11"](https://flic.kr/p/9T1yFV) by [38 Degrees](https://www.flickr.com/photos/38degrees/) licensed under [CC by 2.0](https://creativecommons.org/licenses/by/2.0/)
+</figcaption>
+</figure>
+
 
 Check out this [video](https://www.facebook.com/peoplepowerchange/videos/10159125912500788/) with more information on the campaign!
 
