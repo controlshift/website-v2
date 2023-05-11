@@ -40,7 +40,7 @@ Our infrastructure for promoting campaigns remains one of the most powerful feat
 
 Then, after someone signs a campaign, we’ll show them a petition they’ve not yet signed. We’ll automatically choose the campaign we think the user will be most interested in, based on their location and the campaign they just signed.
 
-![Show recent signers other campaigns they might be interested in.](/img/uploads/promoted.png "Show recent signers other campaigns they might be interested in."){: .post-image}
+![Show recent signers other campaigns they might be interested in.](/img/uploads/promoted.png "Show recent signers other campaigns they may be interested in."){: .post-image}
 
 Similarly, organizations can also promote campaign events to recent signers. Promoting upcoming events can be a great way to convert supporters to offline action. 
 
