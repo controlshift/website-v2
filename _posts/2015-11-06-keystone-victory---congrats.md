@@ -9,7 +9,7 @@ A big congratulations to all of the ControlShift customers who have worked for y
 ![](/img/uploads/6320925130_0c29288701_o.jpg){: class="figure-img rounded"}
 
 <figcaption class="figure-caption" markdown="1">
-[Keystone XL Pipeline Protest at White House](https://flic.kr/p/aCyoPL) by[tarsandsaction](https://www.flickr.com/photos/tarsandsaction/) licensed under [CC by 2.0](https://creativecommons.org/licenses/by/2.0/)
+[Keystone XL Pipeline Protest at White House](https://flic.kr/p/aCyoPL) by [tarsandsaction](https://www.flickr.com/photos/tarsandsaction/) licensed under [CC by 2.0](https://creativecommons.org/licenses/by/2.0/)
 </figcaption>
 </figure>
 
