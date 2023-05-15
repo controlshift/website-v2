@@ -6,21 +6,19 @@ image: /img/uploads/calendar-2.png
 title: Boost Your Events Mobilizations with Coalitions
 date: 2023-05-15T13:56:51.750Z
 ---
+Organizing a large series of events, like a day of action, can be a powerful way for an organization to demonstrate their reach and show the full breadth of support for their cause. However, recruiting so many events and adequately supporting all hosts can be a daunting task for a single organization to manage.
 <figcaption class="figure-caption" markdown="1">
-[Event Image](https://unsplash.com/photos/2JIvboGLeho) by [Susan Q. Yin](https://unsplash.com/@syinq) on [Unsplash](https://unsplash.com/)
+[Event Library Image Above](https://unsplash.com/photos/2JIvboGLeho) by [Susan Q. Yin](https://unsplash.com/@syinq) on [Unsplash](https://unsplash.com/)
 </figcaption>
 
-Organizing a large series of events, like a day of action, can be a powerful way for an organization to demonstrate their reach and show the full breadth of support for their cause. However, recruiting so many events and adequately supporting all hosts can be a daunting task for a single organization to manage.
-
+Luckily, these event mobilizations are great opportunities for collaboration with partners. Working with partner organizations can make it easier to recruit and support hosts, find new attendees, and manage events on the day. The additional support from partner organizations can help you grow your mobilization and ensure its success.
 <figure markdown="1">
 ![ControlShift's calendars feature makes it easy to manage hundreds of member-hosted events.](/img/uploads/partner-calendar-frame.png){: class="figure-img rounded"}
 
 <figcaption class="figure-caption" markdown="1">
-[Event Image](https://unsplash.com/photos/b_e1YM7Z99A) by [Manny Becerra](https://unsplash.com/@mannyb) on [Unsplash](https://unsplash.com/)
+[Protest Event Image](https://unsplash.com/photos/b_e1YM7Z99A) by [Manny Becerra](https://unsplash.com/@mannyb) on [Unsplash](https://unsplash.com/)
 </figcaption>
-</figure>
-
-Luckily, these event mobilizations are great opportunities for collaboration with partners. Working with partner organizations can make it easier to recruit and support hosts, find new attendees, and manage events on the day. The additional support from partner organizations can help you grow your mobilization and ensure its success.
+</figure> 
 
 **ControlShift's partnerships and calendars features make it easy for organizations to work together on events mobilizations. Now, with our recent releases, we've made our partnerships and calendars features even more powerful – allowing you to configure the tools to match your unique coalition.**
 
