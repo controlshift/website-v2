@@ -4,15 +4,15 @@ author: kristy
 featured_image: /img/uploads/partner-calendar-frame.png
 image: ""
 title: Boost Your Events Mobilizations with Coalitions
-date: 2023-05-11T03:01:44.725Z
+date: 2023-05-15T13:56:51.750Z
 ---
 Organizing a large series of events, like a day of action, can be a powerful way for an organization to demonstrate their reach and show the full breadth of support for their cause. However, recruiting so many events and adequately supporting all hosts can be a daunting task for a single organization to manage.
 
 <figure markdown="1">
-!\[ControlShift's calendars feature makes it easy to manage hundreds of member-hosted events.](/img/uploads/partner-calendar-frame.png){: class="figure-img rounded"}
+![ControlShift's calendars feature makes it easy to manage hundreds of member-hosted events.](/img/uploads/partner-calendar-frame.png){: class="figure-img rounded"}
 
 <figcaption class="figure-caption" markdown="1">
-\[Event Image](https://unsplash.com/photos/b_e1YM7Z99A) by \[Manny Becerra](https://unsplash.com/@mannyb) on \[Unsplash](https://unsplash.com/)
+[Event Image](https://unsplash.com/photos/b_e1YM7Z99A) by [Manny Becerra](https://unsplash.com/@mannyb) on [Unsplash](https://unsplash.com/)
 </figcaption>
 </figure>
 
