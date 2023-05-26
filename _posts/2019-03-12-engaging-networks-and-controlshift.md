@@ -12,7 +12,7 @@ The re-launched integration allows Engaging Networks customers to use the Contro
 
 [Amnesty Canada](https://www.amnesty.ca) recently used ControlShift alongside Engaging Networks to organize Write for Rights a distributed day of action on International Human Rights Day. Supporters hosted hundreds of events across Canada where volunteers wrote letters in support of prisoners of conscience. [Read the case study to learn more.](https://www.controlshiftlabs.com/case-study/amnesty-ca/)
 
-![](/img/uploads/amnesty-ca-screen.png
+![](/img/uploads/amnesty-ca-screen.png)
 
 When enabled, the data integration adds supporters who take action on ControlShift to your Engaging Networks database automatically in real time. This saves your staff from needing to shuffle CSVs to keep your organizing tools in sync.
 
