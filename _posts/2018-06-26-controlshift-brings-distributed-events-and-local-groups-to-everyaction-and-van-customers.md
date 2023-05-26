@@ -17,7 +17,7 @@ While VAN and EveryAction both include basic tools for staff-created events, the
 ![](/img/uploads/event-image.png){: class="figure-img rounded"}
 
 <figcaption class="figure-caption" markdown="1">
-["Event image"](https://unsplash.com/photos/bIyzFopbVOg) by [Shaun Donnelly](https://unsplash.com/@shaunyness) on [Unsplash](href="https://unsplash.com/)
+[Event image](https://unsplash.com/photos/bIyzFopbVOg) by [Shaun Donnelly](https://unsplash.com/@shaunyness) on [Unsplash](https://unsplash.com/)
 </figcaption>
 </figure>
 
@@ -33,10 +33,10 @@ Our local groups feature supports local volunteer teams, which are tied to a par
 ![](/img/uploads/local-group.png){: class="figure-img rounded"}
 
 <figcaption class="figure-caption" markdown="1">
-["Event image"](https://unsplash.com/photos/91LFdXy0FA0) by [Conor Samuel](https://unsplash.com/@csbphotography) on [Unsplash](href="https://unsplash.com/)
+[Event image](https://unsplash.com/photos/91LFdXy0FA0) by [Conor Samuel](https://unsplash.com/@csbphotography) on [Unsplash](https://unsplash.com/)
 </figcaption>
 <figcaption class="figure-caption" markdown="1">
-["Petition image"](https://unsplash.com/photos/I1v-tKAJzzc) by [Đăng Nguyễn](https://unsplash.com/@ddawng_rosie) on [Unsplash](href="https://unsplash.com/)
+[Petition image](https://unsplash.com/photos/I1v-tKAJzzc) by [Đăng Nguyễn](https://unsplash.com/@ddawng_rosie) on [Unsplash](https://unsplash.com/)
 </figcaption>
 </figure>
 
