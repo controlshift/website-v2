@@ -16,6 +16,7 @@ ChangeSprout is committed to data privacy and security. **Earning and maintainin
 | July - Dec. 2021 |    0                  |    0                  |
 | Jan. - June 2022 |    0                  |    0                  |  
 | July - Dec. 2022 |    0                  |    0                  |   
+| Jan. - June 2023 |    0                  |    0                  |  
 
 \
 In addition to our request data above, ChangeSprout confirms that:
