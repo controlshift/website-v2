@@ -12,15 +12,17 @@ ControlShift's calendars feature makes it easy for organizations to start and ma
 
 With our recent releases, the calendar tools now support events targeting specific decision makers.
 
-**What are decision maker calendars?**
+***What are decision maker calendars?***
+
 Decision maker calendars allow organizations to easily create and run events mobilizations with specific targets in mind. This allows organizations to ask their supporters to do things like:
+
 * deliver petition signatures to the public offices of specific elected officials.
 * protest outside of specific stores in response to their decision to not provide reproductive health medications.
 * stage actions outside of bank branches pushing them to change their position on fossil fuel investments.
 
 With decision maker calendars, organizations start by choosing the locations where they want their supporters to organize events. After uploading the list of locations, organizations can customize things like: default titles, descriptions, and start dates and times. Organizations can also provide special instructions for hosts – letting them know exactly what's expected of them.
 
-**What does the host experience look like?**
+***What does the host experience look like?***
 
 Once a supporter lands on the calendar lookup page, they'll be asked to search for their location – we'll then show them the closest pre-selected decision maker (within a radius that the organization can customize). If an event has not already been organized for that location, the supporter will be asked to become the host. If there is already an event, they can RSVP to the existing event, or they can host a new event if there's another unclaimed decision maker nearby.
 
