@@ -1,6 +1,8 @@
 ---
 layout: post
 author: kristy
+featured_image: /img/uploads/decision-maker-calendar.png
+image: /img/uploads/decision-maker-calendar.png
 title: "ControlShift Calendars 🤝 Pre-Chosen Decision Makers "
 date: 2023-09-01T14:35:24.613Z
 ---
