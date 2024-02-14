@@ -14,6 +14,10 @@ Because distributed organizing is often considered through a strictly campaignin
 
 **Distributed organizing tools and the ethos of member leadership and engagement that distributed organizing inspires can be integral to an organization's fundraising efforts.**
 
+<figcaption class="figure-caption" markdown="1">
+\[Donations Image](https://unsplash.com/photos/a-close-up-of-a-typewriter-with-a-donation-sign-on-it-wLBVAF-kMR0) by \[Markus Winkler](https://unsplash.com/@markuswinkler) on \[Unsplash](https://unsplash.com/)
+</figcaption>
+
 ## What are the specific ways that distributed organizing can fuel your fundraising? Let’s take a look!
 
 * **List Growth:** Fundraisers often spend hours crafting ads and landing pages aimed at identifying new potential supporters who can be converted into reliable donors. A key element of distributed organizing's success is that it relies on your existing supporters to help you identify future supporters. **Your existing leaders know who within their networks already support the causes that your organization is working on. They act as trusted intermediaries to introduce their networks to your organization.** This list of new supporters – the people who have shown their alignment with your cause by signing a petition, attending an event, or joining a local group supported by your organization – are people you can reach out to for future actions, including donations. We recommend integrating these new supporters into your main list as soon as possible – making sure that they receive updates about the other actions your organization is supporting, other opportunities to get involved in your work, and *yes*, any upcoming fundraising pushes.
@@ -58,4 +62,4 @@ At the technical level, there are a few options to start asking for donations on
   > *Bonus Best Practice:* Some organizations use ControlShifts APIs to automatically populate a donation page with information about the campaign the potential donor has just taken action on. This means that the donation page can be automatically updated to use that petition’s image or a snippet of the text on the donation page. This requires some text capacity but can be a great way to personalize the ask to match the donor’s already-identified interests.
 * You can add a donation to the customizable thank you for signing/RSVPing emails that we send to supporters. You could also add an ask to the reminder email that’s sent to attendees before their upcoming events. Because ControlShift allows organizations to fully customize the text of these emails, it’s possible to add a passive donation ask to the email text. We also support conditional logic for text blocks, which allow you to do things like limit donation asks to only the petitions that have been given the highest approval by your moderators. 
 
-  Want to know more about how distributed organizing can help fuel your fundraising efforts? Interested in making your existing ControlShift instance as donor friendly as possible? [Get in touch with our team – we’d love to chat](mailto:talk@controlshiftlabs.com).
+Want to know more about how distributed organizing can help fuel your fundraising efforts? Interested in making your existing ControlShift instance as donor friendly as possible? [Get in touch with our team – we’d love to chat](mailto:talk@controlshiftlabs.com).
