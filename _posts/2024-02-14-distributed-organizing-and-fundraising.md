@@ -1,6 +1,8 @@
 ---
 layout: post
 author: kristy
+featured_image: /img/uploads/markus-winkler-wlbvaf-kmr0-unsplash.jpg
+image: /img/uploads/markus-winkler-wlbvaf-kmr0-unsplash.jpg
 title: Distributed Organizing and Fundraising
 date: 2024-02-14T18:40:16.025Z
 ---
