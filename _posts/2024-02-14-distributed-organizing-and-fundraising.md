@@ -1,0 +1,22 @@
+---
+layout: post
+author: kristy
+title: Distributed Organizing and Fundraising
+date: 2024-02-14T18:40:16.025Z
+---
+When organizations think about distributed organizing, they generally think about the campaign impacts – that distributed organizing leads to more new and authentic actions led by your supporters, deepened engagement with your members, and increased leadership among your base.
+
+While those effects of distributed organizing can be easily seen, we also know that impact and supporter engagement doesn't happen in a vacuum. For nearly all organizations, donations and fundraising is another organizational metric that can't be ignored. 
+
+Because distributed organizing is often considered through a strictly campaigning lens, it can lead to a false sense of dichotomy: should my organization invest time and effort into distributed organizing or should we focus on donations? The assumption being that distributed organizing is completely separate from an organization's fundraising efforts. However, that's not true.
+
+**Distributed organizing tools and the ethos of member leadership and engagement that distributed organizing inspires can be integral part of an organization's fundraising efforts.** 
+
+**\[.   ]**
+
+* **List Growth:**   Fundraisers often spend hours crafting ads and landing pages aimed at identifying new potential supporters who can be converted into reliable donors. A key element of distributed organizing's success is that it relies on your existing supporters to help you identify future supporters. **Your existing leaders know who within their networks already support the causes that your organization is working on. They act as trusted intermediaries to introduce their networks to your organization.** This list of new supporters – the people who have shown their alignment with your cause by signing a petition, attending an event, or joining a local group supported by your organization – are people you can reach out to for future actions, including donations. We recommend integrating these new supporters into your main list as soon as possible – making sure that they receive updates about the other actions your organization is supporting, other opportunities to get involved in your work, and yes, any upcoming fundraising pushes. 
+
+  *Best Practice:* In your CRM, create a welcome mailer for newly-added supporters. This email (or series of emails) can be automatically scheduled to send within the first week of joining your list and should welcome them to your organization, give them more context about the work you're doing and how to get involved. You can add a passive donation ask to this welcome mailer. 
+* **Deepening Connections:** Everyone on your list is likely to be supporting the work of other organizations too. They're likely being asked for time and money from many organizations all the time. How can your organization cut through the noise? One of the key tenets of distributed organizing is that the people on your mailing lists aren’t just email addresses or credit card numbers – they’re leaders in their communities who we trust and reply upon to take big actions on behalf of the shared cause that we collectively care about. **Distributed organizing is at its best when both the organization and its supporters feel deep trust and connection with the other – and join in the the shared vision of the world we’re trying to create together.** Allowing supporters to take the lead for your organization via distributed organizing deepens their connection to your organization and their trust in your intentions. Supporters are more likely to become regular donors if they believe in your organization and its role as a good steward of your shared vision for the world. 
+* **Small donors:** Most organizations would love to find a super committed supporter who's ready to donate millions of dollars to the organization every year in perpetuity. However, that donor can be *a* *bit* tricky to find. For most organizations, the lifeblood of their donation program is the small donors – people donating $20 every month to the cause. **Distributed organizing makes it easier to identify potential donors. The people who are creating petitions on and hosting events are likely to be  your most committed supporters and your most likely future monthly donors.**
+*
