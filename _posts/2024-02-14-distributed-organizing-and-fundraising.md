@@ -4,7 +4,7 @@ author: kristy
 featured_image: /img/uploads/markus-winkler-wlbvaf-kmr0-unsplash.jpg
 image: /img/uploads/markus-winkler-wlbvaf-kmr0-unsplash.jpg
 title: Distributed Organizing and Fundraising
-date: 2024-02-14T18:40:16.025Z
+date: 2024-02-28T18:40:16.025Z
 ---
 When organizations think about distributed organizing, they often think about the campaign impacts – that distributed organizing leads to more new and authentic actions led by your supporters, deepened engagement with your members, and increased leadership among your base.
 
