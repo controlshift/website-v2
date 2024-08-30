@@ -33,7 +33,7 @@
     "sass-loader": "^12.1.0",
     "style-loader": "^3.0.0",
     "url-search-params-polyfill": "^8.1.0",
-    "webpack": "^5.76.0",
+    "webpack": "^5.94.0",
     "webpack-dev-server": "^3.11.0",
     "webpack-merge": "^5.1.1",
     "whatwg-fetch": "^3.5.0"
