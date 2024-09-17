@@ -12,7 +12,7 @@
     "clean:project": "if [ -e _site ]; then rm -R _site; fi; if [ -e assets ]; then rm -R assets; fi"
   },
   "dependencies": {
-    "bootstrap": "^4.6.0",
+    "bootstrap": "^5.0.0",
     "concurrently": "^6.2.0",
     "copy-webpack-plugin": "^9.0.1",
     "core-js": "^3.9.0",
