@@ -23,7 +23,7 @@
       }
     }
 
-    @include media-breakpoint-down(sm) {
+    @include media-breakpoint-down(md) {
       padding-right: 10px;
     }
   }

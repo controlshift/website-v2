@@ -60,7 +60,7 @@
   .left {
     padding: 100px 0;
 
-    @include media-breakpoint-down(sm) {
+    @include media-breakpoint-down(md) {
       padding: 25px 0;
     }
   }

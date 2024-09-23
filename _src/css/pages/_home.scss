@@ -10,7 +10,7 @@
 #hero-image-xl {
   position: absolute;
 
-  @include media-breakpoint-down(md) {
+  @include media-breakpoint-down(lg) {
     position: relative;
   }
 
@@ -23,11 +23,11 @@
       max-width: 880px;
     }
 
-    @include media-breakpoint-down(lg) {
+    @include media-breakpoint-down(xl) {
       margin-top: 70px;
     }
 
-    @include media-breakpoint-down(md) {
+    @include media-breakpoint-down(lg) {
       position: relative;
       margin-top: 20px;
       margin-left: 50%;
@@ -76,7 +76,7 @@ ul.text-list {
 }
 
 .selling-point {
-  @include media-breakpoint-down(sm) {
+  @include media-breakpoint-down(md) {
     &:not(:first-child) {
       margin-top: $spacer
     }
