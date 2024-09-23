@@ -14,18 +14,8 @@
 </div>
 
 <div class="container-fluid bg-darkblue">
-  <div class="container p-0 carousel slide" id="carousel" data-ride="carousel" data-interval="9000">
+  <div class="container p-0 carousel carousel-dark slide" id="carousel" data-bs-ride="carousel" data-bs-interval="9000">
     <div id="endorsements" class="row carousel-inner">
-      <div class="controls row-full absolute">
-        <a class="arrow" href="#carousel" role="button" data-slide="prev">
-          <span class="" aria-hidden="true">&lt;</span>
-          <span class="visually-hidden">Previous</span>
-        </a>
-        <a class="arrow" href="#carousel" role="button" data-slide="next">
-          <span class="" aria-hidden="true">&gt;</span>
-          <span class="visually-hidden">Next</span>
-        </a>
-      </div>
       {% for e in site.data.endorsements %}
         <div class="col-12 carousel-item {% if forloop.first == true %}active{% endif %}  mt-4 mb-4">
           <div class="row">
@@ -46,5 +36,13 @@
         </div>
       {% endfor %}
     </div>
+    <button class="carousel-control-prev" type="button" data-bs-target="#carousel" data-bs-slide="prev">
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="visually-hidden">Previous</span>
+    </a>
+    <button class="carousel-control-next" type="button" data-bs-target="#carousel" data-bs-slide="next">
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="visually-hidden">Next</span>
+    </a>
   </div>
 </div>
