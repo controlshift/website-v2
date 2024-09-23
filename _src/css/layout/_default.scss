@@ -241,9 +241,8 @@ img.faded {
 .carousel-inner {
   overflow: visible;
 
-  .arrow {
-    position: relative;
-    z-index: 1000;
+  &.mobile-graphics {
+    z-index: 0;
   }
 }
 
