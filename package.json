@@ -28,7 +28,7 @@
     "netlify-cms-app": "^2.14.14",
     "netlify-identity-widget": "^1.9.1",
     "node-fetch": "^3.2.10",
-    "popper.js": "^1.14.4",
+    "@popperjs/core": "^2.11.8",
     "sass": "^1.32.5",
     "sass-loader": "^12.1.0",
     "style-loader": "^3.0.0",
