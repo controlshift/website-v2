@@ -15,7 +15,7 @@ layout: default
                 Download a PDF of this Resource to share with colleagues
               </div>
               <div class="col-sm-4">
-                <a href="{{page.resource_url}}" class="btn btn-dark float-right">Download</a>
+                <a href="{{page.resource_url}}" class="btn btn-dark float-end">Download</a>
               </div>
             </div>
           </div>
@@ -35,26 +35,21 @@ layout: default
         <div class="col-md-5">
           <div class="email-capture-card">
             <form action="/.netlify/functions/subscribe" method="post" name="mailchimp-subscribe-form" class="needs-validation resource-form" novalidate>
-              <div class="form-group">
-                <label class="col-form-label mb-2" for="resource-email-capture">Free Advice from Expert Organizers</label>
+              <div class="mb-3">
+                <label class="form-label col-form-label mb-2" for="resource-email-capture">Free Advice from Expert Organizers</label>
 
                 <div class="input-group">
                   <input type="email" id="resource-email-capture" name="email" required class="form-control email-address required email" placeholder="Email address" aria-label="Email address">
-
-                  <div class="input-group-append">
-                    <input type="submit" class="btn btn-primary" value="Download Now">
-                  </div>
-
-
+                  <input type="submit" class="btn btn-primary" value="Download Now">
                   <div class="invalid-feedback email-invalid-feedback">
                   </div>
                 </div>
 
               </div>
-              <div class="form-group">
+              <div class="mb-3">
                 <div class="form-check">
                   <input class="form-check-input" type="checkbox" id="email-opt-in" checked>
-                  <label class="form-check-label regular" for="email-opt-in">
+                  <label class="form-label form-check-label regular" for="email-opt-in">
                     Keep me updated with news from ControlShift
                   </label>
                 </div>

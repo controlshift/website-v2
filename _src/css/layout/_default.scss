@@ -64,8 +64,9 @@ img.faded {
 }
 
 .desktop-graphic {
+  position: relative;
 
-  @include media-breakpoint-down(xs) {
+  @include media-breakpoint-down(sm) {
     padding: 0;
     text-align: right;
 
@@ -84,7 +85,7 @@ img.faded {
     top: 49px;
     display: block;
 
-    @include media-breakpoint-down(xs) {
+    @include media-breakpoint-down(sm) {
       top: 22px;
       right: 0;
     }
@@ -106,13 +107,13 @@ img.faded {
   direction: rtl;
   position: relative;
 
-  @include media-breakpoint-down(sm) {
+  @include media-breakpoint-down(md) {
     img.frame {
       margin-top: 120px;
     }
   }
 
-  @include media-breakpoint-down(xs) {
+  @include media-breakpoint-down(sm) {
     padding: 0;
     text-align: left;
     direction: ltr;
@@ -131,11 +132,11 @@ img.faded {
     top: 29px;
     right: 170px;
 
-    @include media-breakpoint-down(sm) {
+    @include media-breakpoint-down(md) {
       top: 150px;
     }
 
-    @include media-breakpoint-down(xs) {
+    @include media-breakpoint-down(sm) {
       top: 132px;
       right: inherit;
       left: 0;
@@ -186,7 +187,7 @@ img.faded {
 
   .mobile-graphic {
     direction: rtl;
-    @include media-breakpoint-down(sm) {
+    @include media-breakpoint-down(md) {
       direction: ltr;
     }
 
@@ -203,7 +204,7 @@ img.faded {
 
     .frame {
       width: 420px;
-      @include media-breakpoint-down(sm) {
+      @include media-breakpoint-down(md) {
         position: absolute;
         left: 50%;
         transform: translateX(-50%);
@@ -216,7 +217,7 @@ img.faded {
       top: 58px;
       left: 63px;
 
-      @include media-breakpoint-down(sm) {
+      @include media-breakpoint-down(md) {
         position: absolute;
         left: 50%;
         transform: translateX(-50%);
@@ -240,9 +241,8 @@ img.faded {
 .carousel-inner {
   overflow: visible;
 
-  .arrow {
-    position: relative;
-    z-index: 1000;
+  &.mobile-graphics {
+    z-index: 0;
   }
 }
 
@@ -273,7 +273,7 @@ img.faded {
       }
       left: 40%;
 
-      @include media-breakpoint-down(sm) {
+      @include media-breakpoint-down(md) {
         img {
           height: 100px;
           left:35%;
@@ -288,7 +288,7 @@ img.faded {
       right: 0;
 
 
-      @include media-breakpoint-down(sm) {
+      @include media-breakpoint-down(md) {
         img {
           height: 35px;
         }
@@ -302,7 +302,7 @@ img.faded {
       }
       left: 0;
 
-      @include media-breakpoint-down(sm) {
+      @include media-breakpoint-down(md) {
         img {
           height: 30px;
         }
@@ -312,14 +312,14 @@ img.faded {
 
     &#people-local-group {
       left: 100px;
-      @include media-breakpoint-down(sm) {
+      @include media-breakpoint-down(md) {
         left: 50px;
       }
     }
 
     &#people-mom-daughter {
       left: 300px;
-      @include media-breakpoint-down(sm) {
+      @include media-breakpoint-down(md) {
         left: inherit;
         right: -50px;
         bottom: 5px;
