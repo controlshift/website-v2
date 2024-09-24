@@ -27,4 +27,4 @@ In addition to our request data above, ChangeSprout confirms that:
 * ChangeSprout has never installed any law enforcement software or equipment in our tools.
 * ChangeSprout has never compromised or weakened its encryption or security protocols at the request of law enforcement or a third party. 
 
-*Last updated: 2 September 2024*
+*Last updated: 24 September 2024*
