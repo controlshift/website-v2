@@ -1,6 +1,6 @@
 .how-it-works-hero {
   .hero-image {
-    position: absolute;
+    position: relative;
     top: 40px;
 
     @include media-breakpoint-down(md) {
