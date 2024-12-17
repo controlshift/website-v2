@@ -11,7 +11,7 @@ The power of distributed organizing comes from regular people – people who ar
 At ControlShift we've been focused on making communications between leaders and their supporters even easier. To that end, we’ve rolled out two big improvements: better blast email targeting for petition creators and event hosts and easier replies from supporters to the organizers.
 
 <figcaption class="figure-caption" markdown="1">
-\[Orange and Brown Envelopes](https://unsplash.com/photos/a-close-up-of-a-piece-of-paper-with-orange-and-black-squares-qZ00MKTHkZw) by \[Kelly Sikkema](https://unsplash.com/@kellysikkema) on \[Unsplash](https://unsplash.com/)
+Orange and Brown Envelopes](https://unsplash.com/photos/a-close-up-of-a-piece-of-paper-with-orange-and-black-squares-qZ00MKTHkZw) by \[Kelly Sikkema](https://unsplash.com/@kellysikkema) on \[Unsplash](https://unsplash.com/)
 </figcaption>
 
 ### Blast Email Targeting for Petitions and Events
