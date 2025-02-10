@@ -11,10 +11,11 @@ export default async (request, context) => {
     return new Response("Method Not Allowed", {status: 405});
   }
   const params = querystring.parse(request.body);
+  console.log(`Params: ${JSON.stringify(params)}`)
   const VERIFY_URL = `https://www.google.com/recaptcha/api/siteverify?secret=${process.env.RECAPTCHA_API_KEY}&response=${params['g-recaptcha-response']}`;
   const MAILCHIMP_LIST_ID = 'b4d8624172'
 
-  console.log(`Performing reCaptcha verification.`)
+  console.log(`Performing reCaptcha verification for response ${params['g-recaptcha-response']}`)
   const recaptchaResponse = await fetch(VERIFY_URL, { method: 'POST' })
   const recaptchaData = await recaptchaResponse.json()
   let result;
