@@ -6,7 +6,7 @@ export default async (event, _context) => {
 
   // Only allow POST
   if (event.httpMethod !== "POST") {
-    return { statusCode: 405, body: "Method Not Allowed" };
+    return new Response("Method Not Allowed", {status: 405});
   }
   const params = querystring.parse(event.body);
   const VERIFY_URL = `https://www.google.com/recaptcha/api/siteverify?secret=${process.env.RECAPTCHA_API_KEY}&response=${params['g-recaptcha-response']}`;
@@ -41,9 +41,5 @@ export default async (event, _context) => {
     result = {success: false, message: 'reCaptcha rejected submission'}
   }
 
-
-  return {
-    statusCode: 200,
-    body: JSON.stringify(result)
-  };
+  return new Response(JSON.stringify(result), {status: 200});
 }
