@@ -1,13 +1,13 @@
 /* eslint-disable indent */
-const path = require('path')
-const HtmlWebpackPlugin = require('html-webpack-plugin')
-const webpack = require('webpack')
-const MiniCssExtractPlugin = require('mini-css-extract-plugin')
-const CopyWebpackPlugin = require('copy-webpack-plugin')
-const FaviconsWebpackPlugin = require('favicons-webpack-plugin')
+import path from 'path'
+import HtmlWebpackPlugin from 'html-webpack-plugin'
+import webpack from 'webpack'
+import MiniCssExtractPlugin from 'mini-css-extract-plugin'
+import CopyWebpackPlugin from 'copy-webpack-plugin'
+import FaviconsWebpackPlugin from 'favicons-webpack-plugin'
 
-module.exports = {
-  context: path.resolve(__dirname, '..'),
+export default {
+  context: path.resolve(process.cwd(), '..'),
 
   entry: {
     app: './_src/index.js',

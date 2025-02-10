@@ -5,6 +5,7 @@
   "main": "src/index.js",
   "repository": "git@github.com:controlshift/website-v2.git",
   "author": "ControlShift <talk@controlshiftlabs.com>",
+  "type": "module",
   "license": "MIT",
   "scripts": {
     "start": "npm run-script clean:project; concurrently \"NODE_ENV=development webpack serve --mode=development\" \"jekyll serve --incremental\"",

@@ -2,7 +2,7 @@ import Mailchimp from 'mailchimp-api-v3';
 import fetch from 'node-fetch';
 import querystring from 'querystring';
 
-export default async function handler(event, _context) {
+export default async (event, _context) => {
 
   // Only allow POST
   if (event.httpMethod !== "POST") {
