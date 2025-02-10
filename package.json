@@ -13,6 +13,7 @@
     "clean:project": "if [ -e _site ]; then rm -R _site; fi; if [ -e assets ]; then rm -R assets; fi"
   },
   "dependencies": {
+    "@popperjs/core": "^2.11.8",
     "bootstrap": "^5.0.0",
     "concurrently": "^6.2.0",
     "copy-webpack-plugin": "^9.0.1",
@@ -29,7 +30,6 @@
     "netlify-cms-app": "^2.14.14",
     "netlify-identity-widget": "^1.9.1",
     "node-fetch": "^3.2.10",
-    "@popperjs/core": "^2.11.8",
     "sass": "^1.32.5",
     "sass-loader": "^12.1.0",
     "style-loader": "^3.0.0",

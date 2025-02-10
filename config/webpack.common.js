@@ -7,7 +7,7 @@ import CopyWebpackPlugin from 'copy-webpack-plugin'
 import FaviconsWebpackPlugin from 'favicons-webpack-plugin'
 
 export default {
-  context: path.resolve(process.cwd(), '..'),
+  context: path.resolve(process.cwd()),
 
   entry: {
     app: './_src/index.js',

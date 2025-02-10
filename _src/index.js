@@ -1,6 +1,6 @@
 // CSS and SASS files
-import 'core-js/stable'
-import 'regenerator-runtime/runtime'
+import 'core-js/stable/index.js'
+import 'regenerator-runtime/runtime.js'
 
 import 'bootstrap'
 import jQuery from 'jquery'
@@ -11,8 +11,8 @@ import 'whatwg-fetch'
 import 'url-search-params-polyfill'
 
 import netlifyIdentity from 'netlify-identity-widget'
-import { setupValidation } from './validation'
-import { setupHamburger } from './hamburger'
+import { setupValidation } from './validation.js'
+import { setupHamburger } from './hamburger.js'
 
 jQuery(() => {
   setupHamburger()
