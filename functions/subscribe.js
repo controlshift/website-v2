@@ -1,17 +1,15 @@
-const Mailchimp = require('mailchimp-api-v3');
-const fetch = require('node-fetch');
-const querystring = require('querystring');
+import Mailchimp from 'mailchimp-api-v3';
+import fetch from 'node-fetch';
+import querystring from 'querystring';
 
-exports.handler = async function(event, context) {
+export default async function handler(event, _context) {
 
   // Only allow POST
   if (event.httpMethod !== "POST") {
     return { statusCode: 405, body: "Method Not Allowed" };
   }
   const params = querystring.parse(event.body);
-
   const VERIFY_URL = `https://www.google.com/recaptcha/api/siteverify?secret=${process.env.RECAPTCHA_API_KEY}&response=${params['g-recaptcha-response']}`;
-
   const MAILCHIMP_LIST_ID = 'b4d8624172'
 
   const recaptchaResponse = await fetch(VERIFY_URL, { method: 'POST' })
