@@ -1,9 +1,9 @@
-const { merge } = require('webpack-merge')
-const CommonConfig = require('./webpack.common.js')
-const path = require('path')
-const { ESBuildMinifyPlugin } = require('esbuild-loader')
+import { merge } from 'webpack-merge'
+import CommonConfig from './webpack.common.js'
+import path from 'path'
+import { ESBuildMinifyPlugin } from 'esbuild-loader'
 
-module.exports = merge(CommonConfig, {
+export default merge(CommonConfig, {
   mode: 'production',
 
   output: {

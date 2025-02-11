@@ -1,4 +1,5 @@
 import jQuery from 'jquery'
+
 export function setupHamburger() {
   const hamburger = jQuery('.hamburger')
   hamburger.on('click', () => {

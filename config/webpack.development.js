@@ -1,8 +1,8 @@
-const { merge } = require('webpack-merge')
-const CommonConfig = require('./webpack.common.js')
-const path = require('path')
+import { merge } from 'webpack-merge'
+import CommonConfig from './webpack.common.js'
+import path from 'path'
 
-module.exports = merge(CommonConfig, {
+export default merge(CommonConfig, {
   mode: 'development',
   output: {
     filename: '[name].js',
@@ -10,7 +10,7 @@ module.exports = merge(CommonConfig, {
     publicPath: '/assets/'
   },
   devServer: {
-    contentBase: path.join(__dirname, '..', '_site'),
+    contentBase: path.join(process.cwd(), '_site'),
     writeToDisk: true
   },
   devtool: 'eval'

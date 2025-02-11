@@ -1,3 +1,4 @@
-module.exports = (env, argv) => {
-  return require(`./config/webpack.${argv.mode}.js`)
-}
+export default async (env, argv) => {
+  const config = await import(`./config/webpack.${argv.mode}.js`);
+  return config.default;
+};

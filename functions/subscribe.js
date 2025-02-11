@@ -1,17 +1,16 @@
-const Mailchimp = require('mailchimp-api-v3');
-const fetch = require('node-fetch');
-const querystring = require('querystring');
+import Mailchimp from 'mailchimp-api-v3';
+import fetch from 'node-fetch';
 
-exports.handler = async function(event, context) {
-
+export default async (request, context) => {
   // Only allow POST
-  if (event.httpMethod !== "POST") {
-    return { statusCode: 405, body: "Method Not Allowed" };
+  if (request.method !== "POST") {
+    return new Response("Method Not Allowed", {status: 405});
   }
-  const params = querystring.parse(event.body);
 
-  const VERIFY_URL = `https://www.google.com/recaptcha/api/siteverify?secret=${process.env.RECAPTCHA_API_KEY}&response=${params['g-recaptcha-response']}`;
+  const formData = await request.formData()
+  const formObject = Object.fromEntries(formData.entries())
 
+  const VERIFY_URL = `https://www.google.com/recaptcha/api/siteverify?secret=${process.env.RECAPTCHA_API_KEY}&response=${formObject['g-recaptcha-response']}`;
   const MAILCHIMP_LIST_ID = 'b4d8624172'
 
   const recaptchaResponse = await fetch(VERIFY_URL, { method: 'POST' })
@@ -21,20 +20,19 @@ exports.handler = async function(event, context) {
   if(recaptchaData.success) {
     let mailchimp = new Mailchimp(process.env.MAILCHIMP_API_KEY);
     try {
-      const mailchimpResult = await mailchimp.request({
+      await mailchimp.request({
         method : 'post',
         path : `/lists/${MAILCHIMP_LIST_ID}/members`,
         body : {
-          email_address : params.email,
+          email_address : formObject.email,
           status : 'subscribed'
         }
       })
-      console.log(mailchimpResult)
-      result = {success: true, message: `${params.email} has been subscribed to the ControlShift mailing list.`};
+      result = {success: true, message: `${formObject.email} has been subscribed to the ControlShift mailing list.`};
     } catch(err) {
       const message = err.response.body.detail
       if (message.match(/is already a list member/)) {
-        result = {success: true, message: `${params.email} has been subscribed to the ControlShift mailing list.`};
+        result = {success: true, message: `${formObject.email} has been subscribed to the ControlShift mailing list.`};
       } else {
         result = {success: false, message: message};
       }
@@ -43,9 +41,5 @@ exports.handler = async function(event, context) {
     result = {success: false, message: 'reCaptcha rejected submission'}
   }
 
-
-  return {
-    statusCode: 200,
-    body: JSON.stringify(result)
-  };
+  return new Response(JSON.stringify(result), {status: 200});
 }
