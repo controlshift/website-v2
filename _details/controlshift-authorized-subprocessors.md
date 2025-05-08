@@ -8,10 +8,11 @@ When ChangeSprout updates its subprocessors, the list on this page will be updat
 
 Because updates to subprocessors will only be posted on this page, we'd encourage organizations to **subscribe** to updates using the <a href="#subscribe">form at the bottom of this page</a>.
 
-ChangeSprout has two categories of authorized Subprocessors of personal data. Subprocessors that we use to provision the core ControlShift product to you are categorized as "Infrastructure". Subprocessors that we use to help us answer support questions from customers are categorized as "Support".
+ChangeSprout has two categories of authorized Subprocessors of personal data. Subprocessors that we use to provision the core ControlShift product to you are categorized as "Infrastructure." Subprocessors that we use to help us answer support questions from customers are categorized as "Support."
 
 ### ControlShift Authorized Subprocessors - Infrastructure
-<table style="width: 100%;" border="1" style='border-collapse:collapse' cellpadding="15px">
+
+<table style="width: 100%;" border="1" cellpadding="15px">
   <thead>
     <tr style="background-color: #ececec;">
       <th style="width: 32%;"><b>Entity Name</b></th>
@@ -103,9 +104,9 @@ ChangeSprout has two categories of authorized Subprocessors of personal data. Su
           United States of America       
       </td>
     </tr>
-        <tr>
+    <tr>
       <td style="width: 32%;">
-          <a href="https://www.helpscout.com/"><b>Help Scout PBC<b></a>
+          <a href="https://www.helpscout.com/"><b>Help Scout PBC</b></a>
       </td>
       <td style="width: 32%;">
         Support tickets and help center
@@ -124,7 +125,7 @@ ChangeSprout has two categories of authorized Subprocessors of personal data. Su
         <a href="https://slack.com/"><b>Slack Technologies Inc.</b></a>
       </td>
       <td style="width: 32%;">
-        Team Communications (Zendesk tickets are sent to Slack)
+        Team Communications (Zendesk/Help Scout tickets are sent to Slack)
       </td>
       <td style="width: 36%;">
           500 Howard 5th Street<br>
@@ -142,7 +143,7 @@ ChangeSprout has two categories of authorized Subprocessors of personal data. Su
       <td style="width: 36%;">
          1019 Market Street<br>San Francisco, CA 94103 <br>United States of America
       </td>
-    </tr
+    </tr>
   </tbody>
 </table>
 
@@ -150,8 +151,7 @@ ChangeSprout has two categories of authorized Subprocessors of personal data. Su
 
 We allow organizations to integrate with third-party tools that are **not covered** by our DPA. These third-party tools are included on, and can be managed from, the Integrations page (admin homepage > Settings > Integrations). We encourage organizations to review the third-party tools to which they're sending data and independently evaluate the security of these tools, and sign separate Data Processing Agreements with those third parties where appropriate. 
 
-Controller-Controller Relationships
-
+### Controller-Controller Relationships
 
 Controller-Controller relationships are those where our customers and a vendor that we work with share the controller responsibility, usually through embedded functionality from another service that is directly served to the public via a link, javascript or an iframe.
 
