@@ -95,8 +95,7 @@ ChangeSprout has two categories of authorized Subprocessors of personal data. Su
   </thead>
   <tbody>
     <tr>
-      <td style="width: 32%;"><a href="https://gsuite.google.com/"><b>Google Inc.</a>*</b> 
-      </td>
+      <td style="width: 32%;"><a href="https://gsuite.google.com/"><b>Google Inc.</b></a><b>*</b></td>
       <td style="width: 32%;">G Suite<b>*</b></td>
       <td style="width: 36%;">
           1600 Ampitheatre Parkway<br>
