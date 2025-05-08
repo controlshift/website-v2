@@ -12,11 +12,9 @@ ChangeSprout has two categories of authorized Subprocessors of personal data. Su
 
 ### ControlShift Authorized Subprocessors - Infrastructure
 
-| Entity Name         | Purpose        | Corporate Location                                                 |
-| ------------------- | -------------- | ------------------------------------------------------------------ |
-| [Amazon Web Services, Inc.](https://aws.amazon.com) | Infrastructure | 410 Terry Avenue North\
-Seattle, WA 98109\
-United States of America |
+| Entity Name   | Purpose | Corporate Location |                                   
+| ------------------- | -------------- | ------------|
+| [Amazon Web Services, Inc.](https://aws.amazon.com) | Infrastructure | 410 Terry Avenue North Seattle, WA 98109 United States of America |
 |[Cloudflare, Inc.](https://www.cloudflare.com) | DDOS/Bot Protection and CDN | 101 Townsend Street\ 
 San Francisco, CA 94107\
 United States of America |
