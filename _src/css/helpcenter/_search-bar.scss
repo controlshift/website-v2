@@ -1,0 +1,33 @@
+#docsSearch {
+  background-color: $csl-blue;
+  color: white;
+
+  // Insert the image above the search box
+  h1 {
+    margin-bottom: 0;
+
+    &:after {
+      content: ' ';
+      background: url('images/helpcenter/homepage.svg') center no-repeat;
+      display: block;
+      aspect-ratio: 769/282;
+      margin: 15px auto 0;
+      height: 282px;
+
+      @media (max-width: 768px) {
+        background-size: contain;
+        height: auto;
+      }
+    }
+  }
+
+  // Customize the button color
+  #searchBar {
+    button {
+      background-color: $yellow;
+      border-color: $yellow;
+      color: $black;
+      text-shadow: none;
+    }
+  }
+}

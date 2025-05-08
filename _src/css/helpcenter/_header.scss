@@ -1,0 +1,4 @@
+// Hide header links except Contact and Status
+.navbar nav li:not(#contact):not(#contactMobile):not(#status) {
+  display: none;
+}

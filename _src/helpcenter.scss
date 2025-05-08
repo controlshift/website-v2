@@ -1,9 +1,8 @@
 /* This file is used to style the Help Center. It's hosted on the marketing site domain for ease of maintenance. */
 
 $csl-blue: #1091c2;
+$yellow: #fdd455;
+$black: #333;
 
-#searchBar {
-  button {
-    background-color: $csl-blue;
-  }
-}
+@import "css/helpcenter/_header";
+@import "css/helpcenter/_search-bar";
