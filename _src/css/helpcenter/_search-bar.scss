@@ -8,10 +8,16 @@
 
     &:after {
       content: ' ';
-      background-image: url('images/helpcenter/homepage.svg') center no-repeat;
+      background: url('images/helpcenter/homepage.svg') center no-repeat;
       display: block;
+      aspect-ratio: 769/282;
+      margin: 15px auto 0;
       height: 282px;
-      margin-top: 15px;
+
+      @media (max-width: 768px) {
+        background-size: contain;
+        height: auto;
+      }
     }
   }
 
