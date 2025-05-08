@@ -11,7 +11,8 @@ export default {
 
   entry: {
     app: './_src/index.js',
-    admin: './_src/admin.js'
+    admin: './_src/admin.js',
+    helpcenter: './_src/helpcenter.scss'
   },
   plugins: [
     new FaviconsWebpackPlugin({
