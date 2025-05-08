@@ -2,6 +2,12 @@
 
 $csl-blue: #1091c2;
 
+// Hide header links except Contact and Status
+.navbar nav li:not(#contact):not(#contactMobile):not(#status) {
+  display: none;
+}
+
+// Customize the search box
 #searchBar {
   button {
     background-color: $csl-blue;
