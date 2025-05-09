@@ -1,0 +1,135 @@
+// Display icons for each category
+
+.category-list {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: stretch;
+}
+
+.category-list .category::before {
+  content: "";
+  display: block;
+  text-align: center;
+  font-family: "Material Symbols Outlined";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 2em;
+  margin-bottom: 10px;
+  color: #333;
+}
+
+// Announcements
+#category-82::before {
+  content: "brand_awareness";
+}
+
+// Getting Started
+#category-18::before {
+  content: "rocket_launch";
+}
+
+// Petitions
+#category-19::before {
+  content: "assignment";
+}
+
+// Events
+#category-21::before {
+  content: "calendar_month";
+}
+
+// Groups
+#category-22::before {
+  content: "groups";
+}
+
+// Moderation
+#category-20::before {
+  content: "thumbs_up_down";
+}
+
+// Partnerships
+#category-25::before {
+  content: "handshake";
+}
+
+// Efforts
+#category-26::before {
+  content: "hub";
+}
+
+// Landing Pages
+#category-27::before {
+  content: "graph_2";
+}
+
+// Decision Makers
+#category-24::before {
+  content: "gavel";
+}
+
+// Platform Settings
+#category-28::before {
+  content: "settings";
+}
+
+// Documentación en Español
+#category-23::before {
+  content: "translate";
+}
+
+// Advanced Tutorials
+#category-29::before {
+  content: "build";
+}
+
+// Donations In ControlShift
+#category-92::before {
+  content: "credit_card_heart";
+}
+
+// Video Tutorials
+#category-31::before, #category-81::before {
+  content: "play_circle";
+}
+
+// For New ControlShift Administrators
+#category-33::before {
+  content: "badge";
+}
+
+// Subscription Statuses
+#category-58::before {
+  content: "mail";
+}
+
+// Updating Organization Specific Text
+#category-59::before {
+  content: "dictionary";
+}
+
+// Third Party Integrations
+#category-37::before {
+  content: "sync_alt";
+}
+
+// EU GDPR
+#category-38::before {
+  content: "security";
+}
+
+// CRM Integrations
+#category-39::before {
+  content: "backup";
+}
+
+// APIs and Webhooks
+#category-41::before {
+  content: "webhook";
+}
+
+// Written Tutorials
+#category-78::before {
+  content: "article";
+}
+
