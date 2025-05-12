@@ -1,14 +1,16 @@
 // Display icons for each category
 
 .category-list {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 1.5em 0.75em;
-  justify-content: space-evenly;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  grid-gap: 10px;
   align-items: stretch;
 
   .category {
-    width: 220px;
+    // The built-in styles have widths like "29%", which we do not want as part of our grid layout.
+    // We need to use !important to ensure we also override the mobile-specific percentage width.
+    width: auto !important;
+
     margin: 0;
 
     &:before {
