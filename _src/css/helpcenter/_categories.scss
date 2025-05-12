@@ -1,21 +1,30 @@
 // Display icons for each category
 
 .category-list {
-  display: flex;
-  flex-wrap: wrap;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  grid-gap: 10px;
   align-items: stretch;
-}
 
-.category-list .category::before {
-  content: "";
-  display: block;
-  text-align: center;
-  font-family: "Material Symbols Outlined";
-  font-weight: normal;
-  font-style: normal;
-  font-size: 2em;
-  margin-bottom: 10px;
-  color: #333;
+  .category {
+    // The built-in styles have widths like "29%", which we do not want as part of our grid layout.
+    // We need to use !important to ensure we also override the mobile-specific percentage width.
+    width: auto !important;
+
+    margin: 0;
+
+    &:before {
+      content: "";
+      display: block;
+      text-align: center;
+      font-family: "Material Symbols Outlined";
+      font-weight: normal;
+      font-style: normal;
+      font-size: 2em;
+      margin-bottom: 10px;
+      color: #333;
+    }
+  }
 }
 
 // Announcements
