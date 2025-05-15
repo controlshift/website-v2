@@ -20,6 +20,12 @@ body {
   font-family: Graphik-Regular, sans-serif;
 }
 
+// bold text doesnt stand out in graphik regular
+body strong {
+  font-family: Graphik-Medium, sans-serif;
+  color: #000;
+}
+
 h1, h2, h3, h4, h5, h6, button {
   font-family: Graphik-Medium, sans-serif;
 }
