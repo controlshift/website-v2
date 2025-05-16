@@ -21,7 +21,7 @@ body {
 }
 
 // bold text doesnt stand out in graphik regular
-strong {
+strong, b {
   font-family: Graphik-Medium, sans-serif;
   color: #000;
 }
