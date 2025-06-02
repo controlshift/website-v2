@@ -4,6 +4,12 @@ gem "jekyll"
 gem "liquid-c"
 gem "activesupport"
 
+# Jekyll dependencies
+gem "logger"
+gem "csv"
+gem "base64"
+gem "bigdecimal"
+
 group :jekyll_plugins do
    gem 'jekyll-feed'
    gem 'jekyll-sitemap'
