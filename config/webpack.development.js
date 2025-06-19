@@ -10,8 +10,10 @@ export default merge(CommonConfig, {
     publicPath: '/assets/'
   },
   devServer: {
-    contentBase: path.join(process.cwd(), '_site'),
-    writeToDisk: true
+    static: path.join(process.cwd(), '_site'),
+    devMiddleware: {
+      writeToDisk: true
+    }
   },
   devtool: 'eval'
 })
