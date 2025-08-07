@@ -60,7 +60,7 @@ In addition to the other measures outlined above, we allow users to access and u
 *Onward Transfer*\
 ChangeSprout only transfers member data to third parties when requested by the customer or when required for the reliable operation of the platform. We limit the number of third-party sub-processors we use to process member data and ensure that all sub-processors adhere to adequate data protection policies. 
 
-A list of our current sub-processors [is available:](https://www.controlshiftlabs.com/details/controlshift-authorized-subprocessors).
+A list of our current sub-processors [is available](https://www.controlshiftlabs.com/details/controlshift-authorized-subprocessors).
 
 ChangeSprout may also transfer platform data to analytics providers for the purpose of internal, platform-wide analytics. Data analytics transfers that are undertaken for the benefit of our internal analysis will be undertaken only after receiving permission from the customer.  This permission may take the form of emailed confirmation and does not require an addendum to customer contracts.
 
