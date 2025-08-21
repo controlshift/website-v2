@@ -132,17 +132,6 @@ ChangeSprout has two categories of authorized Subprocessors of personal data. Su
           United States of America
       </td>
     </tr>
-    <tr>
-      <td style="width: 32%;">
-          <a href="https://www.zendesk.com/"><b>Zendesk, Inc.</b></a>
-      </td>
-      <td style="width: 32%;">
-        Support tickets and help center
-      </td>
-      <td style="width: 36%;">
-         1019 Market Street<br>San Francisco, CA 94103 <br>United States of America
-      </td>
-    </tr>
   </tbody>
 </table>
 
@@ -158,10 +147,9 @@ Controller-Controller relationships are those where our customers and a vendor t
 
 It does **not**, however, include use of reCAPTCHA (enabled via admin > Settings > Integrations), Google Maps or Google Fonts APIs. We use the Google Maps API to render maps and provide location lookup services. We optionally use some fonts served by the Google Fonts API. We do not send personal data to the Google Maps or Fonts APIs, but it may be possible for Google itself to collect data including IP Address directly from the public because of the inclusion of these products in the ControlShift service.
 
-Google offers a Controller-Controller agreement for Google Maps, which may be appropriate for organizations to enter into. We recommend seeking legal guidance: [https://cloud.google.com/maps-platform/terms/maps-controller-terms](https://cloud.google.com/maps-platform/terms/maps-controller-terms). 
+Google offers a Controller-Controller agreement for Google Maps, which may be appropriate for organizations to enter into. We recommend seeking legal guidance: <https://cloud.google.com/maps-platform/terms/maps-controller-terms>. 
 
 **Embed.ly**: The ControlShift product can use Embed.ly to convert URLs on some pages into embedded images, videos, etc. This feature can be used by customers to include rich media embeds from a large number of third party services including YouTube, Vimeo and the like. **We do not send personal data to Embed.ly**, but the third-party services, by virtue of the embed, may track users' personal information including IP Address. These embeds are inserted into pages via an iframe, which might establish a Controller-Controller relationship between you and the embed provider. The integration with Embed.ly is also controlled via admin > Settings > Integrations.
 
 <a name="subscribe">
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeueyQcRQI9j6yCwdlUoDBm51eVU0J4t2_PCoXAOXixC68j2A/viewform?embedded=true" width="640" height="511" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-
