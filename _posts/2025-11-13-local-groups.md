@@ -17,17 +17,20 @@ From the beginning, ControlShift has been dedicated to the idea that the organiz
 The most visible set of changes are the redesigned and modernized group pages for members and organizers. We worked with a design firm for user research and design improvements. The new designs are cleaner, more modern, and easier to interact with especially for mobile users.
 
 <figure markdown="1">
-![](/img/uploads/local-group-mobile.png){: class="figure-img rounded"}
+![A local group page is displayed on a mobile device](/img/uploads/local-group-mobile.png){: class="figure-img rounded"}
+</figure>
 
 We also wanted to be sure we were highlighting group's offline actions more effectively. The new designs have dedicated pages showcasing upcoming (and past) events, along with active (and ended) petitions. Ensuring that existing and prospective group members can see the various ways the group is taking action in their community. 
 
 <figure markdown="1">
-![](/img/uploads/group-events.png){: class="figure-img rounded"}
+![An event page lists four upcoming events](/img/uploads/group-events.png){: class="figure-img rounded"}
+</figure>
 
 Maintaining a group's momentum can be difficult, so we wanted to also include encouragement and tips for organizers. In the new designs, organizers will see prompts to create new events, petitions, resource pages, and posts.
 
 <figure markdown="1">
-![](/img/uploads/group-prompts.png){: class="figure-img rounded"}
+![A group page shows prompts to create an event, post a new topic, et.](/img/uploads/group-prompts.png){: class="figure-img rounded"}
+</figure>
 
 We've also moved [resources](https://support.controlshiftlabs.com/article/386-members-experience-of-groups#resources) up the page when present. This allows the organizer-created, evergreen pages to be more easily accessible for group members.
 
@@ -37,17 +40,22 @@ We welcome you to [join a group](https://demo.controlshiftlabs.com/groups/contro
 
 While the refreshed designs are the most obvious changes to groups, our recent releases have also included new functionality to make groups more powerful. Here are some of the changes: 
 
+* We now allow organizers to send blast emails to their members. One of our most requested group features is now here! The blast email functionality allows organizers to send longer messages (or messages that don't make sense for a forum post) to their members. This functionality can be used for things like newsletter updates, report backs from events or meetings, etc. Group members can also adjust their subscription to newsletter-only.
 * We now support closed groups for extra security. While open groups allow anyone to join the group immediately, closed groups require prospective members to submit an application to join the group which can be approved or rejected by the group organizer. This setting can be helpful for groups working on contentious issues or in difficult political environments. 
+<figure markdown="1">
+![A closed group shows 'Request to Join' buttons](/img/uploads/closed-group.png){: class="figure-img rounded"}
+</figure>
 * We've tightened banned member settings, which can be helpful when a user is causing issues on the platform. The updated rules will also prevent banned members from RSVPing to events (or signing petitions) and being added as listening members of the group.
 * We've added additional emails to open group organizers, ensuring that they know when they have new group members.
-* We now allow organizers to send blast emails to their members. One of our most requested group features is now here! The blast email functionality allows organizers to send longer messages (or messages that don't make sense for a forum post) to their members. This functionality can be used for things like newsletter updates, report backs from events or meetings, etc. Group members can also adjust their subscription to newsletter-only.
 * We've updated the way broadcast posts work for admins. Previously, staff could send forum messages to all groups in the collection. Now, staff can also target the messages to groups in specific regions, with (or without) specific labels, or groups assigned to specific mentors. This functionality allows organizations to more easily release specific calls to action.
 * We've added a new organizer announcement feature, making it easier for staff to communicate with group leaders from within the platform. The new feautre allows organizations to share info with the group leaders only, potentially targeted to the leaders of groups in specific regions. This may be useful for more complicated calls to action or suggestions that shouldn't be shared with the full group. 
 * Group collections now support multiple membership questions, allowing organizers and staff to more easily get to know the people joining groups.
 
 We're so excited to announce all of these changes to groups, and there's more to come! If you're interested in bringing groups functionality to your organization, [get in touch](mailto:talk@controlshiftlabs.com)!
 
-Image Attributions:
+------
+
+Attributions for Event Images in Screenshots
 
 <figcaption class="figure-caption" markdown="1">
 ["Building Event Image"](https://unsplash.com/photos/beige-concrete-building-with-two-clocks-under-cloudy-blue-sky-91LFdXy0FA0) by [Conor Samuel](https://unsplash.com/@csbphotography) on [Unsplash](https://unsplash.com/)
@@ -67,4 +75,8 @@ Image Attributions:
 
 <figcaption class="figure-caption" markdown="1">
 ["Seattle Event Image"](https://unsplash.com/photos/high-rise-buildings-near-coastal-area-under-clear-sky-NAXwZWYVJPQ) by [Felipe Galvan](https://unsplash.com/@fng137) on [Unsplash](https://unsplash.com/)
+</figcaption>
+
+<figcaption class="figure-caption" markdown="1">
+["Coffee Event Image"](https://unsplash.com/photos/person-filling-glass-container-TYIzeCiZ_60) by [Karl Fredrickson](https://unsplash.com/@kfred) on [Unsplash](https://unsplash.com/)
 </figcaption>
