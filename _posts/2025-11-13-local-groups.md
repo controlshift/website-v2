@@ -55,7 +55,7 @@ We're so excited to announce all of these changes to groups, and there's more to
 
 <p style="font-size:14px;">Attributions for Event Images in Screenshots:</p>
 
-<p style="font-size:14px;"><a href="https://unsplash.com/photos/beige-concrete-building-with-two-clocks-under-cloudy-blue-sky-91LFdXy0FA0"> Building Event Image</a> by <a href="https://unsplash.com/@csbphotography">Conor Samuel</a> on <a href="https://unsplash.com/"> Unsplash</a><br />
+<p style="font-size:14px;"><a href="https://unsplash.com/photos/beige-concrete-building-with-two-clocks-under-cloudy-blue-sky-91LFdXy0FA0">Royal Liver Building Event Image</a> by <a href="https://unsplash.com/@csbphotography">Conor Samuel</a> on <a href="https://unsplash.com/"> Unsplash</a><br />
 
 <a href="https://unsplash.com/photos/a-crowd-of-people-standing-around-a-stage-fN4WvtRehfs">Stage Event Image</a> by <a href="https://unsplash.com/@bttsg">Vivu Vietnam</a> on <a href="https://unsplash.com/">Unsplash</a><br />
 
