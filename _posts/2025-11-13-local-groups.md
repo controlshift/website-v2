@@ -3,7 +3,7 @@ layout: post
 author: kristy
 featured_image: /img/uploads/new-local-groups.png
 image: /img/uploads/new-local-groups.png
-title: Local Groups
+title: Build Community with Updated Local Group Features
 date: 2025-11-13T15:21:47.134Z
 ---
 From the beginning, ControlShift has been dedicated to the idea that the organizations and movements we support are most powerful when supporters take the lead – using their authentic voices and experiences to drive movements forward. At ControlShift's inception, opportunities for member leadership were limited to online petition campaigns. As we grew, we added events and groups – allowing supporters to take their actions offline and into the real world.
