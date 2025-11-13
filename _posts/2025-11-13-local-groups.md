@@ -22,11 +22,12 @@ We also wanted to be sure we were highlighting group's offline actions more effe
 <figure markdown="1">
 !\[](/img/uploads/group-events.png){: class="figure-img rounded"}
 
+Maintaining a group's momentum can be difficult, so we wanted to also include encouragement and tips for organizers. In the new designs, organizers will see prompts to create new events, petitions, resource pages, and posts.
 
+<figure markdown="1">
+!\[](/img/uploads/group-prompts.png){: class="figure-img rounded"}
 
-
-
-
+We've also moved [resources](https://support.controlshiftlabs.com/article/386-members-experience-of-groups#resources) up the page when present. This allows the organizer-created evergreen pages to be more easily accessible for group members.
 
 Image Attributions:
 
@@ -38,10 +39,14 @@ Image Attributions:
 \["Stage Event Image"](https://unsplash.com/photos/a-crowd-of-people-standing-around-a-stage-fN4WvtRehfs) by \[Vivu Vietnam](https://unsplash.com/@bttsg) on \[Unsplash](https://unsplash.com/)
 </figcaption>
 
-<figcaption class="figure-caption" markdown="1">
-\["Fireworks Event Image"](https://unsplash.com/photos/fireworks-over-a-lake-klV99WVcOaI) by \[Mario La Pergola](https://unsplash.com/@mlapergolaphoto) on \[Unsplash](https://unsplash.com/)
+<figcaption class="figure-caption" markdown="1">\
+\["Fireworks Event Image"](https://unsplash.com/photos/fireworks-over-a-lake-klV99WVcOaI) by \\[Mario La Pergola](https://unsplash.com/@mlapergolaphoto) on \[Unsplash](https://unsplash.com/)
 </figcaption>
 
 <figcaption class="figure-caption" markdown="1">
 \["Man with Liverpool Flag Event Image"](https://unsplash.com/photos/man-in-black-tank-top-sitting-on-car-hood-during-sunset-bIyzFopbVOg) by \[Shaun Donnelly](https://unsplash.com/@shaunyness) on \[Unsplash](https://unsplash.com/)
+</figcaption>
+
+<figcaption class="figure-caption" markdown="1">
+\["Seattle Event Image"](https://unsplash.com/photos/high-rise-buildings-near-coastal-area-under-clear-sky-NAXwZWYVJPQ) by \[Felipe Galvan](https://unsplash.com/@fng137) on \[Unsplash](https://unsplash.com/)
 </figcaption>
