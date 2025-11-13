@@ -45,8 +45,8 @@ While the refreshed designs are the most obvious changes to groups, our recent r
 </figure>
 * **Banned Members**: We've tightened banned member settings, which can be helpful when a user is causing issues on the platform. The updated rules will also prevent banned members from RSVPing to events (or signing petitions) and being added as listening members of the group.
 * **Notifications**: We've added additional emails to open group organizers, ensuring that they know when they have new group members.
-* *Targeted Broadcasts**:We've updated the way broadcast posts work for admins. Previously, staff could send forum messages to all groups in the collection. Now, staff can also target the message to groups in specific regions, with (or without) specific labels, or groups assigned to specific mentors. This functionality allows organizations to more easily release specific calls to action.
-* **Organizer Announcements**: We've added a new organizer announcement feature, making it easier for staff to communicate with group leaders from within the platform. The new feautre allows organizations to share info with the group leaders only, potentially targeted to the leaders of groups in specific regions. This may be useful for more complicated calls to action or suggestions that shouldn't be shared with the full group. 
+* *Targeted Broadcasts**: We've updated the way broadcast posts work for admins. Previously, staff could send forum messages to all groups in the collection. Now, staff can also target the message to groups in specific regions, with (or without) specific labels, or groups assigned to specific mentors. This functionality allows organizations to more easily release specific calls to action.
+* **Organizer Announcements**: We've added a new organizer announcement feature, making it easier for staff to communicate with group leaders from within the platform. The new feature allows organizations to share info with the group leaders only, potentially targeted to the leaders of groups in specific regions. This may be useful for more complicated calls to action or suggestions that shouldn't be shared with the full group. 
 * **Better Intros**: Group collections now support multiple membership questions, allowing organizers and staff to more easily get to know the people joining groups.
 
 We're so excited to announce all of these changes to groups, and there's more to come! If you're interested in bringing groups functionality to your organization, [get in touch](mailto:talk@controlshiftlabs.com)!
@@ -55,24 +55,15 @@ We're so excited to announce all of these changes to groups, and there's more to
 
 <p style="font-size:14px;">Attributions for Event Images in Screenshots:</p>
 
-<p style="font-size:14px;"><a href="https://unsplash.com/photos/beige-concrete-building-with-two-clocks-under-cloudy-blue-sky-91LFdXy0FA0"> Building Event Image</a> by <a href="https://unsplash.com/@csbphotography">Conor Samuel</a> on <a href="https://unsplash.com/"> Unsplash</a> </p>
+<p style="font-size:14px;"><a href="https://unsplash.com/photos/beige-concrete-building-with-two-clocks-under-cloudy-blue-sky-91LFdXy0FA0"> Building Event Image</a> by <a href="https://unsplash.com/@csbphotography">Conor Samuel</a> on <a href="https://unsplash.com/"> Unsplash</a><br />
 
-<figcaption class="figure-caption" markdown="1">
-["Stage Event Image"](https://unsplash.com/photos/a-crowd-of-people-standing-around-a-stage-fN4WvtRehfs) by [Vivu Vietnam](https://unsplash.com/@bttsg) on [Unsplash](https://unsplash.com/)
-</figcaption>
+<a href="https://unsplash.com/photos/a-crowd-of-people-standing-around-a-stage-fN4WvtRehfs">Stage Event Image</a> by <a href="https://unsplash.com/@bttsg">Vivu Vietnam</a> on <a href="https://unsplash.com/">Unsplash</a><br />
 
-<figcaption class="figure-caption" markdown="1">
-["Fireworks Event Image"](https://unsplash.com/photos/fireworks-over-a-lake-klV99WVcOaI) by [Mario La Pergola](https://unsplash.com/@mlapergolaphoto) on [Unsplash](https://unsplash.com/)
-</figcaption>
+<a href="https://unsplash.com/photos/fireworks-over-a-lake-klV99WVcOaI">Fireworks Event Image</a> by <a href="https://unsplash.com/@mlapergolaphoto">Mario La Pergola</a> on <a href="https://unsplash.com/">Unsplash</a><br />
 
-<figcaption class="figure-caption" markdown="1">
-["Man with Liverpool Flag Event Image"](https://unsplash.com/photos/man-in-black-tank-top-sitting-on-car-hood-during-sunset-bIyzFopbVOg) by [Shaun Donnelly](https://unsplash.com/@shaunyness) on [Unsplash](https://unsplash.com/)
-</figcaption>
+<a href="https://unsplash.com/photos/man-in-black-tank-top-sitting-on-car-hood-during-sunset-bIyzFopbVOg">Man with Liverpool Flag Event Image</a> by <a href="https://unsplash.com/@shaunyness">Shaun Donnelly</a> on <a href="https://unsplash.com/">Unsplash</a><br />
 
-<figcaption class="figure-caption" markdown="1">
-["Seattle Event Image"](https://unsplash.com/photos/high-rise-buildings-near-coastal-area-under-clear-sky-NAXwZWYVJPQ) by [Felipe Galvan](https://unsplash.com/@fng137) on [Unsplash](https://unsplash.com/)
-</figcaption>
+<a href="https://unsplash.com/photos/high-rise-buildings-near-coastal-area-under-clear-sky-NAXwZWYVJPQ">Seattle Event Image</a> by <a href="https://unsplash.com/@fng137">Felipe Galvan</a> on <a href="https://unsplash.com/">Unsplash</a><br />
 
-<figcaption class="figure-caption" markdown="1">
-["Coffee Event Image"](https://unsplash.com/photos/person-filling-glass-container-TYIzeCiZ_60) by [Karl Fredrickson](https://unsplash.com/@kfred) on [Unsplash](https://unsplash.com/)
-</figcaption>
+<a href="https://unsplash.com/photos/person-filling-glass-container-TYIzeCiZ_60">Coffee Event Image</a> by <a href="https://unsplash.com/@kfred">Karl Fredrickson</a> on <a href="https://unsplash.com/">Unsplash</a><br />
+ </p>
