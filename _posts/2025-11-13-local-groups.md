@@ -53,11 +53,9 @@ We're so excited to announce all of these changes to groups, and there's more to
 
 ------
 
-Attributions for Event Images in Screenshots
+<p style="font-size:14px;">Attributions for Event Images in Screenshots:</p>
 
-<figcaption class="figure-caption" markdown="1">
-["Building Event Image"](https://unsplash.com/photos/beige-concrete-building-with-two-clocks-under-cloudy-blue-sky-91LFdXy0FA0) by [Conor Samuel](https://unsplash.com/@csbphotography) on [Unsplash](https://unsplash.com/)
-</figcaption>
+<p style="font-size:14px;"><a href="https://unsplash.com/photos/beige-concrete-building-with-two-clocks-under-cloudy-blue-sky-91LFdXy0FA0"> Building Event Image</a> by <a href="https://unsplash.com/@csbphotography">Conor Samuel</a> on <a href="https://unsplash.com/"> Unsplash</a> </p>
 
 <figcaption class="figure-caption" markdown="1">
 ["Stage Event Image"](https://unsplash.com/photos/a-crowd-of-people-standing-around-a-stage-fN4WvtRehfs) by [Vivu Vietnam](https://unsplash.com/@bttsg) on [Unsplash](https://unsplash.com/)
