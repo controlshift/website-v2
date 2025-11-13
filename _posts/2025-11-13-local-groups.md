@@ -17,17 +17,17 @@ From the beginning, ControlShift has been dedicated to the idea that the organiz
 The most visible set of changes are the redesigned and modernized group pages for members and organizers. We worked with a design firm for user research and design improvements. The new designs are cleaner, more modern, and easier to interact with especially for mobile users.
 
 <figure markdown="1">
-!\[](/img/uploads/local-group-mobile.png){: class="figure-img rounded"}
+![](/img/uploads/local-group-mobile.png){: class="figure-img rounded"}
 
 We also wanted to be sure we were highlighting group's offline actions more effectively. The new designs have dedicated pages showcasing upcoming (and past) events, along with active (and ended) petitions. Ensuring that existing and prospective group members can see the various ways the group is taking action in their community. 
 
 <figure markdown="1">
-!\[](/img/uploads/group-events.png){: class="figure-img rounded"}
+![](/img/uploads/group-events.png){: class="figure-img rounded"}
 
 Maintaining a group's momentum can be difficult, so we wanted to also include encouragement and tips for organizers. In the new designs, organizers will see prompts to create new events, petitions, resource pages, and posts.
 
 <figure markdown="1">
-!\[](/img/uploads/group-prompts.png){: class="figure-img rounded"}
+![](/img/uploads/group-prompts.png){: class="figure-img rounded"}
 
 We've also moved [resources](https://support.controlshiftlabs.com/article/386-members-experience-of-groups#resources) up the page when present. This allows the organizer-created, evergreen pages to be more easily accessible for group members.
 
@@ -50,21 +50,21 @@ We're so excited to announce all of these changes to groups, and there's more to
 Image Attributions:
 
 <figcaption class="figure-caption" markdown="1">
-\["Building Event Image"](https://unsplash.com/photos/beige-concrete-building-with-two-clocks-under-cloudy-blue-sky-91LFdXy0FA0) by \[Conor Samuel](https://unsplash.com/@csbphotography) on \[Unsplash](https://unsplash.com/)
+["Building Event Image"](https://unsplash.com/photos/beige-concrete-building-with-two-clocks-under-cloudy-blue-sky-91LFdXy0FA0) by [Conor Samuel](https://unsplash.com/@csbphotography) on [Unsplash](https://unsplash.com/)
 </figcaption>
 
 <figcaption class="figure-caption" markdown="1">
-\["Stage Event Image"](https://unsplash.com/photos/a-crowd-of-people-standing-around-a-stage-fN4WvtRehfs) by \[Vivu Vietnam](https://unsplash.com/@bttsg) on \[Unsplash](https://unsplash.com/)
-</figcaption>
-
-<figcaption class="figure-caption" markdown="1">\
-\["Fireworks Event Image"](https://unsplash.com/photos/fireworks-over-a-lake-klV99WVcOaI) by \\[Mario La Pergola](https://unsplash.com/@mlapergolaphoto) on \[Unsplash](https://unsplash.com/)
+["Stage Event Image"](https://unsplash.com/photos/a-crowd-of-people-standing-around-a-stage-fN4WvtRehfs) by [Vivu Vietnam](https://unsplash.com/@bttsg) on [Unsplash](https://unsplash.com/)
 </figcaption>
 
 <figcaption class="figure-caption" markdown="1">
-\["Man with Liverpool Flag Event Image"](https://unsplash.com/photos/man-in-black-tank-top-sitting-on-car-hood-during-sunset-bIyzFopbVOg) by \[Shaun Donnelly](https://unsplash.com/@shaunyness) on \[Unsplash](https://unsplash.com/)
+["Fireworks Event Image"](https://unsplash.com/photos/fireworks-over-a-lake-klV99WVcOaI) by [Mario La Pergola](https://unsplash.com/@mlapergolaphoto) on [Unsplash](https://unsplash.com/)
 </figcaption>
 
 <figcaption class="figure-caption" markdown="1">
-\["Seattle Event Image"](https://unsplash.com/photos/high-rise-buildings-near-coastal-area-under-clear-sky-NAXwZWYVJPQ) by \[Felipe Galvan](https://unsplash.com/@fng137) on \[Unsplash](https://unsplash.com/)
+["Man with Liverpool Flag Event Image"](https://unsplash.com/photos/man-in-black-tank-top-sitting-on-car-hood-during-sunset-bIyzFopbVOg) by [Shaun Donnelly](https://unsplash.com/@shaunyness) on [Unsplash](https://unsplash.com/)
+</figcaption>
+
+<figcaption class="figure-caption" markdown="1">
+["Seattle Event Image"](https://unsplash.com/photos/high-rise-buildings-near-coastal-area-under-clear-sky-NAXwZWYVJPQ) by [Felipe Galvan](https://unsplash.com/@fng137) on [Unsplash](https://unsplash.com/)
 </figcaption>
