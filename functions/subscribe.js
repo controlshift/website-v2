@@ -28,11 +28,11 @@ export default async (request, context) => {
           status : 'pending'
         }
       })
-      result = {success: true, message: `Please confirm your email address by clicking on the link sent to ${formObject.email} to complete the subscription to ControlShift mailing list.`};
+      result = {success: true, message: `Please confirm your email address by clicking on the link sent to ${formObject.email} to complete the subscription to the ControlShift mailing list.`};
     } catch(err) {
       const message = err.response.body.detail
       if (message.match(/is already a list member/)) {
-        result = {success: true, message: `Please confirm your email address by clicking on the link sent to ${formObject.email} to complete the subscription to ControlShift mailing list.`};
+        result = {success: true, message: `Please confirm your email address by clicking on the link sent to ${formObject.email} to complete the subscription to the ControlShift mailing list.`};
       } else {
         result = {success: false, message: message};
       }
