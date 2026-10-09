@@ -11,7 +11,7 @@ Great organizing doesn't happen in a single moment. It happens over time as peop
 Events are integral to building that momentum. Whether your organization is coordinating local group meetings, volunteer trainings, campaign events, or any other type of gathering, maintaining a consistent schedule is key to keeping supporters engaged over time.
 
 <figcaption class="figure-caption" markdown="1">
-\[Event Dates](https://unsplash.com/photos/white-and-brown-printer-paper-TEF3woGG3b0) by \[Claudio Schwarz](https://unsplash.com/@purzlbaum) on\[Unsplash](https://unsplash.com/)
+\[Event Dates](https://unsplash.com/photos/white-and-brown-printer-paper-TEF3woGG3b0) by \[Claudio Schwarz](https://unsplash.com/@purzlbaum) on \[Unsplash](https://unsplash.com/)
 </figcaption>
 
 We wanted to make it easier for organizations to create an manage recurring events on ControlShift without having to start from scratch every time. 
@@ -36,13 +36,17 @@ Because these hosts don't have special permissions, the event they submit will s
 
 ![A toggle to make the event recurring ](/img/uploads/screenshot-2026-07-03-at-5.34.51 pm.png "A toggle to make the event recurring ")
 
+<figcaption class="figure-caption">A toggle to make the event recurring</figcaption>
+
 Upon saving their event, we'll create the first batch of their recurring events. We've implemented a batch system for these events to ensure that organizations don't have ghost events where the host is no longer active. Instead, as the initial batch of events comes to an end, hosts will be asked if they want to extend their series by creating additional events.  They'll just need to click a link in an email to confirm we should generate the next batch. 
 
 These recurring events can be particularly useful for groups that hold regular meetings, organizations running ongoing trainings, or campaigns and organizations coordinating an ongoing series of actions like phonebanks.
 
 Recurring events look like other events on the platform, but they include a badge designating them as being part of a recurring event series. Users who click the badge will be brought to the event series page, which lists all upcoming events.
 
-![The recurring series page ](/img/uploads/file-efvzi9oj2w.png "The recurring series page ")
+![The recurring event series page ](/img/uploads/file-efvzi9oj2w.png "The recurring event series page ")
+
+<figcaption class="figure-caption">The recurring event series page </figcaption>
 
 Together we hope that these features make it easier to sustain regular event organizing while also accommodating different levels of organizer permissions. By making it easier to organize events on a regular basis, we hope to help organizations spend less time managing event logistics and more time supporting the people who make their campaigns possible. We're excited to already see these tools powering things like monthly meetings, postcard writing nights, craft circles, and happy hours. 
 
