@@ -1,6 +1,8 @@
 ---
 layout: post
 author: kristy
+featured_image: /img/uploads/claudio-schwarz-tef3wogg3b0-unsplash.jpg
+image: /img/uploads/claudio-schwarz-tef3wogg3b0-unsplash.jpg
 title: "Recurring events are here! "
 date: 2026-10-07T18:12:37.126Z
 ---
