@@ -2,11 +2,15 @@
 layout: post
 author: kristy
 title: "Recurring events are here! "
-date: 2026-06-05T18:12:37.126Z
+date: 2026-10-07T18:12:37.126Z
 ---
 Great organizing doesn't happen in a single moment. It happens over time as people come together, build relationships and community, develop shared skills, and keep showing up for the work.
 
 Events are integral to building that momentum. Whether your organization is coordinating local group meetings, volunteer trainings, campaign events, or any other type of gathering, maintaining a consistent schedule is key to keeping supporters engaged over time.
+
+<figcaption class="figure-caption" markdown="1">
+\[Event Dates](https://unsplash.com/photos/white-and-brown-printer-paper-TEF3woGG3b0) by \[Claudio Schwarz](https://unsplash.com/@purzlbaum) on\[Unsplash](https://unsplash.com/)
+</figcaption>
 
 We wanted to make it easier for organizations to create an manage recurring events on ControlShift without having to start from scratch every time. 
 
