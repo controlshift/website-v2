@@ -9,13 +9,13 @@ Supporters can't take action if they can't find the campaign. We've rolled out v
 
 ## Better search results
 
-Better search means not only showing users petitions that match their keywords, but also accounting for the most active campaigns. To ensure that we're showing users the most currently relevant campaigns, we've released a new **activity score** metric. The activity score uses things like: how many signatures the petition has received in the last day, how recently the petition was updated, when the last blast email was sent to supporters, etc.
+Better search means not only showing users petitions that match their keywords, but also accounting for the most active campaigns. **To ensure that we're showing users the most currently relevant campaigns, we've released a new activity score metric.** The activity score uses things like: how many signatures the petition has received in the last day, how recently the petition was updated, when the last blast email was sent to supporters, etc.
 
 The new score means that people will automatically see current campaigns that are actively engaging supporters higher in their search results, rather than having to work through results that may be older and less relevant.
 
 ## Redesigned search page
 
-We’ve also refreshed and redesigned the search results page. The new page is more modern and includes **a new category filter along with prompts** **for users to take additional action.**
+We’ve also refreshed and redesigned the search results page. **The new page is more modern and includes a new category filter along with prompts for users to take additional action.**
 
 ![Updated search page](/img/uploads/search-page.png "Updated search page ")
 
@@ -39,13 +39,13 @@ The new styling of the search results petition cards also include category infor
 
 We'll also be adding highlighting to matching text so that the user knows exactly why a petition is included in the search results.
 
-These improvements are designed to make the search process more effective, ensuring that your supporters can easily find the campaigns they're looking.
+These improvements are designed to make the search process more effective, ensuring that your supporters can easily find the campaigns they're searching for.
 
 ## Local campaigns now on the local organizing map
 
 Location can be an important part of how people decide to get involved. Someone looking for a local issue or an opportunity to make a difference in their community needs a way to discover campaigns connected to the places that matter to them.
 
-We’ve **expanded the local organizing map to include petitions**, allowing users to see all of their local petitions, events, and groups in one place. Petitions will be added to the map if they have a specific location, have been moderated to good, and have an activity score (calculated based on the recent activity score, including activity like how recently the petition was updated, when the last blast email was sent to supporters, etc.) or have been promoted by admins. The activity score decays over time, so outdated, inactive campaigns will be automatically removed from the map.
+**We’ve expanded the local organizing map to include petitions, allowing users to see all of their local petitions, events, and groups in one place.** Petitions will be added to the map if they have a specific location, have been moderated to good or above, and either have an activity score (calculated based on recent actions, like how recently the petition was updated, when the last blast email was sent to supporters, etc.) or have been promoted by admins. The activity score decays over time, so outdated, inactive campaigns will be automatically removed from the map.
 
 By adding petitions to the local organizing map, organizations will also have access to the various filters already available on that page (including filtering content by labels and regions). Organizations will also be able to embed maps with petitions on external sites.
 
