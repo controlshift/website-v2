@@ -1,11 +1,12 @@
 ---
 layout: post
+author: kristy
 featured_image: /img/uploads/map-with-petitions.png
-image: ""
+image: /img/uploads/map-with-petitions.png
 title: Improved Petition Searches
 date: 2026-10-27T17:28:49.866Z
 ---
-Supporters can't take action if they can't find the campaign. We've rolled out various updates to petition searches – making it easier for supporters to connect with the campaigns that matter most to them.
+Supporters can't take action if they can't find the campaign they're looking for. To improve the experience, we've rolled out various updates to petition searches – making it easier for supporters to connect with the campaigns that matter most to them.
 
 ## Better search results
 
@@ -15,27 +16,24 @@ The new score means that people will automatically see current campaigns that ar
 
 ## Redesigned search page
 
-We’ve also refreshed and redesigned the search results page. **The new page is more modern and includes a new category filter along with prompts for users to take additional action.**
+We’ve also refreshed and redesigned the search results page. **The new page has a more modern UI and includes a new category filter along with prompts for users to take additional action.**
 
 ![Updated search page](/img/uploads/search-page.png "Updated search page ")
 
 <figcaption class="figure-caption" markdown="1">
 Updated petition search results page
 </figcaption>
-
 <figcaption class="figure-caption" markdown="1">
 [Whale tale](https://unsplash.com/photos/humpback-whale-tail-breaching-ocean-9JrBiphz0e0) by [Abigail Lynn](https://unsplash.com/@shmabbss) on [Unsplash](https://unsplash.com/)
 </figcaption>
-
 <figcaption class="figure-caption" markdown="1">
 [Humpback whale fluke](https://unsplash.com/photos/whales-tale-on-water-kkXDhAUnxYI) by [Thomas Lipke](https://unsplash.com/@t_lipke) on [Unsplash](https://unsplash.com/)
 </figcaption>
-
 <figcaption class="figure-caption" markdown="1">
-[Ocean photo "meereswellen unter blauem himmel"](https://unsplash.com/de/fotos/meereswellen-unter-blauem-himmel-opwMTM5aMSA) by [Aaron Huber](https://unsplash.com/de/@aahubs) on [Unsplash](https://unsplash.com/)
+[Ocean photo "Meereswellen unter blauem Himmel"](https://unsplash.com/de/fotos/meereswellen-unter-blauem-himmel-opwMTM5aMSA) by [Aaron Huber](https://unsplash.com/de/@aahubs) on [Unsplash](https://unsplash.com/)
 </figcaption>
 
-The new styling of the search results petition cards also include category information to make it easier for users to find the campaigns they're looking for. The most active petitions will be tagged with a trending pin to highlight them further.
+We've added category information to the updated petition cards to make it easier for users to find the campaigns they're looking for. The most active petitions will be tagged with a trending badge to highlight them further.
 
 We'll also be adding highlighting to matching text so that the user knows exactly why a petition is included in the search results.
 
