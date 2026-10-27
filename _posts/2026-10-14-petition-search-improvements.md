@@ -1,5 +1,7 @@
 ---
 layout: post
+featured_image: /img/uploads/map-with-petitions.png
+image: ""
 title: Improved Petition Searches
 date: 2026-10-27T17:28:49.866Z
 ---
