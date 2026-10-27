@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Petition search improvements
-date: 2026-10-13T20:28:44.594Z
+date: 2026-10-27T17:28:49.866Z
 ---
 Your supporters can't take action if they can't find the campaign. We've rolled out various updates to petition searches – making it easier for your supporters to connect with the campaigns that matter most to them.
 
@@ -36,3 +36,19 @@ By adding petitions to the local organizing map, we're providing another way for
 ## Helping more people take action
 
 We're excited to announce these updates to searching on ControlShift. By making it easier to find campaigns, we're making it easier for supporters to get involved in your important work.
+
+
+
+**Image credits on search page screenshot:**
+
+<figcaption class="figure-caption" markdown="1">
+\[Whale tale](https://unsplash.com/photos/humpback-whale-tail-breaching-ocean-9JrBiphz0e0) by \[Abigail Lynn](https://unsplash.com/@shmabbss) on \[Unsplash](https://unsplash.com/)
+</figcaption>
+
+<figcaption class="figure-caption" markdown="1">
+\[Humpback whale fluke]https://unsplash.com/photos/whales-tale-on-water-kkXDhAUnxYI) by \[Thomas Lipke](https://unsplash.com/@t_lipke) on \[Unsplash](https://unsplash.com/)
+</figcaption>
+
+<figcaption class="figure-caption" markdown="1">
+\[Ocean photo "meereswellen unter blauem himmel"](https://unsplash.com/de/fotos/meereswellen-unter-blauem-himmel-opwMTM5aMSA) by \[Aaron Huber]https://unsplash.com/de/@aahubs) on \[Unsplash](https://unsplash.com/)
+</figcaption>
