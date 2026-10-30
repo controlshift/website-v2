@@ -24,18 +24,18 @@ We’ve also refreshed and redesigned the search results page. **The new page ha
 Updated petition search results page
 </figcaption>
 <figcaption class="figure-caption" markdown="1">
-[Whale tale](https://unsplash.com/photos/humpback-whale-tail-breaching-ocean-9JrBiphz0e0) by [Abigail Lynn](https://unsplash.com/@shmabbss) on [Unsplash](https://unsplash.com/)
+\[Whale tale](https://unsplash.com/photos/humpback-whale-tail-breaching-ocean-9JrBiphz0e0) by \[Abigail Lynn](https://unsplash.com/@shmabbss) on \[Unsplash](https://unsplash.com/)
 </figcaption>
 <figcaption class="figure-caption" markdown="1">
-[Humpback whale fluke](https://unsplash.com/photos/whales-tale-on-water-kkXDhAUnxYI) by [Thomas Lipke](https://unsplash.com/@t_lipke) on [Unsplash](https://unsplash.com/)
+\[Humpback whale fluke](https://unsplash.com/photos/whales-tale-on-water-kkXDhAUnxYI) by \[Thomas Lipke](https://unsplash.com/@t_lipke) on \[Unsplash](https://unsplash.com/)
 </figcaption>
 <figcaption class="figure-caption" markdown="1">
-[Ocean photo "Meereswellen unter blauem Himmel"](https://unsplash.com/de/fotos/meereswellen-unter-blauem-himmel-opwMTM5aMSA) by [Aaron Huber](https://unsplash.com/de/@aahubs) on [Unsplash](https://unsplash.com/)
+\[Ocean photo "Meereswellen unter blauem Himmel"](https://unsplash.com/de/fotos/meereswellen-unter-blauem-himmel-opwMTM5aMSA) by \[Aaron Huber](https://unsplash.com/de/@aahubs) on \[Unsplash](https://unsplash.com/)
 </figcaption>
 
 We've added category information to the updated petition cards to make it easier for users to find the campaigns they're looking for. The most active petitions will be tagged with a trending badge to highlight them further.
 
-We'll also be adding highlighting to matching text so that the user knows exactly why a petition is included in the search results.
+We've also added highlighting to matching text so that the user knows exactly why a petition is included in the search results.
 
 These improvements are designed to make the search process more effective, ensuring that your supporters can easily find the campaigns they're searching for.
 
