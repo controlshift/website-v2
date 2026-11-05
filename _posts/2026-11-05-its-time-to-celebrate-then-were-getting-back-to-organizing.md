@@ -6,12 +6,12 @@ image: /img/uploads/black-lives-matter-stockholm.jpg
 title: It's time to celebrate! Then we're getting back to organizing
 date: 2026-11-03T18:14:49.456Z
 ---
-It’s election season – with exciting wins in Brazil and Serbia last, a Democratic wave in the US midterms, and elections in New Zealand later this week, many of our organizations have been highly focused on mobilizing voters. **While we await the final counts, here at ControlShift, we’re also thinking: what’s next?** 
+It’s election season – with exciting wins in Brazil and Serbia, a Democratic wave in the US midterms, and elections in New Zealand later this week, many of our organizations have been highly focused on mobilizing voters. **While we await the final counts, here at ControlShift, we’re also thinking: what’s next?** 
 
 Regardless of where they’re happening, elections are always huge mobilization moments with new and less-engaged supporters entering the fray. Your existing supporters get an additional jolt of organizing energy as they countdown to election day. The challenge for organizers is what comes next. How do you keep your supporters engaged when the immediacy of an election is over? How do you turn that surge of participation into a lasting movement? 
 
 <figcaption class="figure-caption" markdown="1">
-[#BlackLivesMatter protest in Stockholm, Sweden](https://unsplash.com/photos/grayscale-photo-of-city-buildings-rd5uNIUJCF0) by[Teemu Paananen](https://unsplash.com/@xteemu) on [Unsplash](https://unsplash.com/)
+[#BlackLivesMatter protest in Stockholm, Sweden](https://unsplash.com/photos/grayscale-photo-of-city-buildings-rd5uNIUJCF0) by [Teemu Paananen](https://unsplash.com/@xteemu) on [Unsplash](https://unsplash.com/)
 </figcaption>
 
 Even for those who are not currently in election mode, planning how to organize beyond the conclusion of a major organizing moment or campaign milestone is important. 
