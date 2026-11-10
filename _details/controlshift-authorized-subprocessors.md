@@ -28,6 +28,25 @@ ChangeSprout has two categories of authorized Subprocessors of personal data. Su
       410 Terry Avenue North,<br>Seattle, WA 98109<br>United States of America
       </td>
     </tr>
+
+ <tr><td style="width: 32%;"><a href="https://betterstack.com/"><b>Better Stack Inc.</b></a></td>
+      <td style="width: 32%;">
+Log Management      </td>
+      <td style="width: 35%;">
+      651 N Broad Street, Suite 206 <br> Middletown, DE 19709 <br> United States
+      </td>
+    </tr>
+    <tr>
+      <td style="width: 32%;"><a href="https://www.cloudflare.com/"><b>Cloudflare, Inc.</b></a></td>
+      <td style="width: 32%;">
+        DDOS/Bot Protection and CDN
+      </td>
+      <td style="width: 36%;">
+          101 Townsend Street<br>
+          San Francisco, CA 94107<br>
+          United States of America
+      </td>
+    </tr>
     <tr>
       <td style="width: 32%;"><a href="https://www.cloudflare.com/"><b>Cloudflare, Inc.</b></a></td>
       <td style="width: 32%;">
@@ -58,16 +77,6 @@ ChangeSprout has two categories of authorized Subprocessors of personal data. Su
       <td style="width: 36%;">1801 California Street, Suite 500, <br>Denver, CO 80202<br>United States of America</td>
     </tr>
     <tr>
-      <td style="width: 32%;"><a href="https://papertrailapp.com/"><b>Papertrail (SolarWinds Worldwide LLC)</b></a> </td>
-      <td style="width: 32%;">
-        Log Management
-      </td>
-      <td style="width: 36%;"> 7171 Southwest Parkway, Building 400<br>
-          Austin, TX 78735<br>
-          United States of America
-      </td>
-    </tr>
-    <tr>
       <td style="width: 32%;">
         <a href="https://rollbar.com/"><b>Rollbar Inc.</b></a>
       </td>
@@ -94,6 +103,14 @@ ChangeSprout has two categories of authorized Subprocessors of personal data. Su
     </tr>
   </thead>
   <tbody>
+
+<tr>
+      <td style="width: 32%;"><a href="https://www.anthropic.com/"><b>Anthropic PBC</b></a><b>*</b></td>
+      <td style="width: 32%;">AI Services<b>*</b></td>
+      <td style="width: 36%;">
+         548 Market Street <br> PMB 90375 <br>San Francisco, CA 94104 <br> United States 
+      </td>
+    </tr>
     <tr>
       <td style="width: 32%;"><a href="https://gsuite.google.com/"><b>Google Inc.</b></a><b>*</b></td>
       <td style="width: 32%;">G Suite<b>*</b></td>
