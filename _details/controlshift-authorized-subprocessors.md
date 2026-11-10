@@ -48,17 +48,6 @@ Log Management      </td>
       </td>
     </tr>
     <tr>
-      <td style="width: 32%;"><a href="https://www.cloudflare.com/"><b>Cloudflare, Inc.</b></a></td>
-      <td style="width: 32%;">
-        DDOS/Bot Protection and CDN
-      </td>
-      <td style="width: 36%;">
-          101 Townsend Street<br>
-          San Francisco, CA 94107<br>
-          United States of America
-      </td>
-    </tr>
-    <tr>
       <td style="width: 32%;"><a href="https://www.elastic.co/"><b>Elasticsearch, Inc.</b></a></td>
       <td style="width: 32%;">
         Search Infrastructure Provider
@@ -105,8 +94,8 @@ Log Management      </td>
   <tbody>
 
 <tr>
-      <td style="width: 32%;"><a href="https://www.anthropic.com/"><b>Anthropic PBC</b></a><b>*</b></td>
-      <td style="width: 32%;">AI Services<b>*</b></td>
+      <td style="width: 32%;"><a href="https://www.anthropic.com/"><b>Anthropic PBC</b></a></td>
+      <td style="width: 32%;">AI Services</td>
       <td style="width: 36%;">
          548 Market Street <br> PMB 90375 <br>San Francisco, CA 94104 <br> United States 
       </td>
