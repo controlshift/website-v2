@@ -1,8 +1,8 @@
 ---
 layout: post
 author: Kristy
-featured_image: img/uploads/neon-arrow.png
-image: img/uploads/neon-arrow.png
+featured_image: /img/uploads/neon-arrow.png
+image: /img/uploads/neon-arrow.png
 title: Don't Guess. Test!
 date: 2026-11-10T19:54:02.099Z
 ---
