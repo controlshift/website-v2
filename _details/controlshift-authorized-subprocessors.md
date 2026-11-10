@@ -33,7 +33,7 @@ ChangeSprout has two categories of authorized Subprocessors of personal data. Su
       <td style="width: 32%;">
 Log Management      </td>
       <td style="width: 35%;">
-      651 N Broad Street, Suite 206 <br> Middletown, DE 19709 <br> United States
+      651 N Broad Street, Suite 206 <br> Middletown, DE 19709 <br> United States of America
       </td>
     </tr>
     <tr>
@@ -97,7 +97,7 @@ Log Management      </td>
       <td style="width: 32%;"><a href="https://www.anthropic.com/"><b>Anthropic PBC</b></a></td>
       <td style="width: 32%;">AI Services</td>
       <td style="width: 36%;">
-         548 Market Street <br> PMB 90375 <br>San Francisco, CA 94104 <br> United States 
+         548 Market Street <br> PMB 90375 <br>San Francisco, CA 94104 <br> United States of America
       </td>
     </tr>
     <tr>
@@ -121,7 +121,7 @@ Log Management      </td>
           68 Harrison Ave #605<br>
           PMB 78505<br>
           Boston, MA 02111<br>
-          United States
+          United States of America
         
       </td>
     </tr>
