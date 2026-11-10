@@ -1,6 +1,6 @@
 ---
 layout: post
-author: Kristy
+author: kristy
 featured_image: /img/uploads/neon-arrow.png
 image: /img/uploads/neon-arrow.png
 title: Don't Guess. Test!
